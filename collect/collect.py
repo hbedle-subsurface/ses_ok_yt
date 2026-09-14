@@ -203,7 +203,7 @@ def counties_from_news(cfg, problems):
     return ranked[:src.get('max_from_feed', 120)]
 
 
-def build_searches(cfg, places, cursor):
+def build_searches(cfg, places, cursor, skip_statewide=False):
     """Two tiers.
 
     Statewide searches run every week for every technology, so anything
@@ -215,9 +215,10 @@ def build_searches(cfg, places, cursor):
     where the last one stopped. A full cycle takes a few months and runs
     in the background."""
     statewide = []
-    for topic in cfg['topics']:
-        for phrase in topic.get('statewide', []):
-            statewide.append({'topic': topic['id'], 'county': '', 'q': phrase})
+    if not skip_statewide:
+        for topic in cfg['topics']:
+            for phrase in topic.get('statewide', []):
+                statewide.append({'topic': topic['id'], 'county': '', 'q': phrase})
 
     # A topic may name its own places. Hydropower is a Grand Lake story and
     # the earthquakes are in the belt north of Oklahoma City, so sweeping
@@ -235,8 +236,11 @@ def build_searches(cfg, places, cursor):
                           'q': tmpl.replace('{county}', bare)
                                    .replace('{place}', bare)})
 
-    block = min(cfg.get('county_block', 45),
-                max(0, cfg.get('searches_per_run', 85) - len(statewide)))
+    cap = (cfg.get('searches_per_run_sweep', 95) if skip_statewide
+           else cfg.get('searches_per_run', 85))
+    block = min(cfg.get('county_block_sweep', 95) if skip_statewide
+                else cfg.get('county_block', 45),
+                max(0, cap - len(statewide)))
     if not pairs or block <= 0:
         return statewide, cursor
     start = cursor % len(pairs)
@@ -421,6 +425,9 @@ def main():
     ap.add_argument('--days', type=int, default=0)
     ap.add_argument('--topics', default='')
     ap.add_argument('--per-search', type=int, default=25)
+    ap.add_argument('--no-statewide', action='store_true',
+                    help='skip the statewide searches and spend the whole budget on '
+                         'the place sweep; used on the extra days of the week')
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
 
@@ -459,13 +466,14 @@ def main():
 
     runs = load_json(RUNS, {'runs': [], 'cursor': 0})
     cursor = runs.get('cursor', 0)
-    searches, next_cursor = build_searches(cfg, places, cursor)
+    searches, next_cursor = build_searches(cfg, places, cursor, args.no_statewide)
 
     pair_total = sum(len(t['places']) if t.get('places') else len(places)
                      for t in cfg['topics'] if t.get('county_template'))
     done = (cursor % pair_total) if pair_total else 0
-    print('%d counties and %d towns, %d technologies, %d searches this run'
-          % (len(counties), len(cities), len(cfg['topics']), len(searches)))
+    print('%d counties and %d towns, %d technologies, %d searches this run%s'
+          % (len(counties), len(cities), len(cfg['topics']), len(searches),
+             ' (sweep only, no statewide)' if args.no_statewide else ''))
     if pair_total:
         print('sweep at %d of %d place-technology pairs (%d%% of a cycle)'
               % (done, pair_total, round(100 * done / pair_total)))

@@ -35,7 +35,7 @@ datacenter_yt runs Thursdays.
 `codebook.json` is deliberately identical in both, so the two exports carry the same
 columns and can be stacked in a spreadsheet and compared directly. Keep them in sync.
 
-Live at **https://hbedle-subsurface.github.io/ses_ok_yt/**
+Live at **https://hbedle-subsurface.github.io/elsa_yt/**
 
 ---
 
@@ -145,8 +145,16 @@ roughly 100 searches a day. So there are **two tiers**:
 moratorium", "Oklahoma wind turbine moratorium", "Oklahoma CO2 pipeline eminent domain"
 and so on. Anything that makes the state news is caught within a week.
 
-**Place by place, on rotation.** 662 place-and-technology combinations. Each run takes the
-next 48 and picks up where the last one stopped, so a full cycle is about twelve weeks.
+**Place by place, on rotation.** 662 place-and-technology combinations, worked through
+about 428 a week.
+
+This one runs **five days a week, Wednesday through Sunday** — elsa_yt has Mondays and
+datacenter_yt has Tuesdays, so nothing competes for the quota on those days. Wednesday
+runs the statewide searches plus a 48-place block. Thursday to Sunday skip the statewide
+searches, which would only repeat the same results, and spend the whole 95-search budget
+on the sweep. A full cycle takes about a week and a half rather than twelve weeks.
+
+The position is kept in `data/runs.json` and printed at the top of every run.
 
 **Not every topic sweeps every place.** A topic can carry its own `places` list.
 Hydropower is a Grand Lake story, so it sweeps twelve places around it. Disposal wells and

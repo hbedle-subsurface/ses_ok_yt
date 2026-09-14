@@ -569,5 +569,18 @@
   "places for them would spend most of the budget asking counties with no",
   "dam and no disposal wells. Leave places out and the topic sweeps",
   "everywhere, which is right for transmission because lines cross the state."
+ ],
+ "county_block_sweep": 95,
+ "searches_per_run_sweep": 95,
+ "_schedule_comment": [
+  "Runs five days a week, Wednesday through Sunday. Nothing else touches the",
+  "YouTube quota on those days: elsa_yt has Monday and datacenter_yt Tuesday.",
+  "",
+  "Wednesday runs the statewide searches plus a 48-place block. Thursday",
+  "through Sunday skip the statewide searches, which would only repeat the",
+  "same results, and spend the whole 95-search budget on the sweep instead.",
+  "",
+  "That is 48 + 4x95 = 428 place-technology pairs a week against 662 in a",
+  "full cycle, so a cycle takes about a week and a half rather than twelve."
  ]
 }
