@@ -1,1 +1,34 @@
-{"updated":null,"tracked":0,"videos":[]}
+{
+ "updated": "2026-09-14T01:39:37+00:00",
+ "tracked": 1,
+ "videos": [
+  {
+   "id": "34qfiPwQ0qE",
+   "title": "North Fork Solar | Recurrent Energy",
+   "channel": "Recurrent Energy",
+   "published": "2025-11-26",
+   "url": "https://www.youtube.com/watch?v=34qfiPwQ0qE",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Kiowa County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kiowa County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-14",
+   "comments": 0
+  }
+ ]
+}
