@@ -1,1 +1,47 @@
-{"runs":[],"cursor":0}
+{
+ "runs": [
+  {
+   "when": "2026-09-14T01:49:57+00:00",
+   "searches": 85,
+   "counties": 77,
+   "sweep_position": 48,
+   "sweep_total": 662,
+   "videos_seen": 27,
+   "videos_rejected": 21,
+   "new_videos": 6,
+   "tracked_videos": 6,
+   "new_comments": 36,
+   "refreshed_comments": 0,
+   "expired_comments": 0,
+   "total_comments": 36,
+   "problems": [
+    "search \"Oklahoma solar farm county opposition\" — 429 rateLimitExceeded",
+    "search \"Oklahoma solar farm moratorium\" — 429 rateLimitExceeded",
+    "search \"Oklahoma solar project zoning hearing\" — 429 rateLimitExceeded",
+    "search \"Oklahoma wind farm opposition county\" — 429 rateLimitExceeded",
+    "search \"Oklahoma wind turbine moratorium\" — 429 rateLimitExceeded",
+    "search \"Oklahoma wind farm setback hearing\" — 429 rateLimitExceeded",
+    "search \"Oklahoma wind turbine decommissioning landowners\" — 429 rateLimitExceeded",
+    "search \"Oklahoma battery storage opposition\" — 429 rateLimitExceeded",
+    "search \"Oklahoma BESS fire county meeting\" — 429 rateLimitExceeded",
+    "search \"Oklahoma carbon capture landowners opposition\" — 429 rateLimitExceeded",
+    "search \"Oklahoma CO2 pipeline eminent domain\" — 429 rateLimitExceeded",
+    "search \"Oklahoma carbon sequestration injection county\" — 429 rateLimitExceeded",
+    "search \"Oklahoma Class VI injection well carbon\" — 429 rateLimitExceeded",
+    "search \"Oklahoma pore space carbon storage\" — 429 rateLimitExceeded",
+    "search \"Oklahoma nuclear power plant proposal\" — 429 rateLimitExceeded",
+    "search \"Oklahoma small modular reactor SMR\" — 429 rateLimitExceeded",
+    "search \"Oklahoma hydrogen plant opposition\" — 429 rateLimitExceeded",
+    "search \"Oklahoma hydrogen hub county\" — 429 rateLimitExceeded",
+    "search \"agrivoltaics farmers Oklahoma\" — 429 rateLimitExceeded",
+    "search \"solar grazing sheep Oklahoma\" — 429 rateLimitExceeded",
+    "search \"floating solar reservoir Oklahoma\" — 429 rateLimitExceeded",
+    "search \"solar canal irrigation district\" — 429 rateLimitExceeded",
+    "search \"Pensacola Dam relicensing flooding\" — 429 rateLimitExceeded",
+    "search \"Grand River Dam Authority GRDA landowners\" — 429 rateLimitExceeded",
+    "search \"Oklahoma dam flooding easements FERC\" — 429 rateLimitExceeded"
+   ]
+  }
+ ],
+ "cursor": 48
+}

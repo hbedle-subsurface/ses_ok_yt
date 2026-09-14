@@ -1,1 +1,158 @@
-{"updated":null,"tracked":0,"videos":[]}
+{
+ "updated": "2026-09-14T01:49:57+00:00",
+ "tracked": 6,
+ "videos": [
+  {
+   "id": "o3wjYk1h7Po",
+   "title": "Oklahoma could land $50 billion nuclear campus in energy push: Why history raises concerns",
+   "channel": "KOCO 5 News",
+   "published": "2026-07-28",
+   "url": "https://www.youtube.com/watch?v=o3wjYk1h7Po",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-14",
+   "comments": 12
+  },
+  {
+   "id": "1v4iSRt5mTE",
+   "title": "Study shows nuclear energy in Oklahoma is feasible, but it won&#39;t be cheap or easy",
+   "channel": "KOCO 5 News",
+   "published": "2026-04-06",
+   "url": "https://www.youtube.com/watch?v=1v4iSRt5mTE",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-14",
+   "comments": 6
+  },
+  {
+   "id": "cPMB-tDSvEA",
+   "title": "What Oklahoma&#39;s Nuclear Campus Could Mean | News 9 Q&amp;A",
+   "channel": "Oklahoma's Own",
+   "published": "2026-07-29",
+   "url": "https://www.youtube.com/watch?v=cPMB-tDSvEA",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-14",
+   "comments": 5
+  },
+  {
+   "id": "9es9Qf6vGtg",
+   "title": "Is Nuclear Energy Coming to Oklahoma?",
+   "channel": "Oklahoma's Own",
+   "published": "2026-07-28",
+   "url": "https://www.youtube.com/watch?v=9es9Qf6vGtg",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-14",
+   "comments": 1
+  },
+  {
+   "id": "_vCMwq5aEns",
+   "title": "Oklahoma Picked as Finalist for Multi-Billion Dollar DOE Nuclear Campus",
+   "channel": "Oklahoma's Own",
+   "published": "2026-07-28",
+   "url": "https://www.youtube.com/watch?v=_vCMwq5aEns",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-14",
+   "comments": 8
+  },
+  {
+   "id": "bE6i9Rbu97g",
+   "title": "Oklahoma Power Bills: GRDA Data Center Deals Exposed! #shorts",
+   "channel": "Guerrilla Audits",
+   "published": "2026-01-18",
+   "url": "https://www.youtube.com/watch?v=bE6i9Rbu97g",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-14",
+   "comments": 4
+  }
+ ]
+}
