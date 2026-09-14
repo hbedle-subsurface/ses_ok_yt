@@ -8,34 +8,7 @@ nuclear, hydrogen, hydropower and dams, transmission lines, disposal wells and
 earthquakes, geothermal, biogas and digesters**, plus agrivoltaics and solar on canals and
 reservoirs. The left rail filters by any of them.
 
-Three of those are there for reasons particular to Oklahoma.
-
-**Hydropower** is the Pensacola Dam. FERC found the dam responsible for chronic flooding
-in Miami and ordered GRDA to buy the land it floods; GRDA appealed to the D.C. Circuit.
-The city and 456 property owners are in civil litigation, four tribal nations have filed
-in the relicensing, and a 2019 act of Congress limited FERC's authority over this one dam
-specifically. Decades of public response, tribal sovereignty and easement law in a single
-case.
-
-**Disposal wells and earthquakes** is the comparison case where opposition won. The
-2009–2016 swarm, sustained public pressure, and regulation that actually changed. It also
-shares its mechanism with carbon capture, so the two can be read against each other.
-
-**Transmission lines** are where eminent domain bites, and where solar and wind fights
-often end up. Oklahoma already lived through Plains & Eastern Clean Line.
-
-Data centers live in a companion repository, **datacenter_yt** — a data center is demand
-rather than generation, and on its own it sweeps every Oklahoma place in under two weeks
-instead of thirteen.
-
-**The two share one API key, so they must not run on the same day.** The YouTube quota
-belongs to the Google Cloud project rather than the repository. This one runs Mondays,
-datacenter_yt runs Thursdays.
-
-`codebook.json` is deliberately identical in both, so the two exports carry the same
-columns and can be stacked in a spreadsheet and compared directly. Keep them in sync.
-
-Live at **https://hbedle-subsurface.github.io/elsa_yt/**
+Live at **https://hbedle-subsurface.github.io/ses_ok_yt/**
 
 ---
 
