@@ -35,7 +35,7 @@ datacenter_yt runs Thursdays.
 `codebook.json` is deliberately identical in both, so the two exports carry the same
 columns and can be stacked in a spreadsheet and compared directly. Keep them in sync.
 
-Live at **https://hbedle-subsurface.github.io/elsa_yt/**
+Live at **https://hbedle-subsurface.github.io/ses_ok_yt/**
 
 ---
 
