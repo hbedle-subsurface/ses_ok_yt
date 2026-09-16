@@ -1,7 +1,33 @@
 {
- "updated": "2026-09-14T12:25:58+00:00",
- "tracked": 116,
+ "updated": "2026-09-16T17:39:26+00:00",
+ "tracked": 143,
  "videos": [
+  {
+   "id": "9_JoA-AflTw",
+   "title": "Dearborn County Approaches End of Solar Farm Moratorium with New Rules",
+   "channel": "WCPO 9",
+   "published": "2026-09-15",
+   "url": "https://www.youtube.com/watch?v=9_JoA-AflTw",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Dearborn County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 9,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
   {
    "id": "e6_izAR95ic",
    "title": "Wagoner County commissioners deny zoning for 4500-acre solar farm near Porter",
@@ -27,6 +53,11 @@
    "elsewhere": false,
    "found_by": [
     "Bixby",
+    "Catoosa",
+    "Claremore",
+    "Coweta",
+    "Glenpool",
+    "Inola",
     "Jenks",
     "McIntosh County",
     "Muskogee",
@@ -36,8 +67,10 @@
     "Osage County",
     "Owasso",
     "Rogers County",
+    "Sapulpa",
     "Tulsa",
     "Tulsa County",
+    "Wagoner",
     "Wagoner County"
    ],
    "score": 9,
@@ -69,6 +102,11 @@
    "elsewhere": false,
    "found_by": [
     "Bixby",
+    "Catoosa",
+    "Claremore",
+    "Coweta",
+    "Glenpool",
+    "Inola",
     "Jenks",
     "McIntosh County",
     "Muskogee",
@@ -77,8 +115,10 @@
     "Osage County",
     "Owasso",
     "Rogers County",
+    "Sapulpa",
     "Tulsa",
     "Tulsa County",
+    "Wagoner",
     "Wagoner County"
    ],
    "score": 9,
@@ -110,6 +150,11 @@
    "elsewhere": false,
    "found_by": [
     "Bixby",
+    "Catoosa",
+    "Claremore",
+    "Coweta",
+    "Glenpool",
+    "Inola",
     "Jenks",
     "McIntosh County",
     "Muskogee",
@@ -118,8 +163,10 @@
     "Osage County",
     "Owasso",
     "Rogers County",
+    "Sapulpa",
     "Tulsa",
     "Tulsa County",
+    "Wagoner",
     "Wagoner County"
    ],
    "score": 9,
@@ -190,6 +237,34 @@
    "comments": 1
   },
   {
+   "id": "M2Szak74zts",
+   "title": "Fannin Co. residents urge commissioners to take action against wind turbines",
+   "channel": "KXII 12 | Texoma Turns To Us",
+   "published": "2024-04-10",
+   "url": "https://www.youtube.com/watch?v=M2Szak74zts",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Fannin County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bryan County",
+    "Carter County",
+    "Choctaw County"
+   ],
+   "score": 9,
+   "first_seen": "2026-09-16",
+   "comments": 1
+  },
+  {
    "id": "P-pERrMohOo",
    "title": "&#39;Tired of being taken advantage of&#39; Officials voice support for wind farm moratorium",
    "channel": "KOKH - FOX 25",
@@ -238,6 +313,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Del City",
     "Edmond",
     "Norman",
     "Oklahoma City",
@@ -276,6 +352,35 @@
    "comments": 0
   },
   {
+   "id": "X7chBhlonhA",
+   "title": "Oklahoma Lincoln County Town Hall Meeting February 19, 2026- NO WIND TURBINES",
+   "channel": "LCCA Warriors",
+   "published": "2026-02-24",
+   "url": "https://www.youtube.com/watch?v=X7chBhlonhA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Lincoln County"
+   ],
+   "states": [
+    "Iowa",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cleveland County"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
    "id": "xPPiNpm8Hzo",
    "title": "&#39;Nobody knew what was coming&#39;: Council Hill residents upset with solar project",
    "channel": "KJRH -TV | Tulsa | Channel 2",
@@ -295,10 +400,37 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Pryor",
     "Tulsa"
    ],
    "score": 8,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "_4F7rkh67f0",
+   "title": "Crawford County residents discuss controversial annexation for solar farm",
+   "channel": "KOAM News Now",
+   "published": "2025-11-14",
+   "url": "https://www.youtube.com/watch?v=_4F7rkh67f0",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Crawford County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-16",
    "comments": 0
   },
   {
@@ -448,6 +580,31 @@
    "comments": 18
   },
   {
+   "id": "KdjUqaH5QZg",
+   "title": "Residents protest 1,900-acre solar farm proposal in Ottawa County",
+   "channel": "13 ON YOUR SIDE",
+   "published": "2026-09-11",
+   "url": "https://www.youtube.com/watch?v=KdjUqaH5QZg",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Ottawa County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-16",
+   "comments": 24
+  },
+  {
    "id": "k0Jr7ayAy2I",
    "title": "Raw drone footage over Oklahoma tornado damage",
    "channel": "KOKH - FOX 25",
@@ -474,6 +631,33 @@
    "comments": 0
   },
   {
+   "id": "GXID36ZSGVw",
+   "title": "Man killed after falling 80 feet from wind turbine in Enid",
+   "channel": "KOCO 5 News",
+   "published": "2025-08-20",
+   "url": "https://www.youtube.com/watch?v=GXID36ZSGVw",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Enid"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Alfalfa County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-16",
+   "comments": 0,
+   "comments_off": true
+  },
+  {
    "id": "SId6_MwCuMI",
    "title": "Video: Wagoner County neighbors hold meeting in opposition to proposed solar farm",
    "channel": "FOX23 News Tulsa",
@@ -498,6 +682,11 @@
    "elsewhere": false,
    "found_by": [
     "Bixby",
+    "Catoosa",
+    "Claremore",
+    "Coweta",
+    "Glenpool",
+    "Inola",
     "Jenks",
     "McIntosh County",
     "Muskogee",
@@ -507,8 +696,10 @@
     "Osage County",
     "Owasso",
     "Rogers County",
+    "Sapulpa",
     "Tulsa",
     "Tulsa County",
+    "Wagoner",
     "Wagoner County",
     "national"
    ],
@@ -537,11 +728,41 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Skiatook",
     "Tulsa"
    ],
    "score": 7,
    "first_seen": "2026-09-14",
    "comments": 2
+  },
+  {
+   "id": "ZpRBDtFDvOc",
+   "title": "McIntosh County wind project canceled",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-01-15",
+   "url": "https://www.youtube.com/watch?v=ZpRBDtFDvOc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "McIntosh County"
+   ],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Canadian County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-16",
+   "comments": 0
   },
   {
    "id": "5W9Dbv74Tc0",
@@ -732,6 +953,61 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "UWGAtCCqSX0",
+   "title": "Bartlesville Roofing Guide for Oklahoma Storm Damage Protection",
+   "channel": "United Roofing Oklahoma City",
+   "published": "2026-07-14",
+   "url": "https://www.youtube.com/watch?v=UWGAtCCqSX0",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City",
+    "Bartlesville"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cherokee County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "KHHNkDY_dmI",
+   "title": "WATCH: Sky 5 shows damage to silos at Braum&#39;s Dairy Farm in Tuttle",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=KHHNkDY_dmI",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Caddo County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 5
   },
   {
    "id": "1v4iSRt5mTE",
@@ -927,6 +1203,63 @@
    "comments": 10
   },
   {
+   "id": "qgSiEMzHwnI",
+   "title": "Solar Farm Delivery Day – Pryor, Oklahoma 🌞🚛",
+   "channel": "Freight Relocators Live",
+   "published": "2025-08-14",
+   "url": "https://www.youtube.com/watch?v=qgSiEMzHwnI",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Pryor"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Pryor"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "NilkVQWagt8",
+   "title": "San Antonio to Pryor, OK – Solar Panel Damper Delivery 🚛⚡",
+   "channel": "Freight Relocators Live",
+   "published": "2025-08-14",
+   "url": "https://www.youtube.com/watch?v=NilkVQWagt8",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma",
+    "Texas"
+   ],
+   "towns": [
+    "Pryor"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Pryor"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
    "id": "-gUlCwYjIqk",
    "title": "New Mexico leaders celebrate $1 billion geothermal power plant project",
    "channel": "KRQE",
@@ -951,6 +1284,39 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 29
+  },
+  {
+   "id": "xt07kW6Gilc",
+   "title": "Weatherford Oklahoma | Wind Turbine Blade Display , Heritage Park , Custer County Veterans Memorial",
+   "channel": "Love Helianthus",
+   "published": "2025-06-01",
+   "url": "https://www.youtube.com/watch?v=xt07kW6Gilc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Custer County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Weatherford"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Beckham County",
+    "Blaine County",
+    "Caddo County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 0
   },
   {
    "id": "DuqwtvNUk4E",
@@ -1062,6 +1428,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Coal County",
     "national"
    ],
    "score": 6,
@@ -1180,6 +1547,34 @@
    "comments_off": true
   },
   {
+   "id": "tQMNHWW0qcY",
+   "title": "Oklahoma Judge Orders 84 Turbine Wind Farm To Be Removed",
+   "channel": "Farm Journal",
+   "published": "2024-01-12",
+   "url": "https://www.youtube.com/watch?v=tQMNHWW0qcY",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Osage County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cimarron County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-16",
+   "comments": 638
+  },
+  {
    "id": "JTsZxpkwYp0",
    "title": "Oklahoma Advances in Competition for U S  Nuclear Innovation Campus",
    "channel": "Oklahoma's Own",
@@ -1203,6 +1598,116 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "mp3-bG0FEk0",
+   "title": "Chaos in Oklahoma Today! Massive Hail Storm Swept Away Homes, Cars in Sayre, OKC",
+   "channel": "Nature Damage",
+   "published": "2026-05-10",
+   "url": "https://www.youtube.com/watch?v=mp3-bG0FEk0",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Beckham County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Beckham County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 7
+  },
+  {
+   "id": "X5clHOR8SSw",
+   "title": "On The Ground in Enid, Oklahoma After Tornado Rips Through City",
+   "channel": "FOX Weather",
+   "published": "2026-04-24",
+   "url": "https://www.youtube.com/watch?v=X5clHOR8SSw",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Enid"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Alfalfa County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 12
+  },
+  {
+   "id": "YJXIOjmX60k",
+   "title": "Lawyer alleges ‘secret wind/hail scheme’ as 255 Oklahomans battle State Farm",
+   "channel": "KOKH - FOX 25",
+   "published": "2026-04-03",
+   "url": "https://www.youtube.com/watch?v=YJXIOjmX60k",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cleveland County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 1
+  },
+  {
+   "id": "Ip8KzHCF648",
+   "title": "Judge vacates permit for 810-acre solar farm project in northern Michigan",
+   "channel": "UpNorthLive",
+   "published": "2026-04-02",
+   "url": "https://www.youtube.com/watch?v=Ip8KzHCF648",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Cheboygan County"
+   ],
+   "states": [
+    "Michigan"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 638
   },
   {
    "id": "Jpr7GBY2esE",
@@ -1275,6 +1780,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Choctaw",
+    "Durant",
     "Oklahoma City"
    ],
    "score": 5,
@@ -1304,6 +1811,33 @@
    "first_seen": "2026-09-14",
    "comments": 0,
    "comments_off": true
+  },
+  {
+   "id": "_5tMKCXnQp0",
+   "title": "3,000 Acres DELETED: The Truth About Solar Farms #shorts",
+   "channel": "Owens Habitat Operations",
+   "published": "2026-01-13",
+   "url": "https://www.youtube.com/watch?v=_5tMKCXnQp0",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Claremore",
+    "Pryor"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Pryor"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 1
   },
   {
    "id": "P5epXmRfqnE",
@@ -1350,6 +1884,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Choctaw",
     "Oklahoma City"
    ],
    "score": 5,
@@ -1453,7 +1988,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 19
+   "comments": 20
   },
   {
    "id": "qikVGS3T3HI",
@@ -1479,6 +2014,62 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 2
+  },
+  {
+   "id": "Beioj01BUfw",
+   "title": "Chaos in Lawton Today! Extreme Storm, Floods Destroy Homes, Cars in Oklahoma",
+   "channel": "Nature Damage",
+   "published": "2025-04-27",
+   "url": "https://www.youtube.com/watch?v=Beioj01BUfw",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Lawton"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Caddo County",
+    "Comanche County",
+    "Cotton County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 48
+  },
+  {
+   "id": "HUjOh1EZZw8",
+   "title": "Solar project in Grady County to create 300 jobs, generate $32 million in tax revenue",
+   "channel": "Jamison Keefover",
+   "published": "2025-04-11",
+   "url": "https://www.youtube.com/watch?v=HUjOh1EZZw8",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [
+    "Grady County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Caddo County",
+    "Comanche County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 0
   },
   {
    "id": "J0c0stnIjKY",
@@ -1555,6 +2146,35 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 1
+  },
+  {
+   "id": "4i6Zpq2tA84",
+   "title": "Power Lines Downed In Canadian County Near Calumet From Severe Weather",
+   "channel": "Oklahoma's Own",
+   "published": "2024-04-28",
+   "url": "https://www.youtube.com/watch?v=4i6Zpq2tA84",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Canadian County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Blaine County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-16",
+   "comments": 0,
+   "comments_off": true
   },
   {
    "id": "JOM8Mq5DPRY",
@@ -1673,6 +2293,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Ada",
+    "Del City",
     "Oklahoma City",
     "Stillwater",
     "national"
@@ -1962,6 +2584,31 @@
    "comments": 0
   },
   {
+   "id": "n7CnhVLF4ws",
+   "title": "Brutal Destruction in Texas! Destructive Tornado Damaging Homes, Cars in Mineral Wells",
+   "channel": "Nature Damage",
+   "published": "2026-04-29",
+   "url": "https://www.youtube.com/watch?v=n7CnhVLF4ws",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Atoka County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-16",
+   "comments": 5
+  },
+  {
    "id": "B4rAaqbjrRE",
    "title": "10/14/24 Damaging Earthquakes Continue In Oklahoma Nearly a Decade After Peak Wastewater Injection",
    "channel": "Geological Society of Minnesota",
@@ -2065,6 +2712,31 @@
    "comments": 3
   },
   {
+   "id": "9yK8Tk4Sbac",
+   "title": "Oklahoma’s Geothermal Game Changer: HVAC Solutions Built to Last",
+   "channel": "Hartzell's Heat & Air",
+   "published": "2025-05-24",
+   "url": "https://www.youtube.com/watch?v=9yK8Tk4Sbac",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
    "id": "kAnGhNQ2mkE",
    "title": "Working and living near a wind farm #Oklahoma #windfarm #renewables #cleanenergy #renewableenergy",
    "channel": "EDP Renewables North America",
@@ -2114,7 +2786,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 626
+   "comments": 610
   },
   {
    "id": "fjwlRfPLXCQ",
@@ -2439,7 +3111,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 4
+   "comments": 3
   },
   {
    "id": "jZsHqvTTZBA",
@@ -2464,7 +3136,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 0
   },
   {
    "id": "rv3lOEGlWF8",
@@ -2489,7 +3161,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 142
+   "comments": 84
   },
   {
    "id": "sIOEXN2tN1k",
@@ -2514,7 +3186,33 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 384
+   "comments": 203
+  },
+  {
+   "id": "BJ191tNE2cY",
+   "title": "Alabama lawmaker files bills to pause and regulate solar farms - NBC 15",
+   "channel": "NBC 15",
+   "published": "2026-03-12",
+   "url": "https://www.youtube.com/watch?v=BJ191tNE2cY",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Alabama"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Ada",
+    "Del City"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-16",
+   "comments": 0
   },
   {
    "id": "X8PqBiC3RoE",
@@ -2539,7 +3237,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 55
+   "comments": 0
   },
   {
    "id": "sW2O1eHGLYg",
@@ -2585,12 +3283,40 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Cherokee County",
     "Oklahoma City",
+    "Pryor",
     "Rogers County",
     "Wagoner County"
    ],
    "score": 3,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "qtoBUOuX9wI",
+   "title": "Chaos in Oklahoma Today! Golf-Ball-Sized Hail Swept Away Homes, Cars in Oklahoma",
+   "channel": "Nature Damage",
+   "published": "2025-10-24",
+   "url": "https://www.youtube.com/watch?v=qtoBUOuX9wI",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Choctaw County",
+    "Cleveland County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-16",
    "comments": 0
   },
   {
@@ -2688,12 +3414,13 @@
    ],
    "elsewhere": true,
    "found_by": [
+    "El Reno",
     "Muskogee",
     "Oklahoma City"
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 194
+   "comments": 96
   },
   {
    "id": "eAQiCha5RDw",
@@ -2743,7 +3470,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 10
+   "comments": 0
   },
   {
    "id": "hvGHtmORDGY",
@@ -2814,6 +3541,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Canadian County",
     "national"
    ],
    "score": 3,
@@ -2921,6 +3649,31 @@
    "comments": 0
   },
   {
+   "id": "hZyizJf7DHA",
+   "title": "Wichita Mountians Quanah  Parker Lake",
+   "channel": "Bill Lyon Outdoors",
+   "published": "2024-04-17",
+   "url": "https://www.youtube.com/watch?v=hZyizJf7DHA",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Comanche County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
    "id": "g_Wyx37SrYc",
    "title": "kevin D. blanch ask John Curtis U.S. HOUSE REP. &amp; U.S. Senate Candide SMR Nuscale &amp; bill gates SMR&#39;S",
    "channel": "kevin D blanch HISTORIC ONGOING PhD;; FREE LIBRARY",
@@ -2968,7 +3721,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 143
+   "comments": 140
   },
   {
    "id": "Wr5NVzm_ymM",
@@ -3069,6 +3822,31 @@
    "score": 3,
    "first_seen": "2026-09-14",
    "comments": 1
+  },
+  {
+   "id": "HbTwKmvn8P4",
+   "title": "AES’ Great Cove Solar Project",
+   "channel": "AES Corporation",
+   "published": "2023-11-01",
+   "url": "https://www.youtube.com/watch?v=HbTwKmvn8P4",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Pennsylvania"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Duncan"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-16",
+   "comments": 0
   },
   {
    "id": "nnreThZvoh0",
