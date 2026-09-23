@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-16T17:39:26+00:00",
- "tracked": 143,
+ "updated": "2026-09-23T17:52:48+00:00",
+ "tracked": 195,
  "videos": [
   {
    "id": "9_JoA-AflTw",
@@ -26,7 +26,7 @@
    ],
    "score": 9,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 2
   },
   {
    "id": "e6_izAR95ic",
@@ -196,6 +196,7 @@
    ],
    "elsewhere": true,
    "found_by": [
+    "Craig County",
     "national"
    ],
    "score": 9,
@@ -284,10 +285,40 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Lincoln County",
     "national"
    ],
    "score": 9,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "DgrZcARaOUE",
+   "title": "Severe winds cause damage and downed power lines in Kay County",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-14",
+   "url": "https://www.youtube.com/watch?v=DgrZcARaOUE",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Kay County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kay County"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-23",
    "comments": 0
   },
   {
@@ -322,6 +353,37 @@
    "score": 8,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "0HUxiBatCgc",
+   "title": "Tornado near Ponca City causes damage and power outages",
+   "channel": "KOCO 5 News",
+   "published": "2026-04-18",
+   "url": "https://www.youtube.com/watch?v=0HUxiBatCgc",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Ponca City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kay County",
+    "Noble County",
+    "Pawnee County"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-23",
+   "comments": 1
   },
   {
    "id": "uSttVII3saw",
@@ -374,7 +436,15 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Cleveland County"
+    "Cleveland County",
+    "Creek County",
+    "Lincoln County",
+    "Logan County",
+    "McClain County",
+    "Okfuskee County",
+    "Oklahoma County",
+    "Payne County",
+    "Pottawatomie County"
    ],
    "score": 8,
    "first_seen": "2026-09-16",
@@ -434,6 +504,33 @@
    "comments": 0
   },
   {
+   "id": "-ynppluH-Eo",
+   "title": "Payne County landowners express concerns over wind turbine blade disposal",
+   "channel": "KOCO 5 News",
+   "published": "2025-08-21",
+   "url": "https://www.youtube.com/watch?v=-ynppluH-Eo",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Payne County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Payne County"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-23",
+   "comments": 0,
+   "comments_off": true
+  },
+  {
    "id": "PohIDn_6wLM",
    "title": "Residents opposed to plans to build hydroelectric power plant in Pushmataha County",
    "channel": "Oklahoma News Report",
@@ -491,6 +588,32 @@
    "comments": 1
   },
   {
+   "id": "s_Jp8OIfyvU",
+   "title": "Pontotoc County residents voice concerns about planned wind turbine project",
+   "channel": "KXII 12 | Texoma Turns To Us",
+   "published": "2024-04-08",
+   "url": "https://www.youtube.com/watch?v=s_Jp8OIfyvU",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Pontotoc County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Pontotoc County"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
    "id": "H1NX4KvXkL4",
    "title": "&#39;You need to wake up&#39; Lincoln Co  landowners raise alarm over possible wind farms",
    "channel": "KOKH - FOX 25",
@@ -511,6 +634,7 @@
    "elsewhere": false,
    "found_by": [
     "Edmond",
+    "Lincoln County",
     "Moore",
     "Stillwater",
     "Yukon"
@@ -602,7 +726,35 @@
    ],
    "score": 7,
    "first_seen": "2026-09-16",
-   "comments": 24
+   "comments": 25
+  },
+  {
+   "id": "81obSJGCxDs",
+   "title": "Judge orders State Farm to turn over more evidence in Tulsa hail damage lawsuit",
+   "channel": "KOKH - FOX 25",
+   "published": "2026-07-08",
+   "url": "https://www.youtube.com/watch?v=81obSJGCxDs",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Mayes County",
+    "Okmulgee County",
+    "Osage County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 0
   },
   {
    "id": "k0Jr7ayAy2I",
@@ -631,6 +783,58 @@
    "comments": 0
   },
   {
+   "id": "iqdMAKVffsk",
+   "title": "Tornado damages homes, downs trees, power lines in Starke County",
+   "channel": "WSBT-TV",
+   "published": "2026-03-12",
+   "url": "https://www.youtube.com/watch?v=iqdMAKVffsk",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Starke County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "StODKHSlMDs",
+   "title": "breaking news a Tesla&#39;s cyber truck was spotted with a wind turbine",
+   "channel": "J&J studios Payne county mix entertainment",
+   "published": "2026-01-17",
+   "url": "https://www.youtube.com/watch?v=StODKHSlMDs",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Payne County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "government channel"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Payne County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
    "id": "GXID36ZSGVw",
    "title": "Man killed after falling 80 feet from wind turbine in Enid",
    "channel": "KOCO 5 News",
@@ -650,7 +854,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Alfalfa County"
+    "Alfalfa County",
+    "Garfield County"
    ],
    "score": 7,
    "first_seen": "2026-09-16",
@@ -758,11 +963,73 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Canadian County"
+    "Canadian County",
+    "McIntosh County"
    ],
    "score": 7,
    "first_seen": "2026-09-16",
    "comments": 0
+  },
+  {
+   "id": "TpAlL2Y9dOk",
+   "title": "McIntosh County wind project canceled",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-01-14",
+   "url": "https://www.youtube.com/watch?v=TpAlL2Y9dOk",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "McIntosh County"
+   ],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Haskell County",
+    "Hughes County",
+    "McIntosh County",
+    "Muskogee County",
+    "Okfuskee County",
+    "Okmulgee County",
+    "Pittsburg County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 2
+  },
+  {
+   "id": "jXMOL_izKbg",
+   "title": "Planned wind farms pit property rights against community concerns",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2024-12-12",
+   "url": "https://www.youtube.com/watch?v=jXMOL_izKbg",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Pittsburg County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 4
   },
   {
    "id": "5W9Dbv74Tc0",
@@ -786,6 +1053,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Oklahoma County",
+    "Osage County",
     "national"
    ],
    "score": 7,
@@ -817,6 +1086,32 @@
    "score": 7,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "f_vagpGn-OA",
+   "title": "Enel Energy Plans Appeal &#39;Osage Wind Case&#39; After Judge Orders Wind Farm Removal",
+   "channel": "News On 6/KOTV",
+   "published": "2024-01-17",
+   "url": "https://www.youtube.com/watch?v=f_vagpGn-OA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Osage County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Osage County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-23",
+   "comments": 1
   },
   {
    "id": "sT75SWN2p9Q",
@@ -984,6 +1279,71 @@
    "comments": 0
   },
   {
+   "id": "IzOKlpz7HQQ",
+   "title": "What Jenks Homeowners Must Know About Oklahoma Roof Damage",
+   "channel": "United Roofing Oklahoma City",
+   "published": "2026-07-14",
+   "url": "https://www.youtube.com/watch?v=IzOKlpz7HQQ",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City",
+    "Jenks"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Creek County",
+    "Muskogee County",
+    "Okmulgee County",
+    "Osage County",
+    "Pawnee County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "U356RYr5QYs",
+   "title": "What Every Owasso Homeowner Must Know About Roof Storm Damage",
+   "channel": "United Roofing Oklahoma City",
+   "published": "2026-07-14",
+   "url": "https://www.youtube.com/watch?v=U356RYr5QYs",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City",
+    "Owasso"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee County",
+    "Okmulgee County",
+    "Osage County",
+    "Pawnee County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
    "id": "KHHNkDY_dmI",
    "title": "WATCH: Sky 5 shows damage to silos at Braum&#39;s Dairy Farm in Tuttle",
    "channel": "KOCO 5 News",
@@ -1003,7 +1363,9 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Caddo County"
+    "Caddo County",
+    "Grady County",
+    "McClain County"
    ],
    "score": 6,
    "first_seen": "2026-09-16",
@@ -1116,6 +1478,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Pontotoc County",
     "national"
    ],
    "score": 6,
@@ -1312,7 +1675,11 @@
    "found_by": [
     "Beckham County",
     "Blaine County",
-    "Caddo County"
+    "Caddo County",
+    "Custer County",
+    "Dewey County",
+    "Ellis County",
+    "Oklahoma County"
    ],
    "score": 6,
    "first_seen": "2026-09-16",
@@ -1407,6 +1774,59 @@
    "comments": 0
   },
   {
+   "id": "JfIv5zpt_i4",
+   "title": "&#39;Take action&#39;: Oklahoma attorney general calls out wind farms, &#39;Green Energy Scam&#39;",
+   "channel": "KOKH - FOX 25",
+   "published": "2025-03-11",
+   "url": "https://www.youtube.com/watch?v=JfIv5zpt_i4",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Lincoln County",
+    "Oklahoma County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "v0JhQiq70lo",
+   "title": "&quot;Green Energy Scam&quot; Oklahoma Attorney General calls out wind farms",
+   "channel": "KOKH - FOX 25",
+   "published": "2025-03-11",
+   "url": "https://www.youtube.com/watch?v=v0JhQiq70lo",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 5
+  },
+  {
    "id": "nGnOHkSkFEk",
    "title": "Hughes County RWE Community Meeting 02/26/25",
    "channel": "Preserve Rural Oklahoma",
@@ -1429,6 +1849,14 @@
    "elsewhere": false,
    "found_by": [
     "Coal County",
+    "Hughes County",
+    "McIntosh County",
+    "Muskogee County",
+    "Okfuskee County",
+    "Okmulgee County",
+    "Pittsburg County",
+    "Pontotoc County",
+    "Pottawatomie County",
     "national"
    ],
    "score": 6,
@@ -1457,10 +1885,75 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "McIntosh County",
     "national"
    ],
    "score": 6,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "XpM1y4UvPSQ",
+   "title": "Wind Turbines Ruin Quiet County Thanks To Absentee Land Owners",
+   "channel": "ROPE Report",
+   "published": "2024-11-24",
+   "url": "https://www.youtube.com/watch?v=XpM1y4UvPSQ",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Hughes County",
+    "Quiet County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Hughes County",
+    "McIntosh County",
+    "Muskogee County",
+    "Okfuskee County",
+    "Okmulgee County",
+    "Pittsburg County",
+    "Pontotoc County",
+    "Pottawatomie County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "GKsXPddIdBU",
+   "title": "Wind Turbines And Conservation Easements - Tax Scam Upon Tax Scam",
+   "channel": "ROPE Report",
+   "published": "2024-11-24",
+   "url": "https://www.youtube.com/watch?v=GKsXPddIdBU",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Hughes County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Hughes County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
    "comments": 0
   },
   {
@@ -1490,6 +1983,71 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 1
+  },
+  {
+   "id": "KfYfF_1ZpGM",
+   "title": "Couple rides Pawnee storm out inside RV, gets slammed into tree",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2024-09-20",
+   "url": "https://www.youtube.com/watch?v=KfYfF_1ZpGM",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Pawnee County"
+   ],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kay County",
+    "Noble County",
+    "Pawnee County",
+    "Payne County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "pczD5chVYFA",
+   "title": "Fallen Trees From Tornado In Claremore Damage Several Homes",
+   "channel": "Oklahoma's Own",
+   "published": "2024-05-29",
+   "url": "https://www.youtube.com/watch?v=pczD5chVYFA",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Craig County",
+    "Mayes County",
+    "Muskogee County",
+    "Nowata County",
+    "Okmulgee County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-23",
+   "comments": 0,
+   "comments_off": true
   },
   {
    "id": "ypt5StCtdm0",
@@ -1568,11 +2126,186 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Cimarron County"
+    "Cimarron County",
+    "Delaware County",
+    "Oklahoma County",
+    "Osage County"
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 638
+   "comments": 634
+  },
+  {
+   "id": "nFdFw9mKV5w",
+   "title": "Listen to the Farm: A Morning with the Bird Yard - Natural Sounds",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-15",
+   "url": "https://www.youtube.com/watch?v=nFdFw9mKV5w",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "R7Aahskw5Ak",
+   "title": "One Garden, a Whole Winter of Jars 🫙 #shorts",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-12",
+   "url": "https://www.youtube.com/watch?v=R7Aahskw5Ak",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "HoxZcB0Ozec",
+   "title": "Escape with the beauty of a simple farm day #farmlife #slowliving",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-06",
+   "url": "https://www.youtube.com/watch?v=HoxZcB0Ozec",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Love County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 2
+  },
+  {
+   "id": "pKuv2f4ZAdc",
+   "title": "A day in the life of a beginning farmer 🚜 #farmlife #beginnerfarmer",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-06",
+   "url": "https://www.youtube.com/watch?v=pKuv2f4ZAdc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 2
+  },
+  {
+   "id": "btCq24P7m0A",
+   "title": "This is why we love living on the wind #oklahoma #farmlife #morning",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-24",
+   "url": "https://www.youtube.com/watch?v=btCq24P7m0A",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Love County",
+    "Oklahoma County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "n9d-flF4Ua8",
+   "title": "Sunrise Timelapse Over an Oklahoma Farm 🤍 (90 minutes of sky in under 4 minutes)",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-24",
+   "url": "https://www.youtube.com/watch?v=n9d-flF4Ua8",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Oklahoma County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 0
   },
   {
    "id": "JTsZxpkwYp0",
@@ -1649,7 +2382,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Alfalfa County"
+    "Alfalfa County",
+    "Garfield County"
    ],
    "score": 5,
    "first_seen": "2026-09-16",
@@ -1675,7 +2409,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Cleveland County"
+    "Cleveland County",
+    "Noble County"
    ],
    "score": 5,
    "first_seen": "2026-09-16",
@@ -1707,7 +2442,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 638
+   "comments": 639
   },
   {
    "id": "Jpr7GBY2esE",
@@ -2039,7 +2774,9 @@
    "found_by": [
     "Caddo County",
     "Comanche County",
-    "Cotton County"
+    "Cotton County",
+    "Jefferson County",
+    "Kiowa County"
    ],
    "score": 5,
    "first_seen": "2026-09-16",
@@ -2065,7 +2802,9 @@
    "elsewhere": false,
    "found_by": [
     "Caddo County",
-    "Comanche County"
+    "Comanche County",
+    "Garvin County",
+    "Grady County"
    ],
    "score": 5,
    "first_seen": "2026-09-16",
@@ -2098,13 +2837,65 @@
    "comments": 0
   },
   {
+   "id": "H7k9g8obJ_0",
+   "title": "Grand River Dam Authority adds massive gas turbine, replacing coal with clean energy",
+   "channel": "Tulsa's News Pulse",
+   "published": "2025-01-24",
+   "url": "https://www.youtube.com/watch?v=H7k9g8obJ_0",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Mayes County",
+    "McIntosh County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 10
+  },
+  {
+   "id": "GrN-wjoZ_rA",
+   "title": "Video: County and state leaders share reaction to the cancellation of a massive wind farm project",
+   "channel": "FOX23 News Tulsa",
+   "published": "2025-01-14",
+   "url": "https://www.youtube.com/watch?v=GrN-wjoZ_rA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "McIntosh County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
    "id": "LUofO4rt8BY",
    "title": "Lunch &amp; Learn: A Conversation On  Green  Energy and Oklahoma Farms &amp; Ranches",
    "channel": "Krystal Butler",
    "published": "2024-11-15",
    "url": "https://www.youtube.com/watch?v=LUofO4rt8BY",
    "topics": [
-    "solar_siting"
+    "solar_siting",
+    "wind_siting"
    ],
    "counties": [],
    "states": [
@@ -2121,6 +2912,37 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "FJ8QhcldrzA",
+   "title": "Major wind turbine project coming to Delaware county",
+   "channel": "Tulsa's News Pulse",
+   "published": "2024-06-09",
+   "url": "https://www.youtube.com/watch?v=FJ8QhcldrzA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Delaware County"
+   ],
+   "states": [
+    "Delaware"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Delaware County"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-23",
+   "comments": 2
   },
   {
    "id": "vcyezPfeN78",
@@ -2273,6 +3095,31 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 8
+  },
+  {
+   "id": "IpU1Uz_SH7w",
+   "title": "Peater the Peacock at the Pool Party 🤍💛 (Birds of a Feather, Pool Together)",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-04",
+   "url": "https://www.youtube.com/watch?v=IpU1Uz_SH7w",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [
+    "Kingfisher County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 2
   },
   {
    "id": "vSQInWrUIQA",
@@ -2609,6 +3456,57 @@
    "comments": 5
   },
   {
+   "id": "3jwIO-Pzswg",
+   "title": "Severe storms leave damage behind in Kansas town",
+   "channel": "AP Archive",
+   "published": "2026-04-19",
+   "url": "https://www.youtube.com/watch?v=3jwIO-Pzswg",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Kansas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Ottawa County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "ew7T-3Drs-U",
+   "title": "Damaging tornadoes hit Kansas",
+   "channel": "CNN",
+   "published": "2026-04-14",
+   "url": "https://www.youtube.com/watch?v=ew7T-3Drs-U",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Kansas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Muskogee County",
+    "Ottawa County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 25
+  },
+  {
    "id": "B4rAaqbjrRE",
    "title": "10/14/24 Damaging Earthquakes Continue In Oklahoma Nearly a Decade After Peak Wastewater Injection",
    "channel": "Geological Society of Minnesota",
@@ -2737,6 +3635,59 @@
    "comments": 0
   },
   {
+   "id": "UQNnK1RTFxo",
+   "title": "Mystery: Wind Turbine Collapses in Oklahoma",
+   "channel": "AccuWeather",
+   "published": "2025-02-27",
+   "url": "https://www.youtube.com/watch?v=UQNnK1RTFxo",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County",
+    "Kay County",
+    "Oklahoma County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 173
+  },
+  {
+   "id": "VTGB6UE1d6s",
+   "title": "Legacy Media Still Won’t Cover The Osage Tribe’s Massive Court Victory Against A Wind Project",
+   "channel": "Robert Bryce",
+   "published": "2025-01-20",
+   "url": "https://www.youtube.com/watch?v=VTGB6UE1d6s",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County",
+    "Osage County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 3
+  },
+  {
    "id": "kAnGhNQ2mkE",
    "title": "Working and living near a wind farm #Oklahoma #windfarm #renewables #cleanenergy #renewableenergy",
    "channel": "EDP Renewables North America",
@@ -2763,6 +3714,58 @@
    "comments_off": true
   },
   {
+   "id": "dT8M41PRpRE",
+   "title": "How Are Wind Turbines Hurting Oklahomans? ROPE Report Live; Jeff and Robbie McCommas",
+   "channel": "ROPE Report",
+   "published": "2024-06-01",
+   "url": "https://www.youtube.com/watch?v=dT8M41PRpRE",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Lincoln County",
+    "Oklahoma County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "0NkDcCgZmYc",
+   "title": "Tornado causes extensive damage to small Oklahoma town, at least 1 dead | Barnsdall tornado",
+   "channel": "13WMAZ",
+   "published": "2024-05-07",
+   "url": "https://www.youtube.com/watch?v=0NkDcCgZmYc",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Osage County",
+    "Pawnee County"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
    "id": "fdjrgcp_7JQ",
    "title": "Hail Smashes 4,000-Acre Solar Farm in Texas",
    "channel": "AccuWeather",
@@ -2786,7 +3789,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 610
+   "comments": 612
   },
   {
    "id": "fjwlRfPLXCQ",
@@ -2914,6 +3917,31 @@
    "comments": 0
   },
   {
+   "id": "VjPezOAQcu0",
+   "title": "Update on Converting Idle Wells to Geothermal Wells",
+   "channel": "E-Learning Corgi",
+   "published": "2023-12-09",
+   "url": "https://www.youtube.com/watch?v=VjPezOAQcu0",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-23",
+   "comments": 2
+  },
+  {
    "id": "2frhiAAO3To",
    "title": "The New Mexico Nuclear fusion reactor plant #powerplant #energy #futureplans",
    "channel": "Chris Blurb Media",
@@ -2937,6 +3965,108 @@
    "score": 4,
    "first_seen": "2026-09-14",
    "comments": 6
+  },
+  {
+   "id": "RNRZubgf66s",
+   "title": "A Calm Start to the Day on an Oklahoma Farm",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-13",
+   "url": "https://www.youtube.com/watch?v=RNRZubgf66s",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "GW9_h-pKDrU",
+   "title": "The power of a dust devil in Oklahoma #wind #shorts #farmlife",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-12",
+   "url": "https://www.youtube.com/watch?v=GW9_h-pKDrU",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "NLnvRf1Arao",
+   "title": "Morning on the place 🤍 Oklahoma farm, thirty quiet seconds",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-12",
+   "url": "https://www.youtube.com/watch?v=NLnvRf1Arao",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Oklahoma County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "8E4ILqZOAhc",
+   "title": "The Reality of Small Farm Life in Oklahoma 🐑 #rurallife #farmlife",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-09-05",
+   "url": "https://www.youtube.com/watch?v=8E4ILqZOAhc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Oklahoma County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
   },
   {
    "id": "2OKj2TVPAxU",
@@ -2989,6 +4119,81 @@
    "comments": 0
   },
   {
+   "id": "fxy9mG4ESSE",
+   "title": "Ever seen a peacock at sunrise? 🦚 #farmlife #oklahoma",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-21",
+   "url": "https://www.youtube.com/watch?v=fxy9mG4ESSE",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
+  },
+  {
+   "id": "O2AIIL7aFXg",
+   "title": "1-Week-Old Lamb Chopper&#39;s First Bounces 🐑",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-18",
+   "url": "https://www.youtube.com/watch?v=O2AIIL7aFXg",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 5
+  },
+  {
+   "id": "Dk0QhwMdWO0",
+   "title": "Meet Duchess: Our Sweet Long-Bodied Dachshund Girl 🌭",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-18",
+   "url": "https://www.youtube.com/watch?v=Dk0QhwMdWO0",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Love County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 3
+  },
+  {
    "id": "gJPa2mtq35c",
    "title": "The Ground in Oklahoma Is Doing Something It Has Never Done Before",
    "channel": "Planet Zone",
@@ -3012,6 +4217,81 @@
    "score": 3,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "yl_n3KKZCUs",
+   "title": "Ready to Hit the Ground Running: Highland Cow Morning on the Farm 🐮",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-14",
+   "url": "https://www.youtube.com/watch?v=yl_n3KKZCUs",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Love County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "wUMSefNjlm4",
+   "title": "Why this baby lamb is my favorite farm resident #lamb #cute",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-13",
+   "url": "https://www.youtube.com/watch?v=wUMSefNjlm4",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 5
+  },
+  {
+   "id": "92gG4wqME-8",
+   "title": "Peacock Remix on Our Oklahoma Farm 🦚",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-08-10",
+   "url": "https://www.youtube.com/watch?v=92gG4wqME-8",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 1
   },
   {
    "id": "pbEqLWPjFGc",
@@ -3089,6 +4369,81 @@
    "comments": 0
   },
   {
+   "id": "OAECxk-E8kA",
+   "title": "Highland cow patience level: Expert 🐮✨ #farmanimals #shorts",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-07-29",
+   "url": "https://www.youtube.com/watch?v=OAECxk-E8kA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "TUalrIjy0CM",
+   "title": "Get Ready to Fall in Love with This Adorable Highland Cow 🐮 #highlandcow #farmlove",
+   "channel": "Sandy Wind Projects",
+   "published": "2026-07-27",
+   "url": "https://www.youtube.com/watch?v=TUalrIjy0CM",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Love County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
+   "id": "NTvvyJCAWPQ",
+   "title": "How Sheep Are Solving One of Solar Power&#39;s Biggest Problems",
+   "channel": "PARAGRAPHIC",
+   "published": "2026-07-06",
+   "url": "https://www.youtube.com/watch?v=NTvvyJCAWPQ",
+   "topics": [
+    "agrivoltaics"
+   ],
+   "counties": [],
+   "states": [
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 16
+  },
+  {
    "id": "cCJX0jHMBAw",
    "title": "Power Starts Below: A Day in Geothermal Drilling",
    "channel": "Ensign Energy",
@@ -3111,7 +4466,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 4
   },
   {
    "id": "jZsHqvTTZBA",
@@ -3136,7 +4491,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 2
   },
   {
    "id": "rv3lOEGlWF8",
@@ -3161,7 +4516,32 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 84
+   "comments": 142
+  },
+  {
+   "id": "TM0C07Huc1g",
+   "title": "Watch: Damaging Tornado Forms Near Harrison, Illinois",
+   "channel": "FOX Weather",
+   "published": "2026-04-17",
+   "url": "https://www.youtube.com/watch?v=TM0C07Huc1g",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Illinois"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Roger Mills County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 15
   },
   {
    "id": "sIOEXN2tN1k",
@@ -3186,7 +4566,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 203
+   "comments": 377
   },
   {
    "id": "BJ191tNE2cY",
@@ -3212,7 +4592,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "X8PqBiC3RoE",
@@ -3237,7 +4617,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 55
   },
   {
    "id": "sW2O1eHGLYg",
@@ -3284,6 +4664,7 @@
    "elsewhere": false,
    "found_by": [
     "Cherokee County",
+    "Mayes County",
     "Oklahoma City",
     "Pryor",
     "Rogers County",
@@ -3313,11 +4694,12 @@
    "elsewhere": false,
    "found_by": [
     "Choctaw County",
-    "Cleveland County"
+    "Cleveland County",
+    "McClain County"
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 8
   },
   {
    "id": "qgfcU4eexwU",
@@ -3420,7 +4802,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 96
+   "comments": 187
   },
   {
    "id": "eAQiCha5RDw",
@@ -3470,6 +4852,56 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
+   "comments": 10
+  },
+  {
+   "id": "BXQd7D0s0WU",
+   "title": "Wind turbine blade shuts down highway",
+   "channel": "The National Desk",
+   "published": "2025-06-30",
+   "url": "https://www.youtube.com/watch?v=BXQd7D0s0WU",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Maryland"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Jefferson County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 16
+  },
+  {
+   "id": "8oOIgG9fhnc",
+   "title": "🔴LIVE - NOCTURNAL SEVERE WEATHER OUTBREAK ACROSS OKLAHOMA! TORNADOES, BASEBALL HAIL, AND 60-80 WINDS",
+   "channel": "Nicholas - Severe Weather Reporter",
+   "published": "2025-03-30",
+   "url": "https://www.youtube.com/watch?v=8oOIgG9fhnc",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Logan County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
    "comments": 0
   },
   {
@@ -3624,6 +5056,33 @@
    "comments": 1
   },
   {
+   "id": "v5yWzhcrFZw",
+   "title": "Strong storms leave 1 million without power in Texas; storms also slam Maryland, Kentucky, midwest",
+   "channel": "13WMAZ",
+   "published": "2024-05-28",
+   "url": "https://www.youtube.com/watch?v=v5yWzhcrFZw",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Kentucky",
+    "Maryland",
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Mayes County"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-23",
+   "comments": 0
+  },
+  {
    "id": "V5MmbFpYH2Q",
    "title": "John Cole Train Curtis John Curtis Utah Nuclear ENERGY Puppet Congressman &amp; U.S. senator Candidate",
    "channel": "kevin D blanch HISTORIC ONGOING PhD;; FREE LIBRARY",
@@ -3667,7 +5126,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Comanche County"
+    "Comanche County",
+    "Kiowa County"
    ],
    "score": 3,
    "first_seen": "2026-09-16",
@@ -3721,7 +5181,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 140
+   "comments": 144
   },
   {
    "id": "Wr5NVzm_ymM",
