@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-23T17:52:48+00:00",
- "tracked": 195,
+ "updated": "2026-09-29T18:06:35+00:00",
+ "tracked": 219,
  "videos": [
   {
    "id": "9_JoA-AflTw",
@@ -257,9 +257,11 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Ardmore",
     "Bryan County",
     "Carter County",
-    "Choctaw County"
+    "Choctaw County",
+    "Durant"
    ],
    "score": 9,
    "first_seen": "2026-09-16",
@@ -286,6 +288,7 @@
    "elsewhere": false,
    "found_by": [
     "Lincoln County",
+    "Stillwater",
     "national"
    ],
    "score": 9,
@@ -581,6 +584,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Tulsa",
     "national"
    ],
    "score": 8,
@@ -750,7 +754,8 @@
    "found_by": [
     "Mayes County",
     "Okmulgee County",
-    "Osage County"
+    "Osage County",
+    "Wagoner County"
    ],
    "score": 7,
    "first_seen": "2026-09-23",
@@ -913,6 +918,58 @@
    "comments": 1
   },
   {
+   "id": "M9hfS09MH8Q",
+   "title": "WINDY DEBATE: 2 News talks with leader for and against wind energy",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-03-26",
+   "url": "https://www.youtube.com/watch?v=M9hfS09MH8Q",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-29",
+   "comments": 3
+  },
+  {
+   "id": "T6I58RQ-54E",
+   "title": "&#39;Generational wealth&#39;: Nowata farmer sees benefits of potential wind farm development",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-03-10",
+   "url": "https://www.youtube.com/watch?v=T6I58RQ-54E",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "_sqvXq96fVg",
    "title": "Skiatook ranch faces transformation into solar plant amid resident concerns AM",
    "channel": "KJRH -TV | Tulsa | Channel 2",
@@ -941,6 +998,32 @@
    "comments": 2
   },
   {
+   "id": "YlbPX8rf5oM",
+   "title": "Proposed bill would limit where wind turbines can go",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-01-24",
+   "url": "https://www.youtube.com/watch?v=YlbPX8rf5oM",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-29",
+   "comments": 2
+  },
+  {
    "id": "ZpRBDtFDvOc",
    "title": "McIntosh County wind project canceled",
    "channel": "KJRH -TV | Tulsa | Channel 2",
@@ -964,7 +1047,8 @@
    "elsewhere": false,
    "found_by": [
     "Canadian County",
-    "McIntosh County"
+    "McIntosh County",
+    "Tulsa"
    ],
    "score": 7,
    "first_seen": "2026-09-16",
@@ -999,7 +1083,9 @@
     "Muskogee County",
     "Okfuskee County",
     "Okmulgee County",
-    "Pittsburg County"
+    "Pittsburg County",
+    "Tulsa",
+    "Wagoner County"
    ],
    "score": 7,
    "first_seen": "2026-09-23",
@@ -1025,7 +1111,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Pittsburg County"
+    "Pittsburg County",
+    "Tulsa"
    ],
    "score": 7,
    "first_seen": "2026-09-23",
@@ -1112,6 +1199,34 @@
    "score": 7,
    "first_seen": "2026-09-23",
    "comments": 1
+  },
+  {
+   "id": "9hRKGLFhcek",
+   "title": "Wind Energy is Saving Oklahoma Schools and Family Farms | Good Energy",
+   "channel": "GoodPower",
+   "published": "2026-09-02",
+   "url": "https://www.youtube.com/watch?v=9hRKGLFhcek",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Woodward"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Woodward"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "sT75SWN2p9Q",
@@ -1305,7 +1420,8 @@
     "Muskogee County",
     "Okmulgee County",
     "Osage County",
-    "Pawnee County"
+    "Pawnee County",
+    "Wagoner County"
    ],
    "score": 6,
    "first_seen": "2026-09-23",
@@ -1337,7 +1453,8 @@
     "Muskogee County",
     "Okmulgee County",
     "Osage County",
-    "Pawnee County"
+    "Pawnee County",
+    "Wagoner County"
    ],
    "score": 6,
    "first_seen": "2026-09-23",
@@ -1370,6 +1487,32 @@
    "score": 6,
    "first_seen": "2026-09-16",
    "comments": 5
+  },
+  {
+   "id": "3IhE3rFSWGI",
+   "title": "Sky 5 shows damage to silos at Braum&#39;s Dairy Farm in Tuttle following overnight storms",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=3IhE3rFSWGI",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Durant"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 9
   },
   {
    "id": "1v4iSRt5mTE",
@@ -1540,6 +1683,34 @@
    "comments": 2
   },
   {
+   "id": "Mdle0nFyaVo",
+   "title": "Climbing Wind Turbines for a Living in Woodward, OK | Good Jobs",
+   "channel": "GoodPower",
+   "published": "2026-02-26",
+   "url": "https://www.youtube.com/watch?v=Mdle0nFyaVo",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Woodward"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Woodward"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "Vh0CvpiFERU",
    "title": "Oklahoma bill advances to regulate future nuclear energy technology",
    "channel": "KOCO 5 News",
@@ -1564,6 +1735,88 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 10
+  },
+  {
+   "id": "IQmBjL7vW24",
+   "title": "breaking news a Tesla&#39;s cyber truck was spotted with a wind turbine",
+   "channel": "Stillwater L.N.C.O.W.A.F",
+   "published": "2026-01-17",
+   "url": "https://www.youtube.com/watch?v=IQmBjL7vW24",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Stillwater"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
+   "id": "wYITcX-Wh5Q",
+   "title": "Inside the Oklahoma startup reinventing hydrogen production | Oklahoma Memo",
+   "channel": "OKC, Tulsa & Statewide News: Oklahoma Memo",
+   "published": "2025-11-05",
+   "url": "https://www.youtube.com/watch?v=wYITcX-Wh5Q",
+   "topics": [
+    "hydrogen"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
+   "id": "j5fAxwI23eU",
+   "title": "Oklahomans concerned over the environmental impact wind turbine graveyards",
+   "channel": "KOKH - FOX 25",
+   "published": "2025-09-03",
+   "url": "https://www.youtube.com/watch?v=j5fAxwI23eU",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "qgSiEMzHwnI",
@@ -1744,6 +1997,35 @@
    "comments": 0
   },
   {
+   "id": "X8ASku_x2T4",
+   "title": "Session Spotlight: lab-grown meat, sports betting, and wind turbines",
+   "channel": "Tulsa's News Pulse",
+   "published": "2025-03-31",
+   "url": "https://www.youtube.com/watch?v=X8ASku_x2T4",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Tulsa"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "VD5fLm197ok",
    "title": "Garfield county, Oklahoma Solar farm. 2000 acres",
    "channel": "TheSoonerbruce",
@@ -1794,7 +2076,8 @@
    "elsewhere": false,
    "found_by": [
     "Lincoln County",
-    "Oklahoma County"
+    "Oklahoma County",
+    "Stillwater"
    ],
    "score": 6,
    "first_seen": "2026-09-23",
@@ -1825,6 +2108,32 @@
    "score": 6,
    "first_seen": "2026-09-23",
    "comments": 5
+  },
+  {
+   "id": "bwAUQt_QnPY",
+   "title": "Oklahoma bill seeks balance between wind energy development and property owner rights",
+   "channel": "KOKH - FOX 25",
+   "published": "2025-03-09",
+   "url": "https://www.youtube.com/watch?v=bwAUQt_QnPY",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 3
   },
   {
    "id": "nGnOHkSkFEk",
@@ -1886,10 +2195,37 @@
    "elsewhere": false,
    "found_by": [
     "McIntosh County",
+    "Tulsa",
     "national"
    ],
    "score": 6,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "bAyh3yS4O6g",
+   "title": "Wind energy jobs soar: Oklahoma tech center leads training for booming industry",
+   "channel": "KOKH - FOX 25",
+   "published": "2024-12-10",
+   "url": "https://www.youtube.com/watch?v=bAyh3yS4O6g",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
    "comments": 0
   },
   {
@@ -1985,6 +2321,31 @@
    "comments": 1
   },
   {
+   "id": "enek4C5k6wY",
+   "title": "Hanna residents rally against proposed wind turbine project near homes",
+   "channel": "Tulsa's News Pulse",
+   "published": "2024-10-23",
+   "url": "https://www.youtube.com/watch?v=enek4C5k6wY",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "KfYfF_1ZpGM",
    "title": "Couple rides Pawnee storm out inside RV, gets slammed into tree",
    "channel": "KJRH -TV | Tulsa | Channel 2",
@@ -2038,11 +2399,13 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Claremore",
     "Craig County",
     "Mayes County",
     "Muskogee County",
     "Nowata County",
-    "Okmulgee County"
+    "Okmulgee County",
+    "Wagoner County"
    ],
    "score": 6,
    "first_seen": "2026-09-23",
@@ -2133,7 +2496,35 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 634
+   "comments": 633
+  },
+  {
+   "id": "A9A985paKBQ",
+   "title": "high damaging Winds warning ⚠️🚨",
+   "channel": "Stillwater L.N.C.O.W.A.F",
+   "published": "2024-01-10",
+   "url": "https://www.youtube.com/watch?v=A9A985paKBQ",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Stillwater"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "nFdFw9mKV5w",
@@ -2445,6 +2836,31 @@
    "comments": 639
   },
   {
+   "id": "SP6bsyrG7s8",
+   "title": "Trump administration redirects funding from offshore wind farms to oil and gas projects",
+   "channel": "Tulsa's News Pulse",
+   "published": "2026-03-25",
+   "url": "https://www.youtube.com/watch?v=SP6bsyrG7s8",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 3
+  },
+  {
    "id": "Jpr7GBY2esE",
    "title": "EVERYTHING We Know About The LARGEST Louisiana Earthquake In Years (Near Coushatta)",
    "channel": "Lorenzo’s Disaster Forecast",
@@ -2700,7 +3116,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 0
   },
   {
    "id": "7ENajB9CG9E",
@@ -2723,7 +3139,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 20
+   "comments": 19
   },
   {
    "id": "qikVGS3T3HI",
@@ -2811,6 +3227,54 @@
    "comments": 0
   },
   {
+   "id": "K-yBf7QXDkA",
+   "title": "Session Spotlight: lab-grown meat, sports betting, and wind turbines",
+   "channel": "KOKH - FOX 25",
+   "published": "2025-03-31",
+   "url": "https://www.youtube.com/watch?v=K-yBf7QXDkA",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 1
+  },
+  {
+   "id": "hBFII3-7v_U",
+   "title": "Does wind turbine bill infringe too much on property rights?",
+   "channel": "Tulsa's News Pulse",
+   "published": "2025-03-11",
+   "url": "https://www.youtube.com/watch?v=hBFII3-7v_U",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "J0c0stnIjKY",
    "title": "Oklahoma&#39;s Own In Focus: Eminent domain power struggle",
    "channel": "News On 6/KOTV",
@@ -2856,7 +3320,8 @@
    "elsewhere": false,
    "found_by": [
     "Mayes County",
-    "McIntosh County"
+    "McIntosh County",
+    "Tulsa"
    ],
    "score": 5,
    "first_seen": "2026-09-23",
@@ -2912,6 +3377,34 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "xf5fL7rCbTc",
+   "title": "CROP: Landowner Stories - Tony (OK)",
+   "channel": "Center for Rural Opportunity and Power",
+   "published": "2024-09-18",
+   "url": "https://www.youtube.com/watch?v=xf5fL7rCbTc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Woodward"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Woodward"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 1
   },
   {
    "id": "FJ8QhcldrzA",
@@ -2970,6 +3463,29 @@
    "comments": 1
   },
   {
+   "id": "_jB3cDOsN9M",
+   "title": "Chickasaw National Recreation Area assesses damage done by tornado",
+   "channel": "KXII 12 | Texoma Turns To Us",
+   "published": "2024-05-07",
+   "url": "https://www.youtube.com/watch?v=_jB3cDOsN9M",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Ardmore"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
    "id": "4i6Zpq2tA84",
    "title": "Power Lines Downed In Canadian County Near Calumet From Severe Weather",
    "channel": "Oklahoma's Own",
@@ -2997,6 +3513,35 @@
    "first_seen": "2026-09-16",
    "comments": 0,
    "comments_off": true
+  },
+  {
+   "id": "IFx9KaqppCw",
+   "title": "Two Wheel Oklahoma: Episode 6 Route 66 from El Reno to Woodward",
+   "channel": "Two Wheel Oklahoma",
+   "published": "2024-03-01",
+   "url": "https://www.youtube.com/watch?v=IFx9KaqppCw",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "El Reno",
+    "Woodward"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Woodward"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "JOM8Mq5DPRY",
@@ -3070,6 +3615,31 @@
    "first_seen": "2026-09-14",
    "comments": 0,
    "comments_off": true
+  },
+  {
+   "id": "YoBrpIS-1s4",
+   "title": "Removing Osage Wind farm leaves school district with huge funding gap",
+   "channel": "tulsaworld",
+   "published": "2024-01-29",
+   "url": "https://www.youtube.com/watch?v=YoBrpIS-1s4",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "7PXKnwvDnqw",
@@ -3504,7 +4074,32 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 25
+   "comments": 26
+  },
+  {
+   "id": "tIzu8f7Mg_Q",
+   "title": "Shocking Images Of Oklahoma DEADLY EF3 TORNADO - 4 Dead, Over $100 Million In Damages",
+   "channel": "Crisis Radar",
+   "published": "2026-04-02",
+   "url": "https://www.youtube.com/watch?v=tIzu8f7Mg_Q",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Durant"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-29",
+   "comments": 4
   },
   {
    "id": "B4rAaqbjrRE",
@@ -3766,6 +4361,31 @@
    "comments": 0
   },
   {
+   "id": "1-dH8VxsfME",
+   "title": "Back Roads lead to WinStar and Oklahoma  tornado damage in Marietta, Oklahoma",
+   "channel": "Pirate Sparrow Adventures",
+   "published": "2024-05-04",
+   "url": "https://www.youtube.com/watch?v=1-dH8VxsfME",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Ardmore"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-29",
+   "comments": 2
+  },
+  {
    "id": "fdjrgcp_7JQ",
    "title": "Hail Smashes 4,000-Acre Solar Farm in Texas",
    "channel": "AccuWeather",
@@ -3789,7 +4409,32 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 612
+   "comments": 609
+  },
+  {
+   "id": "WOVKxnd-auE",
+   "title": "The Oklahoma Arbuckle Wind Farm",
+   "channel": "Ira T",
+   "published": "2024-03-10",
+   "url": "https://www.youtube.com/watch?v=WOVKxnd-auE",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Ardmore"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-29",
+   "comments": 0
   },
   {
    "id": "fjwlRfPLXCQ",
@@ -4516,7 +5161,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 142
+   "comments": 141
   },
   {
    "id": "TM0C07Huc1g",
@@ -4802,7 +5447,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 187
+   "comments": 195
   },
   {
    "id": "eAQiCha5RDw",

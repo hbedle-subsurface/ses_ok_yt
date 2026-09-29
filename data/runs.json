@@ -1,6 +1,48 @@
 {
  "runs": [
   {
+   "when": "2026-09-29T18:06:35+00:00",
+   "searches": 85,
+   "counties": 77,
+   "sweep_position": 240,
+   "sweep_total": 662,
+   "videos_seen": 370,
+   "videos_rejected": 291,
+   "new_videos": 24,
+   "tracked_videos": 219,
+   "new_comments": 31,
+   "refreshed_comments": 3558,
+   "expired_comments": 0,
+   "total_comments": 3626,
+   "problems": [
+    "search \"Oklahoma Class VI injection well carbon\" — 429 rateLimitExceeded",
+    "search \"Oklahoma small modular reactor SMR\" — 429 rateLimitExceeded",
+    "search \"Oklahoma nuclear plant residents\" — 429 rateLimitExceeded",
+    "search \"Oklahoma hydrogen plant opposition\" — 429 rateLimitExceeded",
+    "search \"agrivoltaics farmers Oklahoma\" — 429 rateLimitExceeded",
+    "search \"solar grazing sheep Oklahoma\" — 429 rateLimitExceeded",
+    "search \"solar canal irrigation district\" — 429 rateLimitExceeded",
+    "search \"Pensacola Dam relicensing flooding\" — 429 rateLimitExceeded",
+    "search \"Oklahoma dam flooding easements FERC\" — 429 rateLimitExceeded",
+    "search \"Grand Lake water level lawsuit\" — 429 rateLimitExceeded",
+    "search \"Oklahoma power line easement opposition\" — 429 rateLimitExceeded",
+    "search \"Oklahoma injection well earthquakes residents\" — 429 rateLimitExceeded",
+    "search \"Oklahoma induced seismicity disposal well\" — 429 rateLimitExceeded",
+    "search \"Oklahoma Corporation Commission earthquake wells\" — 429 rateLimitExceeded",
+    "search \"Oklahoma geothermal power plant\" — 429 rateLimitExceeded",
+    "search \"Oklahoma enhanced geothermal drilling\" — 429 rateLimitExceeded",
+    "search \"Oklahoma anaerobic digester odor neighbors\" — 429 rateLimitExceeded",
+    "search \"Oklahoma renewable natural gas poultry litter\" — 429 rateLimitExceeded",
+    "search \"Rogers County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Seminole County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Sequoyah County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Stephens County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Texas County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Tillman County Oklahoma wind farm\" — 429 rateLimitExceeded",
+    "search \"Tulsa County Oklahoma wind farm\" — 429 rateLimitExceeded"
+   ]
+  },
+  {
    "when": "2026-09-23T17:52:48+00:00",
    "searches": 85,
    "counties": 77,
@@ -91,5 +133,5 @@
    ]
   }
  ],
- "cursor": 192
+ "cursor": 240
 }
