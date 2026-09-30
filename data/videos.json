@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-29T18:06:35+00:00",
- "tracked": 219,
+ "updated": "2026-09-30T18:28:42+00:00",
+ "tracked": 241,
  "videos": [
   {
    "id": "9_JoA-AflTw",
@@ -223,8 +223,12 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Alfalfa County",
+    "Creek County",
     "Edmond",
     "Enid",
+    "Garfield County",
+    "Grant County",
     "Moore",
     "Norman",
     "Oklahoma City",
@@ -294,6 +298,37 @@
    "score": 9,
    "first_seen": "2026-09-14",
    "comments": 0
+  },
+  {
+   "id": "0vGpeMWz48E",
+   "title": "Damage found in the Wheeler District after overnight storms in Oklahoma City metro",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=0vGpeMWz48E",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Blanchard",
+    "Choctaw",
+    "Guthrie"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-30",
+   "comments": 1
   },
   {
    "id": "DgrZcARaOUE",
@@ -439,8 +474,10 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Choctaw",
     "Cleveland County",
     "Creek County",
+    "Guthrie",
     "Lincoln County",
     "Logan County",
     "McClain County",
@@ -555,11 +592,42 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Atoka County",
     "national"
    ],
    "score": 8,
    "first_seen": "2026-09-14",
    "comments": 10
+  },
+  {
+   "id": "rTR74GURHgQ",
+   "title": "Tornado damage found and car flipped over in Oklahoma City neighborhood",
+   "channel": "KOCO 5 News",
+   "published": "2024-11-03",
+   "url": "https://www.youtube.com/watch?v=rTR74GURHgQ",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Guthrie",
+    "Wagoner"
+   ],
+   "score": 8,
+   "first_seen": "2026-09-30",
+   "comments": 7
   },
   {
    "id": "r46C43PwSso",
@@ -752,6 +820,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Glenpool",
     "Mayes County",
     "Okmulgee County",
     "Osage County",
@@ -838,6 +907,35 @@
    "score": 7,
    "first_seen": "2026-09-23",
    "comments": 1
+  },
+  {
+   "id": "LcFGiarfdCI",
+   "title": "Video: Silver City residents share concerns over proposed battery energy storage project",
+   "channel": "FOX23 News Tulsa",
+   "published": "2025-11-18",
+   "url": "https://www.youtube.com/watch?v=LcFGiarfdCI",
+   "topics": [
+    "battery_storage"
+   ],
+   "counties": [
+    "Creek County"
+   ],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Stillwater"
+   ],
+   "local_because": [
+    "county named",
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Creek County"
+   ],
+   "score": 7,
+   "first_seen": "2026-09-30",
+   "comments": 0
   },
   {
    "id": "GXID36ZSGVw",
@@ -1416,11 +1514,16 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Catoosa",
+    "Collinsville",
+    "Coweta",
     "Creek County",
+    "Glenpool",
     "Muskogee County",
     "Okmulgee County",
     "Osage County",
     "Pawnee County",
+    "Skiatook",
     "Wagoner County"
    ],
    "score": 6,
@@ -1450,10 +1553,15 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Catoosa",
+    "Collinsville",
+    "Coweta",
+    "Glenpool",
     "Muskogee County",
     "Okmulgee County",
     "Osage County",
     "Pawnee County",
+    "Skiatook",
     "Wagoner County"
    ],
    "score": 6,
@@ -1480,9 +1588,11 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Blanchard",
     "Caddo County",
     "Grady County",
-    "McClain County"
+    "McClain County",
+    "Newcastle"
    ],
    "score": 6,
    "first_seen": "2026-09-16",
@@ -1508,11 +1618,97 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Durant"
+    "Blanchard",
+    "Durant",
+    "Newcastle"
    ],
    "score": 6,
    "first_seen": "2026-09-29",
    "comments": 9
+  },
+  {
+   "id": "vE7ckHOUDM8",
+   "title": "See It: Severe Storms Unleash 80 Mph Winds, Leaving Oklahoma Livestock Farm With Widespread Damage",
+   "channel": "FOX Weather",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=vE7ckHOUDM8",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Blanchard"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Blanchard"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 3
+  },
+  {
+   "id": "Jb7RXW5hwt0",
+   "title": "Massive tornadoes injures 10, damaged homes as storms hit Oklahoma towns, Air Force base",
+   "channel": "The Oklahoman",
+   "published": "2026-04-24",
+   "url": "https://www.youtube.com/watch?v=Jb7RXW5hwt0",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Enid"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Inola"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 3
+  },
+  {
+   "id": "IiY3DcSXIIY",
+   "title": "What sound does a wind turbine make? Wind turbines of The Kiamichi Valley, Tuskahoma, OK",
+   "channel": "Kiamichi Valley Life",
+   "published": "2026-04-09",
+   "url": "https://www.youtube.com/watch?v=IiY3DcSXIIY",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Choctaw"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Choctaw"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 0
   },
   {
    "id": "1v4iSRt5mTE",
@@ -1539,6 +1735,88 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 6
+  },
+  {
+   "id": "sk7Rp2yE2bQ",
+   "title": "Weatherford Wind Energy Park Reel | Route 66 | Western Oklahoma | FlyView Tours",
+   "channel": "FlyView Tours",
+   "published": "2026-04-03",
+   "url": "https://www.youtube.com/watch?v=sk7Rp2yE2bQ",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Weatherford"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Weatherford"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 0
+  },
+  {
+   "id": "cSVwYMzQ8OQ",
+   "title": "Weatherford Wind Energy Park | Route 66 | Western Oklahoma | FlyView Tours",
+   "channel": "FlyView Tours",
+   "published": "2026-04-03",
+   "url": "https://www.youtube.com/watch?v=cSVwYMzQ8OQ",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Weatherford"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Weatherford"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 0
+  },
+  {
+   "id": "UaSAMTRg3ME",
+   "title": "OG&amp;E proposes new energy storage project, meaning customers could see higher bills",
+   "channel": "KOCO 5 News",
+   "published": "2026-03-18",
+   "url": "https://www.youtube.com/watch?v=UaSAMTRg3ME",
+   "topics": [
+    "battery_storage"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 1
   },
   {
    "id": "KRglsrX9kc4",
@@ -1593,6 +1871,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Blanchard",
     "national"
    ],
    "score": 6,
@@ -1786,7 +2065,12 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Claremore"
+    "Catoosa",
+    "Claremore",
+    "Collinsville",
+    "Coweta",
+    "Glenpool",
+    "Skiatook"
    ],
    "score": 6,
    "first_seen": "2026-09-29",
@@ -1932,7 +2216,8 @@
     "Custer County",
     "Dewey County",
     "Ellis County",
-    "Oklahoma County"
+    "Oklahoma County",
+    "Weatherford"
    ],
    "score": 6,
    "first_seen": "2026-09-16",
@@ -2018,11 +2303,79 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Catoosa",
     "Claremore",
+    "Collinsville",
+    "Coweta",
+    "Glenpool",
+    "Skiatook",
     "Tulsa"
    ],
    "score": 6,
    "first_seen": "2026-09-29",
+   "comments": 0
+  },
+  {
+   "id": "pv-bbYncMDI",
+   "title": "Oklahoma bill would strengthen regulations on wind farms",
+   "channel": "KOCO 5 News",
+   "published": "2025-03-26",
+   "url": "https://www.youtube.com/watch?v=pv-bbYncMDI",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Blanchard",
+    "Choctaw",
+    "Guthrie",
+    "Newcastle"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
+   "comments": 0,
+   "comments_off": true
+  },
+  {
+   "id": "k-ajOHa-RBE",
+   "title": "Tulsa area winds cause false data, minor damage",
+   "channel": "usacetulsa",
+   "published": "2025-03-24",
+   "url": "https://www.youtube.com/watch?v=k-ajOHa-RBE",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa",
+    "Skiatook"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Catoosa",
+    "Collinsville",
+    "Coweta",
+    "Glenpool",
+    "Skiatook"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
    "comments": 0
   },
   {
@@ -2170,6 +2523,36 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "knD_6Qrvbpw",
+   "title": "Oklahoma Wind Energy Center ⚽💨⚡",
+   "channel": "Daniel Dadoun",
+   "published": "2025-02-17",
+   "url": "https://www.youtube.com/watch?v=knD_6Qrvbpw",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "California",
+    "New York",
+    "Oklahoma"
+   ],
+   "towns": [
+    "Weatherford"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Weatherford"
+   ],
+   "score": 6,
+   "first_seen": "2026-09-30",
    "comments": 0
   },
   {
@@ -2399,12 +2782,17 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Catoosa",
     "Claremore",
+    "Collinsville",
+    "Coweta",
     "Craig County",
+    "Inola",
     "Mayes County",
     "Muskogee County",
     "Nowata County",
     "Okmulgee County",
+    "Wagoner",
     "Wagoner County"
    ],
    "score": 6,
@@ -2496,7 +2884,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 633
+   "comments": 634
   },
   {
    "id": "A9A985paKBQ",
@@ -2699,6 +3087,31 @@
    "comments": 0
   },
   {
+   "id": "8ZD1Ki6Rap4",
+   "title": "Weatherford Ok dog park and wind farm display",
+   "channel": "Vincen Jones",
+   "published": "2026-08-19",
+   "url": "https://www.youtube.com/watch?v=8ZD1Ki6Rap4",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Weatherford"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Weatherford"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-30",
+   "comments": 1
+  },
+  {
    "id": "JTsZxpkwYp0",
    "title": "Oklahoma Advances in Competition for U S  Nuclear Innovation Campus",
    "channel": "Oklahoma's Own",
@@ -2801,6 +3214,7 @@
    "elsewhere": false,
    "found_by": [
     "Cleveland County",
+    "Newcastle",
     "Noble County"
    ],
    "score": 5,
@@ -3217,6 +3631,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Blanchard",
     "Caddo County",
     "Comanche County",
     "Garvin County",
@@ -3642,6 +4057,32 @@
    "comments": 0
   },
   {
+   "id": "kS_lsbWKDdc",
+   "title": "Massive wind farm proposed for southern Idaho could be facing stiff headwind",
+   "channel": "KIFI Local News 8",
+   "published": "2023-11-01",
+   "url": "https://www.youtube.com/watch?v=kS_lsbWKDdc",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Idaho"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Pryor"
+   ],
+   "score": 5,
+   "first_seen": "2026-09-30",
+   "comments": 0
+  },
+  {
    "id": "7PXKnwvDnqw",
    "title": "Profitable Practices: Solar grazing with Shady Creek Lamb Co.",
    "channel": "RealAgriculture",
@@ -3845,6 +4286,31 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
+   "comments": 0
+  },
+  {
+   "id": "gwQAFEW2PBc",
+   "title": "3 signs your roof has hidden storm damage #roofrepair #oklahoma #haildamage",
+   "channel": "Top View Roofing Local Roofer ",
+   "published": "2026-08-04",
+   "url": "https://www.youtube.com/watch?v=gwQAFEW2PBc",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Newcastle"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-30",
    "comments": 0
   },
   {
@@ -4074,7 +4540,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 26
+   "comments": 25
   },
   {
    "id": "tIzu8f7Mg_Q",
@@ -4283,6 +4749,31 @@
    "comments": 3
   },
   {
+   "id": "w_rLiVjCt4Y",
+   "title": "Oklahoma Storm Warning: Heavy Wind Damage, Flooded Ponds &amp; Power Outages Hit Our Farm",
+   "channel": "Paragon Ridge Ranch",
+   "published": "2024-11-05",
+   "url": "https://www.youtube.com/watch?v=w_rLiVjCt4Y",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Glenpool"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-30",
+   "comments": 107
+  },
+  {
    "id": "kAnGhNQ2mkE",
    "title": "Working and living near a wind farm #Oklahoma #windfarm #renewables #cleanenergy #renewableenergy",
    "channel": "EDP Renewables North America",
@@ -4384,6 +4875,31 @@
    "score": 4,
    "first_seen": "2026-09-29",
    "comments": 2
+  },
+  {
+   "id": "WpgCugwi1Zs",
+   "title": "OKLAHOMA TORNADOES: Widespread Damage | Taking Shelter With 4 Dogs|  Devastation in Sulphur Oklahoma",
+   "channel": "Paragon Ridge Ranch",
+   "published": "2024-04-28",
+   "url": "https://www.youtube.com/watch?v=WpgCugwi1Zs",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Glenpool"
+   ],
+   "score": 4,
+   "first_seen": "2026-09-30",
+   "comments": 223
   },
   {
    "id": "fdjrgcp_7JQ",
@@ -5089,6 +5605,31 @@
    "comments": 16
   },
   {
+   "id": "L60ucwc3yyE",
+   "title": "Serious damage after tornadoes, severe storms tear through Illinois",
+   "channel": "USA TODAY",
+   "published": "2026-06-13",
+   "url": "https://www.youtube.com/watch?v=L60ucwc3yyE",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Illinois"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Pryor"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-30",
+   "comments": 12
+  },
+  {
    "id": "cCJX0jHMBAw",
    "title": "Power Starts Below: A Day in Geothermal Drilling",
    "channel": "Ensign Energy",
@@ -5112,6 +5653,31 @@
    "score": 3,
    "first_seen": "2026-09-14",
    "comments": 4
+  },
+  {
+   "id": "5n4CPks_-vg",
+   "title": "California’s Solar Canal Project Is Saving Billions of Gallons of Water",
+   "channel": "Unwaste The Planet",
+   "published": "2026-05-25",
+   "url": "https://www.youtube.com/watch?v=5n4CPks_-vg",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-30",
+   "comments": 3
   },
   {
    "id": "jZsHqvTTZBA",
@@ -5211,7 +5777,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 377
+   "comments": 384
   },
   {
    "id": "BJ191tNE2cY",
@@ -5238,6 +5804,31 @@
    "score": 3,
    "first_seen": "2026-09-16",
    "comments": 1
+  },
+  {
+   "id": "Cr2WuGAOt18",
+   "title": "California Is Putting Solar Panels Over Water Canals to Save 63 Billion Gallons",
+   "channel": "Curiosity AI",
+   "published": "2025-11-26",
+   "url": "https://www.youtube.com/watch?v=Cr2WuGAOt18",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-30",
+   "comments": 5
   },
   {
    "id": "X8PqBiC3RoE",
@@ -5548,6 +6139,31 @@
    "score": 3,
    "first_seen": "2026-09-23",
    "comments": 0
+  },
+  {
+   "id": "AiSl18dEVLY",
+   "title": "Highland Cows Lost Their Barn, They are Crying  💨🔥 70 mph wind in Oklahoma,  Anxious and Upset",
+   "channel": "Paragon Ridge Ranch",
+   "published": "2025-03-15",
+   "url": "https://www.youtube.com/watch?v=AiSl18dEVLY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Glenpool"
+   ],
+   "score": 3,
+   "first_seen": "2026-09-30",
+   "comments": 36
   },
   {
    "id": "hvGHtmORDGY",
@@ -5951,6 +6567,31 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "3k9MOTP8v6E",
+   "title": "California Covered Its Canals With Solar Panels. The Results Are In.",
+   "channel": "The Upstream",
+   "published": "2026-09-25",
+   "url": "https://www.youtube.com/watch?v=3k9MOTP8v6E",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 2,
+   "first_seen": "2026-09-30",
    "comments": 0
   },
   {
