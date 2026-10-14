@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:23:02+00:00",
+ "updated": "2026-10-14T18:02:51+00:00",
  "tracked": 250,
  "videos": [
   {
@@ -944,6 +944,7 @@
     "Osage County",
     "Pawnee County",
     "Payne County",
+    "Stillwater",
     "Tulsa",
     "Tulsa County"
    ],
@@ -1363,7 +1364,7 @@
    ],
    "score": 6,
    "first_seen": "2026-10-07",
-   "comments": 30
+   "comments": 32
   },
   {
    "id": "9hRKGLFhcek",
@@ -1879,6 +1880,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Del City",
     "Delaware County",
     "Oklahoma County"
    ],
@@ -1973,7 +1975,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "1xaMvIvFABI",
@@ -2979,7 +2981,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 630
+   "comments": 631
   },
   {
    "id": "A9A985paKBQ",
@@ -3008,6 +3010,34 @@
    "score": 6,
    "first_seen": "2026-09-29",
    "comments": 0
+  },
+  {
+   "id": "WvAuQNEiOz4",
+   "title": "456 Nuclear Reactors in Utah, Great Salt Lake on the Edge &amp; Midterms in 4 Weeks",
+   "channel": "Small Lake City Podcast",
+   "published": "2026-10-12",
+   "url": "https://www.youtube.com/watch?v=WvAuQNEiOz4",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [
+    "Carbon County"
+   ],
+   "states": [
+    "Utah"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 5,
+   "first_seen": "2026-10-14",
+   "comments": 1
   },
   {
    "id": "nFdFw9mKV5w",
@@ -3179,7 +3209,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "8ZD1Ki6Rap4",
@@ -3342,7 +3372,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 641
+   "comments": 636
   },
   {
    "id": "SP6bsyrG7s8",
@@ -3625,7 +3655,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "7ENajB9CG9E",
@@ -4203,6 +4233,31 @@
    "comments": 8
   },
   {
+   "id": "tFahy8bZVUg",
+   "title": "Oklahoma Legislators Debate Nuclear Future Amidst Rate Hike Requests #Shorts",
+   "channel": "NukeWorker",
+   "published": "2026-10-08",
+   "url": "https://www.youtube.com/watch?v=tFahy8bZVUg",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-14",
+   "comments": 0
+  },
+  {
    "id": "RZqZgdhkYkY",
    "title": "How Oil Wastewater Became an Earthquake Machine",
    "channel": "Tectonic Xplain",
@@ -4660,7 +4715,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 25
+   "comments": 26
   },
   {
    "id": "tIzu8f7Mg_Q",
@@ -4761,7 +4816,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 4
+   "comments": 3
   },
   {
    "id": "e9_WX0USKyE",
@@ -4912,11 +4967,12 @@
    ],
    "elsewhere": true,
    "found_by": [
+    "Del City",
     "Oklahoma City"
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 191
+   "comments": 193
   },
   {
    "id": "w_rLiVjCt4Y",
@@ -5094,7 +5150,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-30",
-   "comments": 223
+   "comments": 224
   },
   {
    "id": "fdjrgcp_7JQ",
@@ -5120,7 +5176,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 609
+   "comments": 603
   },
   {
    "id": "WOVKxnd-auE",
@@ -5195,7 +5251,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 57
+   "comments": 59
   },
   {
    "id": "Mmln5POdgZc",
@@ -5216,6 +5272,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Blanchard",
+    "Newcastle",
     "Norman"
    ],
    "score": 4,
@@ -5348,6 +5406,31 @@
    "comments": 6
   },
   {
+   "id": "wUaM77iITFs",
+   "title": "We Buried Wastewater — Then Oklahoma Started Shaking",
+   "channel": "WE EARTH NOW",
+   "published": "2026-09-21",
+   "url": "https://www.youtube.com/watch?v=wUaM77iITFs",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-14",
+   "comments": 0
+  },
+  {
    "id": "RNRZubgf66s",
    "title": "A Calm Start to the Day on an Oklahoma Farm",
    "channel": "Sandy Wind Projects",
@@ -5473,6 +5556,31 @@
    "score": 3,
    "first_seen": "2026-09-14",
    "comments": 1
+  },
+  {
+   "id": "C1J6S7Lk0j0",
+   "title": "Inside Fervo Energy&#39;s enhanced geothermal project in Utah",
+   "channel": "CNBC Television",
+   "published": "2026-09-04",
+   "url": "https://www.youtube.com/watch?v=C1J6S7Lk0j0",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Utah"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-14",
+   "comments": 13
   },
   {
    "id": "jW-ci0T_nhc",
@@ -5622,7 +5730,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "wUMSefNjlm4",
@@ -5772,7 +5880,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "TUalrIjy0CM",
@@ -5797,7 +5905,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "NTvvyJCAWPQ",
@@ -5822,7 +5930,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 16
+   "comments": 15
   },
   {
    "id": "J8r1k0-4TuA",
@@ -5847,7 +5955,7 @@
    ],
    "score": 3,
    "first_seen": "2026-10-07",
-   "comments": 25
+   "comments": 29
   },
   {
    "id": "L60ucwc3yyE",
@@ -6022,7 +6130,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 377
+   "comments": 384
   },
   {
    "id": "BJ191tNE2cY",
@@ -6310,7 +6418,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 195
+   "comments": 193
   },
   {
    "id": "eAQiCha5RDw",
