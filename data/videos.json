@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:02:51+00:00",
+ "updated": "2026-10-21T18:05:56+00:00",
  "tracked": 250,
  "videos": [
   {
@@ -780,7 +780,7 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 18
+   "comments": 19
   },
   {
    "id": "KdjUqaH5QZg",
@@ -805,7 +805,7 @@
    ],
    "score": 7,
    "first_seen": "2026-09-16",
-   "comments": 26
+   "comments": 28
   },
   {
    "id": "81obSJGCxDs",
@@ -2981,7 +2981,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 631
+   "comments": 639
   },
   {
    "id": "A9A985paKBQ",
@@ -3372,7 +3372,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 636
+   "comments": 635
   },
   {
    "id": "SP6bsyrG7s8",
@@ -3679,6 +3679,29 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 19
+  },
+  {
+   "id": "lRqJtQmozNo",
+   "title": "Pensacola Beach restaurants damaged by storms",
+   "channel": "WEAR Channel 3 News",
+   "published": "2025-05-12",
+   "url": "https://www.youtube.com/watch?v=lRqJtQmozNo",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 5,
+   "first_seen": "2026-10-21",
+   "comments": 0
   },
   {
    "id": "qikVGS3T3HI",
@@ -4233,6 +4256,82 @@
    "comments": 8
   },
   {
+   "id": "PUsVwZxPT50",
+   "title": "10/18/2026 -- Earthquake Activity from Alberta Canada to Arkansas USA -- OIL + GAS ops being hit",
+   "channel": "dutchsinse",
+   "published": "2026-10-19",
+   "url": "https://www.youtube.com/watch?v=PUsVwZxPT50",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Arkansas",
+    "Kansas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-21",
+   "comments": 215
+  },
+  {
+   "id": "MLX9BHmrXSA",
+   "title": "Oklahoma Went From 2 Earthquakes a Year to 900, and We Know Why",
+   "channel": "Earth Beneath Us",
+   "published": "2026-10-18",
+   "url": "https://www.youtube.com/watch?v=MLX9BHmrXSA",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-21",
+   "comments": 0
+  },
+  {
+   "id": "q6UPMO36aUM",
+   "title": "Humans Can Actually Trigger Earthquakes?! 😳",
+   "channel": "HexaGraf",
+   "published": "2026-10-17",
+   "url": "https://www.youtube.com/watch?v=q6UPMO36aUM",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-21",
+   "comments": 2
+  },
+  {
    "id": "tFahy8bZVUg",
    "title": "Oklahoma Legislators Debate Nuclear Future Amidst Rate Hike Requests #Shorts",
    "channel": "NukeWorker",
@@ -4564,7 +4663,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 5
+   "comments": 4
   },
   {
    "id": "9es9Qf6vGtg",
@@ -4920,7 +5019,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 173
+   "comments": 172
   },
   {
    "id": "VTGB6UE1d6s",
@@ -4972,7 +5071,7 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 193
+   "comments": 190
   },
   {
    "id": "w_rLiVjCt4Y",
@@ -5176,7 +5275,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 603
+   "comments": 604
   },
   {
    "id": "WOVKxnd-auE",
@@ -5406,6 +5505,31 @@
    "comments": 6
   },
   {
+   "id": "iu9jXKVZte4",
+   "title": "Major damage after Hurricane Isaias",
+   "channel": "CBS News",
+   "published": "2026-10-12",
+   "url": "https://www.youtube.com/watch?v=iu9jXKVZte4",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Florida"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-21",
+   "comments": 9
+  },
+  {
    "id": "wUaM77iITFs",
    "title": "We Buried Wastewater — Then Oklahoma Started Shaking",
    "channel": "WE EARTH NOW",
@@ -5428,6 +5552,31 @@
    ],
    "score": 3,
    "first_seen": "2026-10-14",
+   "comments": 0
+  },
+  {
+   "id": "F4muOP6XEnA",
+   "title": "Here’s What California Is Learning From Solar Panels Built Over Irrigation Canals",
+   "channel": "Scott",
+   "published": "2026-09-21",
+   "url": "https://www.youtube.com/watch?v=F4muOP6XEnA",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-21",
    "comments": 0
   },
   {
@@ -5580,7 +5729,7 @@
    ],
    "score": 3,
    "first_seen": "2026-10-14",
-   "comments": 13
+   "comments": 15
   },
   {
    "id": "jW-ci0T_nhc",
@@ -5955,7 +6104,7 @@
    ],
    "score": 3,
    "first_seen": "2026-10-07",
-   "comments": 29
+   "comments": 31
   },
   {
    "id": "L60ucwc3yyE",
@@ -6080,7 +6229,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 141
+   "comments": 135
   },
   {
    "id": "TM0C07Huc1g",
@@ -6130,7 +6279,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 384
+   "comments": 382
   },
   {
    "id": "BJ191tNE2cY",
@@ -6315,7 +6464,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 8
+   "comments": 12
   },
   {
    "id": "qgfcU4eexwU",
@@ -6418,7 +6567,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 193
+   "comments": 196
   },
   {
    "id": "eAQiCha5RDw",
@@ -6947,6 +7096,31 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "bXOO1CLSz6w",
+   "title": "America Just Drilled 10,000ft Into 400°F Superhot Granite",
+   "channel": "New World Invents",
+   "published": "2026-10-17",
+   "url": "https://www.youtube.com/watch?v=bXOO1CLSz6w",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Utah"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 2,
+   "first_seen": "2026-10-21",
    "comments": 0
   },
   {
