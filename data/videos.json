@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:05:56+00:00",
+ "updated": "2026-10-28T18:53:43+00:00",
  "tracked": 250,
  "videos": [
   {
@@ -1364,7 +1364,7 @@
    ],
    "score": 6,
    "first_seen": "2026-10-07",
-   "comments": 32
+   "comments": 31
   },
   {
    "id": "9hRKGLFhcek",
@@ -1886,7 +1886,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 1
+   "comments": 2
   },
   {
    "id": "KRglsrX9kc4",
@@ -2291,6 +2291,34 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "LX3PiVa7pvc",
+   "title": "Geothermal Energy: Innovations, Economics, and the Role of Oil &amp; Gas Experts.&quot; By Greg Leveille",
+   "channel": "API OKC American Petroleum Institute Oklahoma City",
+   "published": "2025-05-10",
+   "url": "https://www.youtube.com/watch?v=LX3PiVa7pvc",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-10-28",
    "comments": 0
   },
   {
@@ -2981,7 +3009,7 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 639
+   "comments": 631
   },
   {
    "id": "A9A985paKBQ",
@@ -3010,6 +3038,32 @@
    "score": 6,
    "first_seen": "2026-09-29",
    "comments": 0
+  },
+  {
+   "id": "89uDjx32BQY",
+   "title": "Here’s What California Is Learning From Solar Panels Built Over Irrigation Canals",
+   "channel": "KQED News",
+   "published": "2026-10-27",
+   "url": "https://www.youtube.com/watch?v=89uDjx32BQY",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 5,
+   "first_seen": "2026-10-28",
+   "comments": 241
   },
   {
    "id": "WvAuQNEiOz4",
@@ -3372,7 +3426,7 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 635
+   "comments": 633
   },
   {
    "id": "SP6bsyrG7s8",
@@ -4256,6 +4310,56 @@
    "comments": 8
   },
   {
+   "id": "cq_v02szAi8",
+   "title": "Oklahoma Went From Two Earthquakes a Year to More Than Two a Day",
+   "channel": "Under The States",
+   "published": "2026-10-26",
+   "url": "https://www.youtube.com/watch?v=cq_v02szAi8",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
+   "id": "Z6RZNeUcQqQ",
+   "title": "Oklahoma went from about 1 earthquake a year to 887. What changed?",
+   "channel": "Sarkoa",
+   "published": "2026-10-22",
+   "url": "https://www.youtube.com/watch?v=Z6RZNeUcQqQ",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 1
+  },
+  {
    "id": "PUsVwZxPT50",
    "title": "10/18/2026 -- Earthquake Activity from Alberta Canada to Arkansas USA -- OIL + GAS ops being hit",
    "channel": "dutchsinse",
@@ -4279,7 +4383,7 @@
    ],
    "score": 4,
    "first_seen": "2026-10-21",
-   "comments": 215
+   "comments": 220
   },
   {
    "id": "MLX9BHmrXSA",
@@ -4332,6 +4436,31 @@
    "comments": 2
   },
   {
+   "id": "4oq4SaBwJzQ",
+   "title": "Oklahoma Went from 2 Earthquakes a Year to Nearly 900 — Was Fracking Really to Blame?",
+   "channel": "WHY PLACES",
+   "published": "2026-10-16",
+   "url": "https://www.youtube.com/watch?v=4oq4SaBwJzQ",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
    "id": "tFahy8bZVUg",
    "title": "Oklahoma Legislators Debate Nuclear Future Amidst Rate Hike Requests #Shorts",
    "channel": "NukeWorker",
@@ -4379,6 +4508,81 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
+   "comments": 0
+  },
+  {
+   "id": "eho9Fa8gKBk",
+   "title": "Same Water Heats the House, Then Waters the Cows | Farm Geothermal in Oklahoma",
+   "channel": "Hartzell's Heat & Air",
+   "published": "2026-09-27",
+   "url": "https://www.youtube.com/watch?v=eho9Fa8gKBk",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
+   "id": "9VlWX7dcrOU",
+   "title": "Are there any HVAC or geothermal rebates in Oklahoma right now? | Ask Dave Hartzell",
+   "channel": "Hartzell's Heat & Air",
+   "published": "2026-09-13",
+   "url": "https://www.youtube.com/watch?v=9VlWX7dcrOU",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
+   "id": "aOC3jH1wzEQ",
+   "title": "What rebates can I get for a new heat pump or geothermal system in Oklahoma? | Ask Dave Hartzell",
+   "channel": "Hartzell's Heat & Air",
+   "published": "2026-09-13",
+   "url": "https://www.youtube.com/watch?v=aOC3jH1wzEQ",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
    "comments": 0
   },
   {
@@ -5071,7 +5275,7 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 190
+   "comments": 191
   },
   {
    "id": "w_rLiVjCt4Y",
@@ -5252,6 +5456,31 @@
    "comments": 224
   },
   {
+   "id": "8LqRKDGcoXQ",
+   "title": "The Heat is On: Geothermal Energy - A Promising Path to a Sustainable Future",
+   "channel": "DeepPower",
+   "published": "2024-04-19",
+   "url": "https://www.youtube.com/watch?v=8LqRKDGcoXQ",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
    "id": "fdjrgcp_7JQ",
    "title": "Hail Smashes 4,000-Acre Solar Farm in Texas",
    "channel": "AccuWeather",
@@ -5275,7 +5504,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 604
+   "comments": 603
   },
   {
    "id": "WOVKxnd-auE",
@@ -5350,7 +5579,7 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 59
+   "comments": 58
   },
   {
    "id": "Mmln5POdgZc",
@@ -5480,6 +5709,31 @@
    "comments": 2
   },
   {
+   "id": "wUma2n91xOs",
+   "title": "Challenges of Geothermal Drilling by Sam Abraham",
+   "channel": "Geothermal Rising at OU",
+   "published": "2023-11-13",
+   "url": "https://www.youtube.com/watch?v=wUma2n91xOs",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
    "id": "2frhiAAO3To",
    "title": "The New Mexico Nuclear fusion reactor plant #powerplant #energy #futureplans",
    "channel": "Chris Blurb Media",
@@ -5503,6 +5757,82 @@
    "score": 4,
    "first_seen": "2026-09-14",
    "comments": 6
+  },
+  {
+   "id": "8hkePrUvjRc",
+   "title": "Why Oklahoma Started Shaking (It Wasn&#39;t Fracking)",
+   "channel": "Under the Map",
+   "published": "2026-10-26",
+   "url": "https://www.youtube.com/watch?v=8hkePrUvjRc",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
+   "id": "_iOxmvdSeYo",
+   "title": "Oklahoma Went From 2 Quakes a Year to 903. The cause will surprise you",
+   "channel": "The Deep Atlas",
+   "published": "2026-10-24",
+   "url": "https://www.youtube.com/watch?v=_iOxmvdSeYo",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-28",
+   "comments": 0
+  },
+  {
+   "id": "Tt8AVz8kBME",
+   "title": "America’s Ground Is Waking Up? What You Need to Know About Hidden Faults",
+   "channel": "Storm Lens",
+   "published": "2026-10-23",
+   "url": "https://www.youtube.com/watch?v=Tt8AVz8kBME",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma",
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-28",
+   "comments": 0
   },
   {
    "id": "iu9jXKVZte4",
@@ -5729,7 +6059,7 @@
    ],
    "score": 3,
    "first_seen": "2026-10-14",
-   "comments": 15
+   "comments": 14
   },
   {
    "id": "jW-ci0T_nhc",
@@ -6079,7 +6409,7 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 15
+   "comments": 16
   },
   {
    "id": "J8r1k0-4TuA",
@@ -6789,6 +7119,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Oklahoma City",
     "national"
    ],
    "score": 3,
@@ -6921,6 +7252,31 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
+   "comments": 0
+  },
+  {
+   "id": "8rm0XQo5gJY",
+   "title": "kevin D  blanch ask John Curtis U S  HOUSE REP  &amp; U S  Senate Candide SMR Nuscale &amp; bill gates SMR&#39;S",
+   "channel": "kevin D. blanch",
+   "published": "2024-04-09",
+   "url": "https://www.youtube.com/watch?v=8rm0XQo5gJY",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Utah"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-10-28",
    "comments": 0
   },
   {
@@ -7121,6 +7477,31 @@
    ],
    "score": 2,
    "first_seen": "2026-10-21",
+   "comments": 0
+  },
+  {
+   "id": "Hq6Y3nd1L7c",
+   "title": "Hurricane Isaias Hits Florida: Pensacola Under Water and Without Power | USA | World",
+   "channel": "Asianet News English",
+   "published": "2026-10-10",
+   "url": "https://www.youtube.com/watch?v=Hq6Y3nd1L7c",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Florida"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 2,
+   "first_seen": "2026-10-28",
    "comments": 0
   },
   {
