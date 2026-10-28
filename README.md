@@ -52,6 +52,52 @@ Ana, Val Verde, Palo Pinto.
 
 ---
 
+## Second revision, October 2026
+
+The first full export (1,521 comments from the home state) showed what the topic test was
+letting through. 446 of the 460 comments filed under hydropower were tornado, hail and storm
+coverage, because the hydropower phrase `dam` was matched as a substring of "damage". About
+40 more were pet and farm videos from a channel called Sandy Wind Projects, which passed the
+wind test on its channel name. One wind-ruling video supplied 641 comments, 612 of them in a
+single month. Changes:
+
+- **Whole-word topic matching.** Short phrases such as `dam`, `smr` and `ccs` must be whole
+  words. Longer phrases must start on a word boundary, so `decommission` still finds
+  "decommissioning". Comment cues use the same start-of-word rule.
+- **The topic test reads the title and description only**, not the channel name.
+- **`title_blocklist` and `channel_blocklist`** in `queries.json`. A video whose title carries
+  a block word (tornado, hail, storm, damage, lamb...) is turned away when the topic phrase
+  appears only in the description. A title that names the subject itself is kept, so a
+  tornado that hits a wind farm still comes through. The channel list is exact names.
+- **Stored videos are re-checked at the start of each run.** Videos collected before this
+  change are dropped if their title names none of their topics and carries a block word or
+  sits on a blocked channel. Their stored comment text is then removed on the usual
+  thirty-day rule. Videos that fail the title test without a block word are kept and marked
+  `unverified` for you to look at. Export your coding before the first run.
+- **`matched_on`** is stored for every new video: the phrase that matched and whether it was
+  in the title or the description.
+- **Large videos are flagged, not dropped.** A video is `dominant` when it holds 100 or more
+  stored comments or 25% of all of them (`dominant_min_comments`, `dominant_share`). The page
+  can hide them, and the exports carry the flag, so counts can be run with and without.
+- **Scope.** Each comment gets a scope after you read it: local (writing as someone in the
+  home state or the affected area), elsewhere or general, or can't tell. The collector adds
+  a `scope_hint` of `self-placed` ("we live in", "my county", "our land") or `other place`
+  (names a different state). The hint is a suggestion and is never counted as a code.
+- **Mixed-story videos.** A checkbox on each comment marks its video as covering more than
+  one story. The mark belongs to the video, is kept in the browser with your coding, and is
+  in the session backup and both exports.
+- **New category, `partisan`**, under a new group, Political framing: blaming or crediting a
+  party, politician or movement, or treating the project as one side of a political fight.
+  Code the siting concern as well if there is one. It is the last category, so existing
+  `code_` columns keep their positions.
+
+New columns in the coded-comments export: `scope`, `scope_hint`, `video_mixed_story`,
+`video_dominant`, `video_unverified`, `video_comments_held`. New columns in the videos export:
+`dominant`, `comments_held`, `comment_share`, `unverified`, `mixed_story`, `matched_phrase`,
+`matched_in`.
+
+---
+
 ## Setting it up
 
 Needs a free YouTube API key. Five minutes:

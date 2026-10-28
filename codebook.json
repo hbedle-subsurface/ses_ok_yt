@@ -46,6 +46,10 @@
    "label": "Process and trust"
   },
   {
+   "id": "political",
+   "label": "Political framing"
+  },
+  {
    "id": "cultural",
    "label": "Cultural and tribal"
   },
@@ -941,6 +945,37 @@
     "easement width",
     "can't build",
     "access road"
+   ]
+  },
+  {
+   "id": "partisan",
+   "group": "political",
+   "label": "Partisan or political attribution",
+   "hint": "Blames or credits a party, a politician, or a political movement, or treats the project as one side of a political fight rather than a question about the site. Examples: naming Trump, Biden, Democrats, Republicans, \"the left\", \"globalists\", \"Marxism\", \"climate scam\". Mark the siting concern too if there is one.",
+   "cues": [
+    "trump",
+    "biden",
+    "obama",
+    "democrat",
+    "republican",
+    "liberal",
+    "conservative",
+    "woke",
+    "maga",
+    "marxis",
+    "communis",
+    "socialis",
+    "globalist",
+    "green new deal",
+    "climate scam",
+    "climate hoax",
+    "the left",
+    "leftist",
+    "regime",
+    "libs"
+   ],
+   "applies": [
+    "all"
    ]
   }
  ]

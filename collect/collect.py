@@ -272,9 +272,36 @@ def phrases(terms):
     return [t.strip('"').lower() for t in terms if t.strip('"')]
 
 
+_PHRASE_RE = {}
+
+
+def phrase_re(p):
+    """A topic phrase as a whole-word pattern. The old test was a bare
+    substring, so the hydropower phrase "dam" matched "damage" and about
+    450 tornado, hail and storm comments were filed under dams. Short
+    phrases (dam, smr, ccs, bess) must be whole words, with an optional
+    plural s. Longer ones must start on a word boundary and may run on,
+    so "decommission" still finds "decommissioning"."""
+    if p not in _PHRASE_RE:
+        body = re.escape(p)
+        tail = r'\w*' if len(p) >= 6 else r's?\b'
+        _PHRASE_RE[p] = re.compile(r'\b' + body + tail, re.I)
+    return _PHRASE_RE[p]
+
+
+def first_phrase(text, terms):
+    """The first phrase in `terms` found in `text` as a whole word, or ''."""
+    for p in phrases(terms):
+        if phrase_re(p).search(text):
+            return p
+    return ''
+
+
 def best_topic(text, cfg, asked):
-    matches = [t for t in cfg['topics']
-               if any(p in text for p in phrases(t['recognize']))]
+    """`text` should be the title and description only. The channel name is
+    left out on purpose: a channel called Sandy Wind Projects, which posts
+    lamb and dachshund videos, was passing the wind test on its own name."""
+    matches = [t for t in cfg['topics'] if first_phrase(text, t['recognize'])]
     if not matches:
         return None
     for t in matches:
@@ -323,7 +350,29 @@ def judge(video, asked_topic, cfg, known_counties=(), cities=()):
     text = blob.lower()
     chan = video['channel']
 
-    spec = best_topic(text, cfg, asked_topic)
+    # The subject test reads the title and description only. Place and
+    # broadcaster signals below still read the channel name.
+    subject = ' '.join([video['title'], video['description']])
+    spec = best_topic(subject, cfg, asked_topic)
+
+    in_title = first_phrase(video['title'], spec['recognize']) if spec else ''
+    in_desc = '' if in_title or not spec else first_phrase(video['description'], spec['recognize'])
+    matched_on = ({'phrase': in_title, 'in': 'title'} if in_title
+                  else {'phrase': in_desc, 'in': 'description'} if in_desc else {})
+
+    if chan.lower() in {c.lower() for c in cfg.get('channel_blocklist', [])}:
+        return {'keep': False, 'score': 0, 'topic': asked_topic,
+                'counties': [], 'states': [], 'towns': [], 'local_because': [],
+                'elsewhere': False, 'missing': 'channel is on the block list'}
+
+    # Weather and pet videos mention the subject in passing. If the title
+    # carries a block word and the topic phrase appears only in the
+    # description, the video is not about the subject.
+    blocked = first_phrase(video['title'], cfg.get('title_blocklist', []))
+    if spec and blocked and not in_title:
+        return {'keep': False, 'score': 0, 'topic': asked_topic,
+                'counties': [], 'states': [], 'towns': [], 'local_because': [],
+                'elsewhere': False, 'missing': 'title says "%s"' % blocked}
 
     counties = find_counties(blob, known_counties)
     states = states_named(text)
@@ -363,7 +412,7 @@ def judge(video, asked_topic, cfg, known_counties=(), cities=()):
                 'local_because': why, 'elsewhere': elsewhere,
                 'missing': 'no matching phrase' if spec is None else 'nothing local'}
 
-    score = 3 if any(p in video['title'].lower() for p in phrases(spec['recognize'])) else 2
+    score = 3 if in_title else 2
     score += min(sum(1 for a in cfg['angles'] if a in text), 2)
     if counties or towns:
         score += 2
@@ -374,13 +423,57 @@ def judge(video, asked_topic, cfg, known_counties=(), cities=()):
 
     return {'keep': True, 'score': score, 'topic': spec['id'], 'counties': counties,
             'states': states, 'towns': towns, 'local_because': why,
-            'elsewhere': elsewhere, 'missing': ''}
+            'elsewhere': elsewhere, 'missing': '', 'matched_on': matched_on}
 
 
 def cues_in(text, codebook):
+    """Suggestions only. A cue must start on a word boundary, so "nation"
+    no longer fires on "donation" or "oak" on "soak"."""
     low = (text or '').lower()
     return [c['id'] for c in codebook['categories']
-            if any(q in low for q in c['cues'])]
+            if any(re.search(r'\b' + re.escape(q.lower()), low) for q in c['cues'])]
+
+
+# A comment that places its writer: "here in", "our county", "my land".
+# Used to suggest a scope; the coder still decides.
+SELF_PLACED = re.compile(
+    r"\b(here in|we live in|i live in|live in|living in|grew up in|my county|our county"
+    r"|my town|our town|my area|our area|around here|my land|our land|my farm|our farm"
+    r"|my neighbors?|our neighbors?|in my neighborhood)\b", re.I)
+
+
+def scope_hint(text, home_state):
+    """'self-placed' when the writer says where they are, 'other place' when
+    the text names a state other than home and no self-placement, else ''.
+    A hint for the coder, never a code."""
+    if not text:
+        return ''
+    if SELF_PLACED.search(text):
+        return 'self-placed'
+    low = text.lower()
+    for st in US_STATES:
+        if st != home_state and re.search(r'\b' + re.escape(st.lower()) + r'\b', low):
+            return 'other place'
+    return ''
+
+
+def recheck_stored(v, cfg):
+    """Videos collected before the whole-word fix carry topics assigned by
+    substring match. For those, the title is all that was stored, so it has
+    to carry the topic by itself. A video whose title names none of its
+    topics and contains a block word (tornado, hail, lamb) is dropped.
+    A video that fails the title test without a block word is kept and
+    marked unverified, so nothing disappears on a guess."""
+    if v.get('channel', '').lower() in {c.lower() for c in cfg.get('channel_blocklist', [])}:
+        return 'drop'
+    if v.get('matched_on'):
+        return 'ok'
+    specs = [t for t in cfg['topics'] if t['id'] in v.get('topics', [])]
+    if any(first_phrase(v.get('title', ''), t['recognize']) for t in specs):
+        return 'ok'
+    if first_phrase(v.get('title', ''), cfg.get('title_blocklist', [])):
+        return 'drop'
+    return 'unverified'
 
 
 # ------------------------------------------------------------- comments
@@ -493,6 +586,18 @@ def main():
     store_v = load_json(VIDEOS, {'videos': []})
     store_c = load_json(COMMENTS, {'comments': []})
     known = {v['id']: v for v in store_v['videos']}
+    removed = []
+    for vid in list(known):
+        verdict = recheck_stored(known[vid], cfg)
+        if verdict == 'drop':
+            removed.append(known.pop(vid)['title'])
+        else:
+            known[vid]['unverified'] = (verdict == 'unverified')
+    if removed:
+        print('Removed %d stored videos whose titles do not name their topic '
+              'and look like weather or pet content:' % len(removed))
+        for t in removed[:15]:
+            print('  - ' + t[:90])
     new_videos = 0
     seen = rejected = 0
 
@@ -517,6 +622,9 @@ def main():
                     rec['found_by'] = sorted(set(rec.get('found_by', [])
                                                  + [s['county'] or 'national']))
                     rec['score'] = max(rec.get('score', 0), m['score'])
+                    if m.get('matched_on') and not rec.get('matched_on'):
+                        rec['matched_on'] = m['matched_on']
+                        rec['unverified'] = False
                     continue
                 known[v['id']] = {
                     'id': v['id'], 'title': v['title'], 'channel': v['channel'],
@@ -528,6 +636,7 @@ def main():
                     'elsewhere': m['elsewhere'],
                     'found_by': [s['county'] or 'national'],
                     'score': m['score'], 'first_seen': today(), 'comments': 0,
+                    'matched_on': m.get('matched_on', {}),
                 }
                 new_videos += 1
             print('  %2d/%d  %-44s %2d of %2d kept'
@@ -560,6 +669,7 @@ def main():
             v['comments'] = len(got)
             for c in got:
                 c['cues'] = cues_in(c['text'], codebook)
+                c['scope_hint'] = scope_hint(c['text'], cfg.get('home_state'))
                 c['refreshed'] = today()
                 c['expired'] = False
                 if c['id'] in by_id:
@@ -589,6 +699,22 @@ def main():
     comments = sorted(by_id.values(),
                       key=lambda c: (c.get('published', ''), c.get('likes', 0)),
                       reverse=True)
+
+    # A single video can supply a large share of the corpus: one wind ruling
+    # supplied 42% of the first export, 612 of them in a single month.
+    # Flag, do not drop, so it can be filtered or analyzed on its own.
+    held = {}
+    for c in comments:
+        if not c.get('expired'):
+            held[c['video']] = held.get(c['video'], 0) + 1
+    total_held = sum(held.values()) or 1
+    dom_n = cfg.get('dominant_min_comments', 100)
+    dom_share = cfg.get('dominant_share', 0.25)
+    for v in tracked + dropped:
+        n = held.get(v['id'], 0)
+        v['comments_held'] = n
+        v['comment_share'] = round(n / total_held, 3)
+        v['dominant'] = bool(n >= dom_n or n / total_held >= dom_share)
 
     save_json(VIDEOS, {'updated': now_iso(), 'tracked': len(tracked),
                        'videos': tracked + dropped})

@@ -486,6 +486,56 @@
  "search_days": 1095,
  "expire_days": 30,
  "min_comments": 2,
+ "_blocklist_comment": [
+  "Words that mark a video as weather or pet content. A video is turned away",
+  "when its TITLE contains one of these and the topic phrase appears only in",
+  "the description. A title that names the subject itself (a tornado that hit",
+  "a wind farm) is kept. Whole words only, matched without regard to case."
+ ],
+ "title_blocklist": [
+  "tornado",
+  "tornadoes",
+  "hail",
+  "hailstorm",
+  "severe",
+  "storm",
+  "storms",
+  "storm damage",
+  "storm warning",
+  "damage",
+  "damaged",
+  "damaging",
+  "hurricane",
+  "roof",
+  "roofing",
+  "winds",
+  "forecast",
+  "lamb",
+  "puppy",
+  "dachshund",
+  "recipe"
+ ],
+ "_channel_blocklist_comment": [
+  "Channels that post weather, farm-life or pet content and carry a",
+  "topic word in their name or descriptions. Exact channel name, any case.",
+  "Add a channel here when it shows up in the page's channel list and has",
+  "nothing to do with the subject."
+ ],
+ "channel_blocklist": [
+  "Sandy Wind Projects",
+  "Paragon Ridge Ranch",
+  "Nature Damage",
+  "Crisis Radar",
+  "Pirate Sparrow Adventures"
+ ],
+ "_dominant_comment": [
+  "A video is flagged dominant when it holds at least dominant_min_comments",
+  "stored comments or dominant_share of all stored comments. Nothing is",
+  "dropped. The flag lets the page hide these videos or the analysis treat",
+  "them as their own case."
+ ],
+ "dominant_min_comments": 100,
+ "dominant_share": 0.25,
  "county_block": 48,
  "_topics_comment": [
   "Two tiers, because 77 counties times seven technologies is 539 searches and",

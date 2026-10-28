@@ -12,6 +12,7 @@ const SAVE_KEY = 'solar_yt_codes_v1';
 
 let BOOK = null, ALL = [], VIDEOS = {}, RUNS = [], META = {};
 let CODES = loadCodes();
+let VMARKS = loadVideoMarks();
 let SELECTED = null;
 let STATE_TOTALS = {}, COUNTY_TOTALS = {}, CUE_TOTALS = {};
 const shortName = s => {
@@ -21,7 +22,8 @@ const shortName = s => {
 
 const F = {
   q: '', states: new Set(), counties: new Set(), towns: new Set(), topics: new Set(),
-  channels: new Set(), marks: new Set(), showGone: false, hideElsewhere: false
+  channels: new Set(), marks: new Set(), scopes: new Set(), showGone: false,
+  hideElsewhere: false, hideDominant: false, hideMixed: false, hideUnverified: false
 };
 
 const $ = s => document.querySelector(s);
@@ -38,9 +40,26 @@ function saveCodes() {
   try { localStorage.setItem(SAVE_KEY, JSON.stringify(CODES)); } catch (e) {}
 }
 function codeOf(c) {
-  if (!CODES[c.id]) CODES[c.id] = { tags: [], star: false, note: '', read: false };
+  if (!CODES[c.id]) CODES[c.id] = { tags: [], star: false, note: '', read: false, scope: '' };
   return CODES[c.id];
 }
+
+/* Marks that belong to a video, not a comment: whether it covers more than
+   one story. Kept apart from CODES so the comment coding format is unchanged. */
+function loadVideoMarks() {
+  try { return JSON.parse(localStorage.getItem(SAVE_KEY + '_videos')) || {}; }
+  catch (e) { return {}; }
+}
+function saveVideoMarks() {
+  try { localStorage.setItem(SAVE_KEY + '_videos', JSON.stringify(VMARKS)); } catch (e) {}
+}
+const vmark = id => VMARKS[id] || {};
+
+/* Who is speaking. Set by the coder after reading; scope_hint from the
+   collector is only a suggestion. */
+const SCOPE_CHIP = { local: 'Local', national: 'Elsewhere or general',
+  unclear: 'Can\u2019t tell', unset: 'Not set yet' };
+const scopeOf = c => (CODES[c.id] && CODES[c.id].scope) || 'unset';
 
 /* ============================= startup =========================== */
 
@@ -71,10 +90,26 @@ async function start() {
 
   if (!ALL.length) return showEmpty();
 
+  deriveVideoFlags();
   computeTotals();
   wire();
   $('#opening').hidden = true; $('#top').hidden = false; $('#wrap').hidden = false;
   render();
+}
+
+/* Until the next weekly run writes them, work out the size of each video
+   here, with the same thresholds the collector uses (100 comments or 25%). */
+function deriveVideoFlags() {
+  const held = {};
+  for (const c of ALL) if (!c.expired) held[c.video] = (held[c.video] || 0) + 1;
+  const total = Object.values(held).reduce((a, b) => a + b, 0) || 1;
+  for (const v of Object.values(VIDEOS)) {
+    if (v.dominant !== undefined) continue;
+    const n = held[v.id] || 0;
+    v.comments_held = n;
+    v.comment_share = Math.round(1000 * n / total) / 1000;
+    v.dominant = n >= 100 || n / total >= 0.25;
+  }
 }
 
 function showOpening(title, html) {
@@ -119,6 +154,10 @@ function passes(c) {
   if (c.expired && !F.showGone) return false;
   const v = videoOf(c);
   if (F.hideElsewhere && v.elsewhere) return false;
+  if (F.hideDominant && v.dominant) return false;
+  if (F.hideMixed && vmark(c.video).mixed_story) return false;
+  if (F.hideUnverified && v.unverified) return false;
+  if (F.scopes.size && !F.scopes.has(scopeOf(c))) return false;
   if (F.states.size && !placesOf(c).some(s => F.states.has(s))) return false;
   if (F.counties.size && !(v.counties || []).some(x => F.counties.has(x))) return false;
   if (F.towns.size && !(v.towns || []).some(x => F.towns.has(x))) return false;
@@ -300,6 +339,33 @@ function renderControls(hits) {
     }
   }
 
+  const sc = $('#scopepick');
+  if (sc) {
+    sc.innerHTML = '';
+    for (const key of ['local', 'national', 'unclear', 'unset'])
+      sc.appendChild(chip(SCOPE_CHIP[key], cnt(c => scopeOf(c) === key), F.scopes.has(key),
+        () => { toggle(F.scopes, key); render(); }, 'g'));
+  }
+
+  const vp = $('#videopick');
+  if (vp) {
+    vp.innerHTML = '';
+    const nDom = ALL.filter(c => videoOf(c).dominant).length;
+    const nMix = ALL.filter(c => vmark(c.video).mixed_story).length;
+    const nUnv = ALL.filter(c => videoOf(c).unverified).length;
+    if (nDom) vp.appendChild(chip(F.hideDominant ? 'Large videos hidden' : 'Hide large videos',
+      nDom, F.hideDominant, () => { F.hideDominant = !F.hideDominant; render(); }, 'g'));
+    if (nMix) vp.appendChild(chip(F.hideMixed ? 'Mixed-story hidden' : 'Hide mixed-story videos',
+      nMix, F.hideMixed, () => { F.hideMixed = !F.hideMixed; render(); }, 'g'));
+    if (nUnv) vp.appendChild(chip(F.hideUnverified ? 'Unverified hidden' : 'Hide unverified videos',
+      nUnv, F.hideUnverified, () => { F.hideUnverified = !F.hideUnverified; render(); }, 'g'));
+    $('#videonote').textContent =
+      'Large: one video holds a big share of the comments, so it can swamp every '
+      + 'count. Mixed-story: you marked the video as covering more than one story. '
+      + 'Unverified: collected before the topic check was tightened, and its title '
+      + 'alone does not name the subject.';
+  }
+
   const gp = $('#gonepick'); gp.innerHTML = '';
   const gone = ALL.filter(c => c.expired).length;
   gp.appendChild(chip(F.showGone ? 'Showing them' : 'Hidden', gone, F.showGone,
@@ -322,6 +388,10 @@ function renderActive() {
   for (const v of F.topics) items.push([topicLabel(v), () => F.topics.delete(v)]);
   for (const v of F.channels) items.push([v, () => F.channels.delete(v)]);
   for (const v of F.marks) items.push([MARK_LABEL[v] || v, () => F.marks.delete(v)]);
+  for (const v of F.scopes) items.push(['Scope: ' + SCOPE_CHIP[v], () => F.scopes.delete(v)]);
+  if (F.hideDominant) items.push(['large videos hidden', () => { F.hideDominant = false; }]);
+  if (F.hideMixed) items.push(['mixed-story videos hidden', () => { F.hideMixed = false; }]);
+  if (F.hideUnverified) items.push(['unverified videos hidden', () => { F.hideUnverified = false; }]);
   if (F.showGone) items.push(['including aged out', () => { F.showGone = false; }]);
   if (F.hideElsewhere) items.push(['home state only', () => { F.hideElsewhere = false; }]);
   if (F.q) items.push(['contains "' + F.q + '"', () => { F.q = ''; $('#q').value = ''; }]);
@@ -340,7 +410,8 @@ function renderActive() {
     c.addEventListener('click', () => {
       F.q = ''; $('#q').value = ''; F.showGone = false;
       F.states.clear(); F.counties.clear(); F.towns.clear(); F.topics.clear();
-      F.channels.clear(); F.marks.clear(); render();
+      F.channels.clear(); F.marks.clear(); F.scopes.clear();
+      F.hideDominant = F.hideMixed = F.hideUnverified = false; render();
     });
     box.appendChild(c);
   }
@@ -415,6 +486,41 @@ function renderList(hits) {
     p.textContent = 'Showing the first 400. Narrow the filter to see the rest.';
     list.appendChild(p);
   }
+}
+
+function scopeBlock(c, k) {
+  const opt = (val, label) => '<label class="code"><input type="radio" name="scope" '
+    + 'data-scope="' + val + '"' + (k.scope === val ? ' checked' : '') + '><span>'
+    + esc4(label) + '</span></label>';
+  const hint = c.scope_hint === 'self-placed'
+    ? 'The comment says where the writer lives or what they own.'
+    : c.scope_hint === 'other place'
+      ? 'The comment names a state other than the home state.' : '';
+  return '<div class="codegrid"><div>'
+    + opt('local', 'Local: writes as someone in the home state or the affected area')
+    + opt('national', 'Elsewhere or general: writes from outside, or about the topic at large')
+    + opt('unclear', 'Can\u2019t tell')
+    + '</div></div>'
+    + (hint ? '<p class="quiet">' + esc4(hint) + ' A hint, not a code.</p>' : '');
+}
+
+function videoNotes(v, c) {
+  const bits = [];
+  if (v.dominant)
+    bits.push('This is one of the large videos: it holds ' + (v.comments_held || '?')
+      + ' stored comments, ' + Math.round(100 * (v.comment_share || 0))
+      + '% of everything collected. Counts that include it mostly describe it.');
+  if (v.unverified)
+    bits.push('Unverified: collected before the topic check was tightened, and the '
+      + 'title alone does not name the subject.');
+  if (v.matched_on && v.matched_on.phrase)
+    bits.push('Matched on \u201c' + v.matched_on.phrase + '\u201d in the '
+      + v.matched_on.in + '.');
+  const m = vmark(c.video);
+  return (bits.length ? '<p class="quiet" style="margin:0 0 10px">' + bits.map(esc4).join('<br>') + '</p>' : '')
+    + '<label class="code"><input type="checkbox" id="mixedstory"'
+    + (m.mixed_story ? ' checked' : '') + '><span>This video covers more than one story '
+    + '(comments may be about another one)</span></label>';
 }
 
 function renderDetail(hits) {
@@ -497,9 +603,11 @@ function renderDetail(hits) {
         + 'Open this comment on YouTube</a> ' +
       '<a class="btn ghost" href="' + esc4(v.url || '#') + '" target="_blank" '
         + 'rel="noopener">Watch the video</a>' +
+      videoNotes(v, c) +
       '<h4>Follow up</h4>' +
       '<button class="btn' + (k.star ? '' : ' ghost') + '" id="star">' +
         (k.star ? 'On your follow-up list' : 'Add to follow-up list') + '</button>' +
+      '<h4>Who is speaking</h4>' + scopeBlock(c, k) +
       '<h4>What this person raised</h4>' + sug + all +
       '<h4>Your note</h4>' +
       '<textarea class="note" id="note" placeholder="Worth quoting? Who is this '
@@ -525,6 +633,16 @@ function renderDetail(hits) {
     });
   });
   $('#note').addEventListener('input', e => { k.note = e.target.value; saveCodes(); });
+  $$('#list input[data-scope]').forEach(r => {
+    r.addEventListener('change', () => {
+      k.scope = r.dataset.scope; saveCodes(); renderControls(current());
+    });
+  });
+  const ms = $('#mixedstory');
+  if (ms) ms.addEventListener('change', () => {
+    VMARKS[c.video] = Object.assign({}, VMARKS[c.video], { mixed_story: ms.checked });
+    saveVideoMarks(); renderControls(current());
+  });
 }
 
 document.addEventListener('keydown', e => {
@@ -607,7 +725,9 @@ function exportCoded() {
                 'comment_url', 'video_title', 'channel', 'video_url', 'topics',
                 'counties', 'towns', 'state_in_video', 'local_because', 'found_by_search',
                 'text_aged_out',
-                'read', 'follow_up', 'n_codes', 'note']
+                'read', 'follow_up', 'n_codes', 'note', 'scope', 'scope_hint',
+                'video_mixed_story', 'video_dominant', 'video_unverified',
+                'video_comments_held']
     .concat(BOOK.categories.map(c => 'code_' + c.id));
   const body = use.map(c => {
     const v = videoOf(c);
@@ -618,7 +738,10 @@ function exportCoded() {
             (v.states || []).join(';'),
             (v.local_because || []).join(';'), (v.found_by || []).join(';'),
             c.expired ? 1 : 0,
-            k.read ? 1 : 0, k.star ? 1 : 0, k.tags.length, k.note]
+            k.read ? 1 : 0, k.star ? 1 : 0, k.tags.length, k.note,
+            k.scope || '', c.scope_hint || '',
+            vmark(c.video).mixed_story ? 1 : 0, v.dominant ? 1 : 0,
+            v.unverified ? 1 : 0, v.comments_held || 0]
       .concat(BOOK.categories.map(x => k.tags.includes(x.id) ? 1 : 0));
   });
   download('coded_comments_' + stamp() + '.csv',
@@ -628,12 +751,16 @@ function exportCoded() {
 function exportVideos() {
   const head = ['video_id', 'title', 'channel', 'published', 'url', 'topics',
                 'counties', 'towns', 'state_in_video', 'local_because', 'found_by_search',
-                'score', 'comments_collected', 'comments_disabled'];
+                'score', 'comments_collected', 'comments_disabled', 'dominant',
+                'comments_held', 'comment_share', 'unverified', 'mixed_story',
+                'matched_phrase', 'matched_in'];
   const body = Object.values(VIDEOS).map(v => [v.id, v.title, v.channel, v.published,
     v.url, (v.topics || []).join(';'), (v.counties || []).join(';'),
     (v.states || []).join(';'), (v.local_because || []).join(';'),
     (v.found_by || []).join(';'), v.score, v.comments || 0,
-    v.comments_off ? 1 : 0]);
+    v.comments_off ? 1 : 0, v.dominant ? 1 : 0, v.comments_held || 0,
+    v.comment_share || 0, v.unverified ? 1 : 0, vmark(v.id).mixed_story ? 1 : 0,
+    (v.matched_on || {}).phrase || '', (v.matched_on || {}).in || '']);
   download('videos_' + stamp() + '.csv',
     [head, ...body].map(r => r.map(csvCell).join(',')).join('\n'));
 }
@@ -643,11 +770,11 @@ function exportSession() {
   for (const c of ALL) {
     const k = CODES[c.id];
     if (!k) continue;
-    if (!k.star && !k.note && !k.tags.length && !k.read) continue;
-    out[c.id] = { tags: k.tags, star: k.star, note: k.note, read: k.read };
+    if (!k.star && !k.note && !k.tags.length && !k.read && !k.scope) continue;
+    out[c.id] = { tags: k.tags, star: k.star, note: k.note, read: k.read, scope: k.scope || '' };
   }
   download('coding_backup_' + stamp() + '.json',
-    JSON.stringify({ saved: new Date().toISOString(), codes: out }, null, 2),
+    JSON.stringify({ saved: new Date().toISOString(), codes: out, videos: VMARKS }, null, 2),
     'application/json');
 }
 
@@ -665,9 +792,13 @@ async function importSession(e) {
       k.tags = Array.from(new Set(k.tags.concat(hit.tags || [])));
       k.star = k.star || !!hit.star;
       k.read = k.read || !!hit.read;
+      if (!k.scope && hit.scope) k.scope = hit.scope;
       k.note = k.note ? k.note + (hit.note ? '\n' + hit.note : '') : (hit.note || '');
       matched++;
     }
+    for (const [vid, m] of Object.entries(data.videos || {}))
+      VMARKS[vid] = Object.assign({}, m, VMARKS[vid]);
+    saveVideoMarks();
     saveCodes(); render();
     alert('Restored ' + matched + ' of ' + Object.keys(incoming).length + ' comments.');
   } catch (err) {
