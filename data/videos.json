@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:53:43+00:00",
+ "updated": "2026-11-04T20:27:34+00:00",
  "tracked": 250,
  "videos": [
   {
@@ -26,7 +26,11 @@
    ],
    "score": 9,
    "first_seen": "2026-09-16",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "e6_izAR95ic",
@@ -71,11 +75,20 @@
     "Tulsa",
     "Tulsa County",
     "Wagoner",
-    "Wagoner County"
+    "Wagoner County",
+    "national"
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "s87P8dpgCDc",
@@ -123,7 +136,11 @@
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "55ovq2S3HH4",
@@ -171,7 +188,11 @@
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "UJG8zJ9yXMw",
@@ -201,7 +222,15 @@
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "KTB5KCHGPaQ",
@@ -241,7 +270,15 @@
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "M2Szak74zts",
@@ -271,7 +308,11 @@
    ],
    "score": 9,
    "first_seen": "2026-09-16",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "P-pERrMohOo",
@@ -299,67 +340,15 @@
    ],
    "score": 9,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "0vGpeMWz48E",
-   "title": "Damage found in the Wheeler District after overnight storms in Oklahoma City metro",
-   "channel": "KOCO 5 News",
-   "published": "2026-06-22",
-   "url": "https://www.youtube.com/watch?v=0vGpeMWz48E",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Oklahoma City"
-   ],
-   "local_because": [
-    "town named",
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Blanchard",
-    "Choctaw",
-    "Guthrie"
-   ],
-   "score": 8,
-   "first_seen": "2026-09-30",
-   "comments": 1
-  },
-  {
-   "id": "DgrZcARaOUE",
-   "title": "Severe winds cause damage and downed power lines in Kay County",
-   "channel": "KOCO 5 News",
-   "published": "2026-06-14",
-   "url": "https://www.youtube.com/watch?v=DgrZcARaOUE",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [
-    "Kay County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kay County"
-   ],
-   "score": 8,
-   "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind farm",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "nNA01VLd0JQ",
@@ -392,38 +381,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "0HUxiBatCgc",
-   "title": "Tornado near Ponca City causes damage and power outages",
-   "channel": "KOCO 5 News",
-   "published": "2026-04-18",
-   "url": "https://www.youtube.com/watch?v=0HUxiBatCgc",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Ponca City"
-   ],
-   "local_because": [
-    "town named",
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kay County",
-    "Noble County",
-    "Pawnee County"
-   ],
-   "score": 8,
-   "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "uSttVII3saw",
@@ -451,7 +413,15 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind farm",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "X7chBhlonhA",
@@ -490,7 +460,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "xPPiNpm8Hzo",
@@ -517,7 +491,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "_4F7rkh67f0",
@@ -543,7 +521,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "-ynppluH-Eo",
@@ -570,7 +552,11 @@
    "score": 8,
    "first_seen": "2026-09-23",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "PohIDn_6wLM",
@@ -604,16 +590,24 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 10
+   "comments": 10,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "hydroelectric",
+    "in": "title"
+   },
+   "comments_held": 10,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
-   "id": "rTR74GURHgQ",
-   "title": "Tornado damage found and car flipped over in Oklahoma City neighborhood",
-   "channel": "KOCO 5 News",
-   "published": "2024-11-03",
-   "url": "https://www.youtube.com/watch?v=rTR74GURHgQ",
+   "id": "5FSfn6vaQX8",
+   "title": "Car crash causes downed power lines in NW Oklahoma City",
+   "channel": "KFOR Oklahoma's News 4",
+   "published": "2024-07-28",
+   "url": "https://www.youtube.com/watch?v=5FSfn6vaQX8",
    "topics": [
-    "hydropower"
+    "transmission"
    ],
    "counties": [],
    "states": [
@@ -629,12 +623,19 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Guthrie",
-    "Wagoner"
+    "Caddo County"
    ],
    "score": 8,
-   "first_seen": "2026-09-30",
-   "comments": 7
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "r46C43PwSso",
@@ -664,7 +665,47 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "nqmYfrTkug8",
+   "title": "City of Miami blames GRDA for current and years of flooding",
+   "channel": "KOAM News Now",
+   "published": "2024-05-03",
+   "url": "https://www.youtube.com/watch?v=nqmYfrTkug8",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Miami"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Miami"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "grda",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "s_Jp8OIfyvU",
@@ -690,7 +731,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "H1NX4KvXkL4",
@@ -720,7 +765,11 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ZABngMF0WuA",
@@ -749,7 +798,15 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "disposal well",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Y_cdpvUXOz8",
@@ -780,7 +837,15 @@
    ],
    "score": 8,
    "first_seen": "2026-09-14",
-   "comments": 19
+   "comments": 19,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 19,
+   "comment_share": 0.004,
+   "dominant": false
   },
   {
    "id": "KdjUqaH5QZg",
@@ -805,89 +870,48 @@
    ],
    "score": 7,
    "first_seen": "2026-09-16",
-   "comments": 28
+   "comments": 28,
+   "unverified": false,
+   "comments_held": 28,
+   "comment_share": 0.005,
+   "dominant": false
   },
   {
-   "id": "81obSJGCxDs",
-   "title": "Judge orders State Farm to turn over more evidence in Tulsa hail damage lawsuit",
-   "channel": "KOKH - FOX 25",
-   "published": "2026-07-08",
-   "url": "https://www.youtube.com/watch?v=81obSJGCxDs",
+   "id": "17bSGcA8PiA",
+   "title": "Behind the Investigation Turbine Turmoil Continues in Arkansas",
+   "channel": "WREG News Channel 3",
+   "published": "2026-05-20",
+   "url": "https://www.youtube.com/watch?v=17bSGcA8PiA",
    "topics": [
-    "hydropower"
+    "wind_siting"
    ],
-   "counties": [],
-   "states": [],
-   "towns": [
-    "Tulsa"
+   "counties": [
+    "Crittenden County"
    ],
-   "local_because": [
-    "town named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Glenpool",
-    "Mayes County",
-    "Okmulgee County",
-    "Osage County",
-    "Wagoner County"
-   ],
-   "score": 7,
-   "first_seen": "2026-09-23",
-   "comments": 0
-  },
-  {
-   "id": "k0Jr7ayAy2I",
-   "title": "Raw drone footage over Oklahoma tornado damage",
-   "channel": "KOKH - FOX 25",
-   "published": "2026-04-06",
-   "url": "https://www.youtube.com/watch?v=k0Jr7ayAy2I",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
    "states": [
-    "Oklahoma"
+    "Arkansas",
+    "Kansas"
    ],
    "towns": [],
    "local_because": [
+    "county named elsewhere",
     "state named",
     "broadcast call letters"
    ],
-   "elsewhere": false,
+   "elsewhere": true,
    "found_by": [
     "national"
    ],
    "score": 7,
-   "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "iqdMAKVffsk",
-   "title": "Tornado damages homes, downs trees, power lines in Starke County",
-   "channel": "WSBT-TV",
-   "published": "2026-03-12",
-   "url": "https://www.youtube.com/watch?v=iqdMAKVffsk",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [
-    "Starke County"
-   ],
-   "states": [],
-   "towns": [],
-   "local_because": [
-    "county named elsewhere",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Delaware County"
-   ],
-   "score": 7,
-   "first_seen": "2026-09-23",
-   "comments": 0
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "StODKHSlMDs",
@@ -913,7 +937,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "LcFGiarfdCI",
@@ -950,7 +978,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "GXID36ZSGVw",
@@ -978,7 +1010,111 @@
    "score": 7,
    "first_seen": "2026-09-16",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "GJjFBIyva4w",
+   "title": "Fort Gibson&#39;s resilience shines through as dam experiences rockslide",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-05-26",
+   "url": "https://www.youtube.com/watch?v=GJjFBIyva4w",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "jy8yb9D63ak",
+   "title": "Lake Waxhoma dam patch failure leads to flooded roads in Barnsdall",
+   "channel": "News On 6/KOTV",
+   "published": "2025-05-06",
+   "url": "https://www.youtube.com/watch?v=jy8yb9D63ak",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [
+    "Osage County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Wagoner County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-04",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "N0zzyLGSNZM",
+   "title": "City of Miami gets backing in fight against GRDA",
+   "channel": "KOAM News Now",
+   "published": "2025-05-02",
+   "url": "https://www.youtube.com/watch?v=N0zzyLGSNZM",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Miami"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley",
+    "Miami"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "grda",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "SId6_MwCuMI",
@@ -1028,7 +1164,48 @@
    ],
    "score": 7,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "iUc_rmWYt6U",
+   "title": "Fort Gibson Dam bridge closed indefinitely",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-04-22",
+   "url": "https://www.youtube.com/watch?v=iUc_rmWYt6U",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tahlequah"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "M9hfS09MH8Q",
@@ -1054,7 +1231,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-29",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "T6I58RQ-54E",
@@ -1080,7 +1261,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ryoEbcSULiY",
@@ -1107,7 +1292,11 @@
    ],
    "score": 7,
    "first_seen": "2026-10-07",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "_sqvXq96fVg",
@@ -1135,7 +1324,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "YlbPX8rf5oM",
@@ -1161,7 +1354,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-29",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ZpRBDtFDvOc",
@@ -1192,7 +1389,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "TpAlL2Y9dOk",
@@ -1229,7 +1430,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-23",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "jXMOL_izKbg",
@@ -1256,7 +1461,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-23",
-   "comments": 4
+   "comments": 4,
+   "unverified": false,
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "5W9Dbv74Tc0",
@@ -1286,7 +1495,49 @@
    ],
    "score": 7,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind energy",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "twGNKwxYBUI",
+   "title": "Oklahoma landowners organizing to fight wind turbines being built near their homes",
+   "channel": "KOCO 5 News",
+   "published": "2024-03-09",
+   "url": "https://www.youtube.com/watch?v=twGNKwxYBUI",
+   "topics": [
+    "wind_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Ec2Fd0w-aeY",
@@ -1312,7 +1563,15 @@
    ],
    "score": 7,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "disposal well",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "f_vagpGn-OA",
@@ -1338,7 +1597,11 @@
    ],
    "score": 7,
    "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "9x4UgI0Deew",
@@ -1364,7 +1627,15 @@
    ],
    "score": 6,
    "first_seen": "2026-10-07",
-   "comments": 31
+   "comments": 31,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 33,
+   "comment_share": 0.006,
+   "dominant": false
   },
   {
    "id": "9hRKGLFhcek",
@@ -1392,7 +1663,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "sT75SWN2p9Q",
@@ -1420,7 +1695,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "C2t5QZiz8fs",
@@ -1448,7 +1731,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 5
+   "comments": 5,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "DkW_zUu66sg",
@@ -1474,7 +1765,48 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 4
+   "comments": 4,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "YRMmsx4cS9M",
+   "title": "Nuclear Fuel Processing and Waste Facility may be Coming to Oklahoma",
+   "channel": "KFOR Oklahoma's News 4",
+   "published": "2026-07-29",
+   "url": "https://www.youtube.com/watch?v=YRMmsx4cS9M",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-04",
+   "comments": 15,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 15,
+   "comment_share": 0.003,
+   "dominant": false
   },
   {
    "id": "o3wjYk1h7Po",
@@ -1500,7 +1832,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 12
+   "comments": 11,
+   "unverified": false,
+   "comments_held": 12,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "YzDG5-MLGmY",
@@ -1528,227 +1864,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "UWGAtCCqSX0",
-   "title": "Bartlesville Roofing Guide for Oklahoma Storm Damage Protection",
-   "channel": "United Roofing Oklahoma City",
-   "published": "2026-07-14",
-   "url": "https://www.youtube.com/watch?v=UWGAtCCqSX0",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Oklahoma City",
-    "Bartlesville"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Cherokee County"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-16",
-   "comments": 0
-  },
-  {
-   "id": "IzOKlpz7HQQ",
-   "title": "What Jenks Homeowners Must Know About Oklahoma Roof Damage",
-   "channel": "United Roofing Oklahoma City",
-   "published": "2026-07-14",
-   "url": "https://www.youtube.com/watch?v=IzOKlpz7HQQ",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Oklahoma City",
-    "Jenks"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Catoosa",
-    "Collinsville",
-    "Coweta",
-    "Creek County",
-    "Glenpool",
-    "Muskogee County",
-    "Okmulgee County",
-    "Osage County",
-    "Pawnee County",
-    "Skiatook",
-    "Wagoner County"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-23",
-   "comments": 0
-  },
-  {
-   "id": "U356RYr5QYs",
-   "title": "What Every Owasso Homeowner Must Know About Roof Storm Damage",
-   "channel": "United Roofing Oklahoma City",
-   "published": "2026-07-14",
-   "url": "https://www.youtube.com/watch?v=U356RYr5QYs",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Oklahoma City",
-    "Owasso"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Catoosa",
-    "Collinsville",
-    "Coweta",
-    "Glenpool",
-    "Muskogee County",
-    "Okmulgee County",
-    "Osage County",
-    "Pawnee County",
-    "Skiatook",
-    "Wagoner County"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-23",
-   "comments": 0
-  },
-  {
-   "id": "KHHNkDY_dmI",
-   "title": "WATCH: Sky 5 shows damage to silos at Braum&#39;s Dairy Farm in Tuttle",
-   "channel": "KOCO 5 News",
-   "published": "2026-06-22",
-   "url": "https://www.youtube.com/watch?v=KHHNkDY_dmI",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Blanchard",
-    "Caddo County",
-    "Grady County",
-    "McClain County",
-    "Newcastle"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-16",
-   "comments": 5
-  },
-  {
-   "id": "3IhE3rFSWGI",
-   "title": "Sky 5 shows damage to silos at Braum&#39;s Dairy Farm in Tuttle following overnight storms",
-   "channel": "KOCO 5 News",
-   "published": "2026-06-22",
-   "url": "https://www.youtube.com/watch?v=3IhE3rFSWGI",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Blanchard",
-    "Durant",
-    "Newcastle"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-29",
-   "comments": 9
-  },
-  {
-   "id": "vE7ckHOUDM8",
-   "title": "See It: Severe Storms Unleash 80 Mph Winds, Leaving Oklahoma Livestock Farm With Widespread Damage",
-   "channel": "FOX Weather",
-   "published": "2026-06-22",
-   "url": "https://www.youtube.com/watch?v=vE7ckHOUDM8",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Blanchard"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Blanchard"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-30",
-   "comments": 3
-  },
-  {
-   "id": "Jb7RXW5hwt0",
-   "title": "Massive tornadoes injures 10, damaged homes as storms hit Oklahoma towns, Air Force base",
-   "channel": "The Oklahoman",
-   "published": "2026-04-24",
-   "url": "https://www.youtube.com/watch?v=Jb7RXW5hwt0",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Enid"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Inola"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-30",
-   "comments": 3
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "IiY3DcSXIIY",
@@ -1776,7 +1896,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "1v4iSRt5mTE",
@@ -1802,7 +1926,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 6
+   "comments": 6,
+   "unverified": false,
+   "comments_held": 6,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "sk7Rp2yE2bQ",
@@ -1830,7 +1958,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "cSVwYMzQ8OQ",
@@ -1858,7 +1990,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "UaSAMTRg3ME",
@@ -1886,7 +2022,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "KRglsrX9kc4",
@@ -1914,7 +2054,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "turbines",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "YmYc3iuGstQ",
@@ -1946,7 +2094,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "turbines",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "p8PO_NKWM3M",
@@ -1975,7 +2131,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "turbines",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "1xaMvIvFABI",
@@ -2003,7 +2167,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 7
+   "comments": 7,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 7,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "tVhWTZF634E",
@@ -2029,7 +2201,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Mdle0nFyaVo",
@@ -2057,7 +2237,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Vh0CvpiFERU",
@@ -2083,7 +2267,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 10
+   "comments": 10,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 10,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "IQmBjL7vW24",
@@ -2111,7 +2303,44 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "NGCLSBB7pus",
+   "title": "Uranium lingers beneath Oklahoma&#39;s soil more than 50 years after Karen Silkwood&#39;s warning",
+   "channel": "KOCO 5 News",
+   "published": "2025-11-20",
+   "url": "https://www.youtube.com/watch?v=NGCLSBB7pus",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-04",
+   "comments": 8,
+   "matched_on": {
+    "phrase": "uranium",
+    "in": "title"
+   },
+   "comments_held": 8,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "wYITcX-Wh5Q",
@@ -2144,7 +2373,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "j5fAxwI23eU",
@@ -2170,7 +2403,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "qgSiEMzHwnI",
@@ -2198,7 +2435,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "NilkVQWagt8",
@@ -2227,7 +2468,46 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "8xLueIUNaTI",
+   "title": "The Grand River Dam Authority reopens the Illinois River to guests",
+   "channel": "KFOR Oklahoma's News 4",
+   "published": "2025-07-30",
+   "url": "https://www.youtube.com/watch?v=8xLueIUNaTI",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Illinois",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "-gUlCwYjIqk",
@@ -2253,7 +2533,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 29
+   "comments": 29,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 29,
+   "comment_share": 0.006,
+   "dominant": false
   },
   {
    "id": "xt07kW6Gilc",
@@ -2291,7 +2579,43 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "U1JgIsoFS5c",
+   "title": "Petition launched to stop next dam project",
+   "channel": "Tulsa's News Pulse",
+   "published": "2025-05-21",
+   "url": "https://www.youtube.com/watch?v=U1JgIsoFS5c",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Wagoner County"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "LX3PiVa7pvc",
@@ -2319,34 +2643,11 @@
    ],
    "score": 6,
    "first_seen": "2026-10-28",
-   "comments": 0
-  },
-  {
-   "id": "GuYFJ0mpLao",
-   "title": "Severe Storms Cause Damage Across Northeastern Oklahoma",
-   "channel": "News On 6/KOTV",
-   "published": "2025-05-06",
-   "url": "https://www.youtube.com/watch?v=GuYFJ0mpLao",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Kansas",
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "national"
-   ],
-   "score": 6,
-   "first_seen": "2026-10-07",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "DuqwtvNUk4E",
@@ -2376,7 +2677,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "7yAFvoea5AM",
@@ -2404,7 +2709,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "carbon sequestration",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "X8ASku_x2T4",
@@ -2438,7 +2751,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "pv-bbYncMDI",
@@ -2468,40 +2785,11 @@
    "score": 6,
    "first_seen": "2026-09-30",
    "comments": 0,
-   "comments_off": true
-  },
-  {
-   "id": "k-ajOHa-RBE",
-   "title": "Tulsa area winds cause false data, minor damage",
-   "channel": "usacetulsa",
-   "published": "2025-03-24",
-   "url": "https://www.youtube.com/watch?v=k-ajOHa-RBE",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Tulsa",
-    "Skiatook"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Catoosa",
-    "Collinsville",
-    "Coweta",
-    "Glenpool",
-    "Skiatook"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-30",
-   "comments": 0
+   "comments_off": true,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "VD5fLm197ok",
@@ -2531,7 +2819,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "JfIv5zpt_i4",
@@ -2559,7 +2851,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "v0JhQiq70lo",
@@ -2585,7 +2881,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-23",
-   "comments": 5
+   "comments": 5,
+   "unverified": false,
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "bwAUQt_QnPY",
@@ -2611,7 +2911,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "nGnOHkSkFEk",
@@ -2648,7 +2952,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "knD_6Qrvbpw",
@@ -2678,7 +2986,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "LMMKlF3CxzQ",
@@ -2708,7 +3020,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "bAyh3yS4O6g",
@@ -2734,7 +3054,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "XpM1y4UvPSQ",
@@ -2770,7 +3094,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "GKsXPddIdBU",
@@ -2798,7 +3126,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "K96IAPy1lSU",
@@ -2826,7 +3158,15 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "carbon sequestration",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "enek4C5k6wY",
@@ -2851,23 +3191,27 @@
    ],
    "score": 6,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "KfYfF_1ZpGM",
-   "title": "Couple rides Pawnee storm out inside RV, gets slammed into tree",
-   "channel": "KJRH -TV | Tulsa | Channel 2",
-   "published": "2024-09-20",
-   "url": "https://www.youtube.com/watch?v=KfYfF_1ZpGM",
+   "id": "38mM-JBQAAo",
+   "title": "Choctaw Nation expresses concerns about proposed hydroelectric facility in Pushmataha County",
+   "channel": "KXII 12 | Texoma Turns To Us",
+   "published": "2024-07-24",
+   "url": "https://www.youtube.com/watch?v=38mM-JBQAAo",
    "topics": [
-    "hydropower"
+    "transmission"
    ],
    "counties": [
-    "Pawnee County"
+    "Pushmataha County"
    ],
    "states": [],
    "towns": [
-    "Tulsa"
+    "Choctaw"
    ],
    "local_because": [
     "county named",
@@ -2876,54 +3220,19 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Kay County",
-    "Noble County",
-    "Pawnee County",
-    "Payne County"
+    "Atoka County",
+    "Bryan County"
    ],
    "score": 6,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "pczD5chVYFA",
-   "title": "Fallen Trees From Tornado In Claremore Damage Several Homes",
-   "channel": "Oklahoma's Own",
-   "published": "2024-05-29",
-   "url": "https://www.youtube.com/watch?v=pczD5chVYFA",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Claremore"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Catoosa",
-    "Claremore",
-    "Collinsville",
-    "Coweta",
-    "Craig County",
-    "Inola",
-    "Mayes County",
-    "Muskogee County",
-    "Nowata County",
-    "Okmulgee County",
-    "Wagoner",
-    "Wagoner County"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-23",
-   "comments": 0,
-   "comments_off": true
+   "first_seen": "2026-11-04",
+   "comments": 4,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "description"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "ypt5StCtdm0",
@@ -2951,7 +3260,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "VdOO772eS9Q",
@@ -2978,7 +3291,15 @@
    "score": 6,
    "first_seen": "2026-09-14",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "disposal well",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "tQMNHWW0qcY",
@@ -3009,35 +3330,11 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 631
-  },
-  {
-   "id": "A9A985paKBQ",
-   "title": "high damaging Winds warning ⚠️🚨",
-   "channel": "Stillwater L.N.C.O.W.A.F",
-   "published": "2024-01-10",
-   "url": "https://www.youtube.com/watch?v=A9A985paKBQ",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Stillwater"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Stillwater"
-   ],
-   "score": 6,
-   "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 634,
+   "unverified": false,
+   "comments_held": 639,
+   "comment_share": 0.121,
+   "dominant": true
   },
   {
    "id": "89uDjx32BQY",
@@ -3063,7 +3360,15 @@
    ],
    "score": 5,
    "first_seen": "2026-10-28",
-   "comments": 241
+   "comments": 740,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "irrigation canal",
+    "in": "title"
+   },
+   "comments_held": 842,
+   "comment_share": 0.16,
+   "dominant": true
   },
   {
    "id": "WvAuQNEiOz4",
@@ -3091,179 +3396,45 @@
    ],
    "score": 5,
    "first_seen": "2026-10-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "nFdFw9mKV5w",
-   "title": "Listen to the Farm: A Morning with the Bird Yard - Natural Sounds",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-15",
-   "url": "https://www.youtube.com/watch?v=nFdFw9mKV5w",
+   "id": "GgVNt5vmlDg",
+   "title": "Semi hits power lines, shutting down Memorial Road and causing power outages in the area",
+   "channel": "KOCO 5 News",
+   "published": "2026-08-25",
+   "url": "https://www.youtube.com/watch?v=GgVNt5vmlDg",
    "topics": [
-    "wind_siting"
+    "transmission"
    ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
+   "counties": [],
+   "states": [],
    "towns": [],
    "local_because": [
-    "county named",
-    "state named"
+    "broadcast call letters"
    ],
    "elsewhere": false,
    "found_by": [
-    "Kingfisher County"
+    "Caddo County"
    ],
    "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "R7Aahskw5Ak",
-   "title": "One Garden, a Whole Winter of Jars 🫙 #shorts",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-12",
-   "url": "https://www.youtube.com/watch?v=R7Aahskw5Ak",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "HoxZcB0Ozec",
-   "title": "Escape with the beauty of a simple farm day #farmlife #slowliving",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-06",
-   "url": "https://www.youtube.com/watch?v=HoxZcB0Ozec",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County",
-    "Love County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 2
-  },
-  {
-   "id": "pKuv2f4ZAdc",
-   "title": "A day in the life of a beginning farmer 🚜 #farmlife #beginnerfarmer",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-06",
-   "url": "https://www.youtube.com/watch?v=pKuv2f4ZAdc",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 2
-  },
-  {
-   "id": "btCq24P7m0A",
-   "title": "This is why we love living on the wind #oklahoma #farmlife #morning",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-24",
-   "url": "https://www.youtube.com/watch?v=btCq24P7m0A",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County",
-    "Love County",
-    "Oklahoma County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "n9d-flF4Ua8",
-   "title": "Sunrise Timelapse Over an Oklahoma Farm 🤍 (90 minutes of sky in under 4 minutes)",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-24",
-   "url": "https://www.youtube.com/watch?v=n9d-flF4Ua8",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County",
-    "Oklahoma County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-23",
-   "comments": 1
+   "first_seen": "2026-11-04",
+   "comments": 4,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "8ZD1Ki6Rap4",
@@ -3288,7 +3459,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-30",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "JTsZxpkwYp0",
@@ -3313,42 +3488,22 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "mp3-bG0FEk0",
-   "title": "Chaos in Oklahoma Today! Massive Hail Storm Swept Away Homes, Cars in Sayre, OKC",
-   "channel": "Nature Damage",
-   "published": "2026-05-10",
-   "url": "https://www.youtube.com/watch?v=mp3-bG0FEk0",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [
-    "Beckham County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Beckham County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-16",
-   "comments": 7
-  },
-  {
-   "id": "X5clHOR8SSw",
-   "title": "On The Ground in Enid, Oklahoma After Tornado Rips Through City",
-   "channel": "FOX Weather",
-   "published": "2026-04-24",
-   "url": "https://www.youtube.com/watch?v=X5clHOR8SSw",
+   "id": "H0nPvYyJaYk",
+   "title": "Brush Creek Park Campground Review | Keystone Lake, Oklahoma",
+   "channel": "BobKat Adventures OK",
+   "published": "2026-07-19",
+   "url": "https://www.youtube.com/watch?v=H0nPvYyJaYk",
    "topics": [
     "hydropower"
    ],
@@ -3357,7 +3512,7 @@
     "Oklahoma"
    ],
    "towns": [
-    "Enid"
+    "Sand Springs"
    ],
    "local_because": [
     "town named",
@@ -3365,40 +3520,18 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Alfalfa County",
-    "Garfield County"
+    "Vinita"
    ],
    "score": 5,
-   "first_seen": "2026-09-16",
-   "comments": 12
-  },
-  {
-   "id": "YJXIOjmX60k",
-   "title": "Lawyer alleges ‘secret wind/hail scheme’ as 255 Oklahomans battle State Farm",
-   "channel": "KOKH - FOX 25",
-   "published": "2026-04-03",
-   "url": "https://www.youtube.com/watch?v=YJXIOjmX60k",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named",
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Cleveland County",
-    "Newcastle",
-    "Noble County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-16",
-   "comments": 1
+   "first_seen": "2026-11-04",
+   "comments": 4,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "description"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "Ip8KzHCF648",
@@ -3426,7 +3559,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 633
+   "comments": 634,
+   "unverified": false,
+   "comments_held": 641,
+   "comment_share": 0.122,
+   "dominant": true
   },
   {
    "id": "SP6bsyrG7s8",
@@ -3451,7 +3588,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "Jpr7GBY2esE",
@@ -3476,7 +3617,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "-_iTMxi3oMY",
@@ -3499,7 +3648,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "uomeSmqtZgg",
@@ -3530,7 +3687,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "3mRP_7KN5Q0",
@@ -3554,7 +3715,15 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar array",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "_5tMKCXnQp0",
@@ -3581,7 +3750,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "P5epXmRfqnE",
@@ -3604,7 +3777,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "pz2uUMpgJ2o",
@@ -3633,7 +3810,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "34qfiPwQ0qE",
@@ -3663,7 +3844,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "GfTlJveyGak",
@@ -3686,7 +3871,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar grazing",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "USbEGWV751s",
@@ -3709,7 +3902,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "7ENajB9CG9E",
@@ -3732,30 +3933,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 19
-  },
-  {
-   "id": "lRqJtQmozNo",
-   "title": "Pensacola Beach restaurants damaged by storms",
-   "channel": "WEAR Channel 3 News",
-   "published": "2025-05-12",
-   "url": "https://www.youtube.com/watch?v=lRqJtQmozNo",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [],
-   "towns": [],
-   "local_because": [
-    "broadcast call letters"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "national"
-   ],
-   "score": 5,
-   "first_seen": "2026-10-21",
-   "comments": 0
+   "comments": 19,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 19,
+   "comment_share": 0.004,
+   "dominant": false
   },
   {
    "id": "qikVGS3T3HI",
@@ -3780,39 +3966,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 2
-  },
-  {
-   "id": "Beioj01BUfw",
-   "title": "Chaos in Lawton Today! Extreme Storm, Floods Destroy Homes, Cars in Oklahoma",
-   "channel": "Nature Damage",
-   "published": "2025-04-27",
-   "url": "https://www.youtube.com/watch?v=Beioj01BUfw",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [
-    "Lawton"
-   ],
-   "local_because": [
-    "town named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Caddo County",
-    "Comanche County",
-    "Cotton County",
-    "Jefferson County",
-    "Kiowa County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-16",
-   "comments": 48
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "HUjOh1EZZw8",
@@ -3841,7 +4003,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "K-yBf7QXDkA",
@@ -3864,7 +4030,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "hBFII3-7v_U",
@@ -3889,7 +4059,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "J0c0stnIjKY",
@@ -3915,7 +4089,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "H7k9g8obJ_0",
@@ -3942,7 +4124,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-23",
-   "comments": 10
+   "comments": 10,
+   "unverified": false,
+   "comments_held": 10,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "GrN-wjoZ_rA",
@@ -3967,7 +4153,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "LUofO4rt8BY",
@@ -3993,7 +4183,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "xf5fL7rCbTc",
@@ -4021,7 +4215,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 1
+   "comments": 1,
+   "unverified": true,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "FJ8QhcldrzA",
@@ -4052,7 +4250,44 @@
    ],
    "score": 5,
    "first_seen": "2026-09-23",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Tjcrx_3tofs",
+   "title": "Miami mayor challenges dam management over chronic city flooding issues",
+   "channel": "Tulsa's News Pulse",
+   "published": "2024-05-09",
+   "url": "https://www.youtube.com/watch?v=Tjcrx_3tofs",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Miami"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Miami"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "vcyezPfeN78",
@@ -4077,14 +4312,18 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": true,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "_jB3cDOsN9M",
-   "title": "Chickasaw National Recreation Area assesses damage done by tornado",
-   "channel": "KXII 12 | Texoma Turns To Us",
-   "published": "2024-05-07",
-   "url": "https://www.youtube.com/watch?v=_jB3cDOsN9M",
+   "id": "jc6a3WDIlps",
+   "title": "Live: Grand Lake 4-ft above normal, Pensacola Dam gates opened",
+   "channel": "KOAM News Now",
+   "published": "2024-05-02",
+   "url": "https://www.youtube.com/watch?v=jc6a3WDIlps",
    "topics": [
     "hydropower"
    ],
@@ -4096,40 +4335,18 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Ardmore"
+    "Langley"
    ],
    "score": 5,
-   "first_seen": "2026-09-29",
-   "comments": 0
-  },
-  {
-   "id": "4i6Zpq2tA84",
-   "title": "Power Lines Downed In Canadian County Near Calumet From Severe Weather",
-   "channel": "Oklahoma's Own",
-   "published": "2024-04-28",
-   "url": "https://www.youtube.com/watch?v=4i6Zpq2tA84",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [
-    "Canadian County"
-   ],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "county named",
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Blaine County"
-   ],
-   "score": 5,
-   "first_seen": "2026-09-16",
-   "comments": 0,
-   "comments_off": true
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "IFx9KaqppCw",
@@ -4158,7 +4375,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "JOM8Mq5DPRY",
@@ -4183,7 +4404,15 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "dQfTlw4zTxw",
@@ -4207,7 +4436,15 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "leKQSSLp6ig",
@@ -4231,7 +4468,15 @@
    "score": 5,
    "first_seen": "2026-09-14",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "YoBrpIS-1s4",
@@ -4256,7 +4501,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "kS_lsbWKDdc",
@@ -4282,7 +4531,11 @@
    ],
    "score": 5,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "7PXKnwvDnqw",
@@ -4307,7 +4560,108 @@
    ],
    "score": 5,
    "first_seen": "2026-09-14",
-   "comments": 8
+   "comments": 8,
+   "unverified": false,
+   "comments_held": 8,
+   "comment_share": 0.002,
+   "dominant": false
+  },
+  {
+   "id": "Z7k24dRt59A",
+   "title": "Why Are Earthquakes Striking Oklahoma? The Hidden Pressure Underground",
+   "channel": "TerraRiddle Atlas",
+   "published": "2026-11-02",
+   "url": "https://www.youtube.com/watch?v=Z7k24dRt59A",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "B2kyrYM8QQI",
+   "title": "The Pawnee Earthquake of 2016: Magnitude 5.8, Reconstructed",
+   "channel": "Epicenter Archive",
+   "published": "2026-11-01",
+   "url": "https://www.youtube.com/watch?v=B2kyrYM8QQI",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "aOrNn99OkWY",
+   "title": "Why Oklahoma Had More Earthquakes Than California",
+   "channel": "Contour Count",
+   "published": "2026-10-31",
+   "url": "https://www.youtube.com/watch?v=aOrNn99OkWY",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "California",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "cq_v02szAi8",
@@ -4332,7 +4686,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Z6RZNeUcQqQ",
@@ -4357,7 +4719,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "PUsVwZxPT50",
@@ -4383,7 +4753,11 @@
    ],
    "score": 4,
    "first_seen": "2026-10-21",
-   "comments": 220
+   "comments": 221,
+   "unverified": false,
+   "comments_held": 223,
+   "comment_share": 0.042,
+   "dominant": true
   },
   {
    "id": "MLX9BHmrXSA",
@@ -4408,7 +4782,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-21",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "q6UPMO36aUM",
@@ -4433,7 +4815,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-21",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "4oq4SaBwJzQ",
@@ -4458,7 +4848,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "tFahy8bZVUg",
@@ -4483,7 +4881,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "RZqZgdhkYkY",
@@ -4508,7 +4914,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "eho9Fa8gKBk",
@@ -4533,7 +4947,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "9VlWX7dcrOU",
@@ -4558,7 +4980,11 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "aOC3jH1wzEQ",
@@ -4583,32 +5009,11 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
-  },
-  {
-   "id": "IpU1Uz_SH7w",
-   "title": "Peater the Peacock at the Pool Party 🤍💛 (Birds of a Feather, Pool Together)",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-04",
-   "url": "https://www.youtube.com/watch?v=IpU1Uz_SH7w",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [
-    "Kingfisher County"
-   ],
-   "states": [],
-   "towns": [],
-   "local_because": [
-    "county named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-23",
-   "comments": 2
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "vSQInWrUIQA",
@@ -4637,7 +5042,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 5
+   "comments": 5,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "agrivoltaic",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "pQZhl_-It9s",
@@ -4662,7 +5075,77 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "CSie2Ax66Zs",
+   "title": "Thunderstorms topple powerlines and trees",
+   "channel": "40/29 News",
+   "published": "2026-08-17",
+   "url": "https://www.youtube.com/watch?v=CSie2Ax66Zs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Arkansas",
+    "Kansas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Adair County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "h-MRGi08oFs",
+   "title": "Thunderstorms topple powerlines and trees",
+   "channel": "40/29 News",
+   "published": "2026-08-17",
+   "url": "https://www.youtube.com/watch?v=h-MRGi08oFs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Arkansas",
+    "Kansas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Adair County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "nWVdfSpAbrY",
@@ -4687,7 +5170,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "72YT-yfdlOs",
@@ -4712,7 +5203,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "uD9Jk24EWgk",
@@ -4738,7 +5237,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "aOGLnwkakSg",
@@ -4764,32 +5267,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "gwQAFEW2PBc",
-   "title": "3 signs your roof has hidden storm damage #roofrepair #oklahoma #haildamage",
-   "channel": "Top View Roofing Local Roofer ",
-   "published": "2026-08-04",
-   "url": "https://www.youtube.com/watch?v=gwQAFEW2PBc",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Newcastle"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "z9e7OOVRbLA",
@@ -4817,7 +5299,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "D5T4ayAhy4Q",
@@ -4842,7 +5332,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 11
+   "comments": 8,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 11,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "cPMB-tDSvEA",
@@ -4867,7 +5365,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 4
+   "comments": 4,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "9es9Qf6vGtg",
@@ -4892,7 +5398,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "_vCMwq5aEns",
@@ -4917,7 +5431,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 8
+   "comments": 8,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 8,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "FzTdWV93bqo",
@@ -4942,90 +5464,22 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "n7CnhVLF4ws",
-   "title": "Brutal Destruction in Texas! Destructive Tornado Damaging Homes, Cars in Mineral Wells",
-   "channel": "Nature Damage",
-   "published": "2026-04-29",
-   "url": "https://www.youtube.com/watch?v=n7CnhVLF4ws",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Texas"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Atoka County"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-16",
-   "comments": 5
-  },
-  {
-   "id": "3jwIO-Pzswg",
-   "title": "Severe storms leave damage behind in Kansas town",
-   "channel": "AP Archive",
-   "published": "2026-04-19",
-   "url": "https://www.youtube.com/watch?v=3jwIO-Pzswg",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Kansas"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Ottawa County"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-23",
-   "comments": 0
-  },
-  {
-   "id": "ew7T-3Drs-U",
-   "title": "Damaging tornadoes hit Kansas",
-   "channel": "CNN",
-   "published": "2026-04-14",
-   "url": "https://www.youtube.com/watch?v=ew7T-3Drs-U",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Kansas"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Muskogee County",
-    "Ottawa County"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-23",
-   "comments": 26
-  },
-  {
-   "id": "tIzu8f7Mg_Q",
-   "title": "Shocking Images Of Oklahoma DEADLY EF3 TORNADO - 4 Dead, Over $100 Million In Damages",
-   "channel": "Crisis Radar",
-   "published": "2026-04-02",
-   "url": "https://www.youtube.com/watch?v=tIzu8f7Mg_Q",
+   "id": "9wC_l0QsV4g",
+   "title": "Disney Oklahoma Pensacola dam #oklahomafishing #oklahoma",
+   "channel": "RedDirtfishin ",
+   "published": "2026-06-21",
+   "url": "https://www.youtube.com/watch?v=9wC_l0QsV4g",
    "topics": [
     "hydropower"
    ],
@@ -5039,11 +5493,149 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Durant"
+    "Langley"
    ],
    "score": 4,
-   "first_seen": "2026-09-29",
-   "comments": 4
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Y56AOo6Bq5k",
+   "title": "Below Pensacola dam Disney Oklahoma #littleblue #oklahomafishing #oklahoma",
+   "channel": "RedDirtfishin ",
+   "published": "2026-06-21",
+   "url": "https://www.youtube.com/watch?v=Y56AOo6Bq5k",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "DpsTPbKqN70",
+   "title": "Disney Dam with 5 gates open FPV Pavo20",
+   "channel": "Darryl Outdoors",
+   "published": "2026-06-18",
+   "url": "https://www.youtube.com/watch?v=DpsTPbKqN70",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ie1XR1sVb_g",
+   "title": "Lake Mead Is Shrinking — But Why Did America Just Build a New Dam in Colorado?",
+   "channel": "Geo Hub Live",
+   "published": "2026-05-30",
+   "url": "https://www.youtube.com/watch?v=ie1XR1sVb_g",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Colorado"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Miami"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "EkwNWox-M4o",
+   "title": "Barges smash and sink on the Webbers Falls Lock and Dam, located on the Arkansas River in Oklahoma!",
+   "channel": "Checkan Family ",
+   "published": "2026-05-23",
+   "url": "https://www.youtube.com/watch?v=EkwNWox-M4o",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Arkansas",
+    "Kansas",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee",
+    "Wagoner County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 459,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 459,
+   "comment_share": 0.087,
+   "dominant": true
   },
   {
    "id": "B4rAaqbjrRE",
@@ -5069,7 +5661,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "iB5bOuUFE2E",
@@ -5094,7 +5694,107 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 15
+   "comments": 15,
+   "unverified": false,
+   "comments_held": 15,
+   "comment_share": 0.003,
+   "dominant": false
+  },
+  {
+   "id": "L-kJv-4iOIo",
+   "title": "Low Water Dam",
+   "channel": "Jean",
+   "published": "2026-02-23",
+   "url": "https://www.youtube.com/watch?v=L-kJv-4iOIo",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Grove"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "vB2x9VHyl-8",
+   "title": "Pensacola Dam, World&#39;s longest multi-arch dam, Oklahoma",
+   "channel": "Placid Places ",
+   "published": "2026-02-14",
+   "url": "https://www.youtube.com/watch?v=vB2x9VHyl-8",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "oFRk9g9GVUU",
+   "title": "Disney Dam",
+   "channel": "shirley ward",
+   "published": "2026-02-13",
+   "url": "https://www.youtube.com/watch?v=oFRk9g9GVUU",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "bE6i9Rbu97g",
@@ -5119,7 +5819,47 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "grda",
+    "in": "title"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "zmr1rZeLiAE",
+   "title": "White Bass Fishing Below The Dam At Langley Oklahoma.",
+   "channel": "MOARKS Fishing",
+   "published": "2025-11-06",
+   "url": "https://www.youtube.com/watch?v=zmr1rZeLiAE",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 5,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "e9_WX0USKyE",
@@ -5144,7 +5884,47 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "agrivoltaic",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "vWKlp7XYUsw",
+   "title": "Tenkiller dam ☠️☠️🎣pesca de stripper 🎣🔥#oklahoma #fishing #g4outdoors #pesca# #6thsensefishing",
+   "channel": "Chihuas FISHING",
+   "published": "2025-07-29",
+   "url": "https://www.youtube.com/watch?v=vWKlp7XYUsw",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tahlequah"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 5,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "TxSS6He2EyY",
@@ -5171,7 +5951,43 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "piMd4dPmHg4",
+   "title": "Fort Gibson Lake Dam! 30 gates here in Fort Gibson Oklahoma!",
+   "channel": "Funk Family Adventures",
+   "published": "2025-07-01",
+   "url": "https://www.youtube.com/watch?v=piMd4dPmHg4",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "9yK8Tk4Sbac",
@@ -5196,7 +6012,110 @@
    ],
    "score": 4,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "bvXto4N2TA4",
+   "title": "Oologah dam, Oklahoma. #fishing  #dam #flooding #water",
+   "channel": "Full Time Fisherman",
+   "published": "2025-05-06",
+   "url": "https://www.youtube.com/watch?v=bvXto4N2TA4",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Craig County",
+    "Mayes County",
+    "Miami",
+    "Wagoner County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ZVyQ_23vt6M",
+   "title": "#fishing #paddlefish #spoonbill #outdoor #nature #adventure #oklahoma #kaw lake dam fishing",
+   "channel": "Got2Go",
+   "published": "2025-04-07",
+   "url": "https://www.youtube.com/watch?v=ZVyQ_23vt6M",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Miami"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "MMokyBUa2kc",
+   "title": "The dam in Langley Oklahoma",
+   "channel": "Luka",
+   "published": "2025-03-18",
+   "url": "https://www.youtube.com/watch?v=MMokyBUa2kc",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 6,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 6,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "UQNnK1RTFxo",
@@ -5223,7 +6142,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 172
+   "comments": 172,
+   "unverified": false,
+   "comments_held": 173,
+   "comment_share": 0.033,
+   "dominant": true
   },
   {
    "id": "VTGB6UE1d6s",
@@ -5249,7 +6172,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "QwCGBQ0n2tM",
@@ -5275,14 +6202,18 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 191
+   "comments": 191,
+   "unverified": false,
+   "comments_held": 194,
+   "comment_share": 0.037,
+   "dominant": true
   },
   {
-   "id": "w_rLiVjCt4Y",
-   "title": "Oklahoma Storm Warning: Heavy Wind Damage, Flooded Ponds &amp; Power Outages Hit Our Farm",
-   "channel": "Paragon Ridge Ranch",
-   "published": "2024-11-05",
-   "url": "https://www.youtube.com/watch?v=w_rLiVjCt4Y",
+   "id": "2q2idmt6b_M",
+   "title": "Pensacola Dam",
+   "channel": "Outdoor Oklahoma",
+   "published": "2024-08-26",
+   "url": "https://www.youtube.com/watch?v=2q2idmt6b_M",
    "topics": [
     "hydropower"
    ],
@@ -5296,11 +6227,19 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Glenpool"
+    "Langley",
+    "Muskogee"
    ],
    "score": 4,
-   "first_seen": "2026-09-30",
-   "comments": 107
+   "first_seen": "2026-11-04",
+   "comments": 5,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "odB_E7c2rs4",
@@ -5325,7 +6264,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar grazing",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "kAnGhNQ2mkE",
@@ -5351,7 +6298,43 @@
    "score": 4,
    "first_seen": "2026-09-14",
    "comments": 0,
-   "comments_off": true
+   "comments_off": true,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "T54w9awbtsU",
+   "title": "GRDA Ecosystems &amp; Education Center, Langley, OK (2023)",
+   "channel": "Tour SBC and more",
+   "published": "2024-06-13",
+   "url": "https://www.youtube.com/watch?v=T54w9awbtsU",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Langley"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "grda",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "dT8M41PRpRE",
@@ -5377,14 +6360,53 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "0NkDcCgZmYc",
-   "title": "Tornado causes extensive damage to small Oklahoma town, at least 1 dead | Barnsdall tornado",
-   "channel": "13WMAZ",
-   "published": "2024-05-07",
-   "url": "https://www.youtube.com/watch?v=0NkDcCgZmYc",
+   "id": "Lp1q4jepd74",
+   "title": "Lake Spavinaw Spillway, Spavinaw State Park",
+   "channel": "Kerno YouTube",
+   "published": "2024-05-10",
+   "url": "https://www.youtube.com/watch?v=Lp1q4jepd74",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "California",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County",
+    "Mayes County",
+    "Wagoner County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-04",
+   "comments": 6,
+   "matched_on": {
+    "phrase": "spillway",
+    "in": "title"
+   },
+   "comments_held": 6,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "MRFQfSNryoQ",
+   "title": "Disney Flooded! They opened up the flood gates to the Pensacola dam at Disney, Oklahoma",
+   "channel": "Jose & Amber ",
+   "published": "2024-05-06",
+   "url": "https://www.youtube.com/watch?v=MRFQfSNryoQ",
    "topics": [
     "hydropower"
    ],
@@ -5398,62 +6420,18 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Osage County",
-    "Pawnee County"
+    "Langley"
    ],
    "score": 4,
-   "first_seen": "2026-09-23",
-   "comments": 0
-  },
-  {
-   "id": "1-dH8VxsfME",
-   "title": "Back Roads lead to WinStar and Oklahoma  tornado damage in Marietta, Oklahoma",
-   "channel": "Pirate Sparrow Adventures",
-   "published": "2024-05-04",
-   "url": "https://www.youtube.com/watch?v=1-dH8VxsfME",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Ardmore"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-29",
-   "comments": 2
-  },
-  {
-   "id": "WpgCugwi1Zs",
-   "title": "OKLAHOMA TORNADOES: Widespread Damage | Taking Shelter With 4 Dogs|  Devastation in Sulphur Oklahoma",
-   "channel": "Paragon Ridge Ranch",
-   "published": "2024-04-28",
-   "url": "https://www.youtube.com/watch?v=WpgCugwi1Zs",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Glenpool"
-   ],
-   "score": 4,
-   "first_seen": "2026-09-30",
-   "comments": 224
+   "first_seen": "2026-11-04",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "8LqRKDGcoXQ",
@@ -5478,7 +6456,15 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "fdjrgcp_7JQ",
@@ -5504,7 +6490,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 603
+   "comments": 601,
+   "unverified": false,
+   "comments_held": 610,
+   "comment_share": 0.116,
+   "dominant": true
   },
   {
    "id": "WOVKxnd-auE",
@@ -5529,7 +6519,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-29",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "fjwlRfPLXCQ",
@@ -5554,7 +6548,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "PkVGDIruOG4",
@@ -5579,7 +6581,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 58
+   "comments": 59,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 59,
+   "comment_share": 0.011,
+   "dominant": false
   },
   {
    "id": "Mmln5POdgZc",
@@ -5606,7 +6616,11 @@
    ],
    "score": 4,
    "first_seen": "2026-10-07",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "pQ-DKk-R_iE",
@@ -5631,7 +6645,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 5
+   "comments": 5,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "fXTmKK6w7q4",
@@ -5656,7 +6678,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ELtvtWVA5uE",
@@ -5681,7 +6711,15 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "VjPezOAQcu0",
@@ -5706,7 +6744,11 @@
    ],
    "score": 4,
    "first_seen": "2026-09-23",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "wUma2n91xOs",
@@ -5731,7 +6773,11 @@
    ],
    "score": 4,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "2frhiAAO3To",
@@ -5756,7 +6802,43 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 6
+   "comments": 6,
+   "unverified": false,
+   "comments_held": 6,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "-fECKhQWmK0",
+   "title": "Oklahoma Is Hiding Something Nobody Talks About",
+   "channel": "Map Secrets",
+   "published": "2026-10-29",
+   "url": "https://www.youtube.com/watch?v=-fECKhQWmK0",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "8hkePrUvjRc",
@@ -5781,7 +6863,15 @@
    ],
    "score": 3,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "_iOxmvdSeYo",
@@ -5806,7 +6896,15 @@
    ],
    "score": 3,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Tt8AVz8kBME",
@@ -5832,32 +6930,15 @@
    ],
    "score": 3,
    "first_seen": "2026-10-28",
-   "comments": 0
-  },
-  {
-   "id": "iu9jXKVZte4",
-   "title": "Major damage after Hurricane Isaias",
-   "channel": "CBS News",
-   "published": "2026-10-12",
-   "url": "https://www.youtube.com/watch?v=iu9jXKVZte4",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Florida"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "national"
-   ],
-   "score": 3,
-   "first_seen": "2026-10-21",
-   "comments": 9
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "wUaM77iITFs",
@@ -5882,7 +6963,15 @@
    ],
    "score": 3,
    "first_seen": "2026-10-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "F4muOP6XEnA",
@@ -5907,109 +6996,15 @@
    ],
    "score": 3,
    "first_seen": "2026-10-21",
-   "comments": 0
-  },
-  {
-   "id": "RNRZubgf66s",
-   "title": "A Calm Start to the Day on an Oklahoma Farm",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-13",
-   "url": "https://www.youtube.com/watch?v=RNRZubgf66s",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "GW9_h-pKDrU",
-   "title": "The power of a dust devil in Oklahoma #wind #shorts #farmlife",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-12",
-   "url": "https://www.youtube.com/watch?v=GW9_h-pKDrU",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "NLnvRf1Arao",
-   "title": "Morning on the place 🤍 Oklahoma farm, thirty quiet seconds",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-12",
-   "url": "https://www.youtube.com/watch?v=NLnvRf1Arao",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County",
-    "Oklahoma County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "8E4ILqZOAhc",
-   "title": "The Reality of Small Farm Life in Oklahoma 🐑 #rurallife #farmlife",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-09-05",
-   "url": "https://www.youtube.com/watch?v=8E4ILqZOAhc",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County",
-    "Oklahoma County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "irrigation canal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "2OKj2TVPAxU",
@@ -6034,7 +7029,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "C1J6S7Lk0j0",
@@ -6059,7 +7062,11 @@
    ],
    "score": 3,
    "first_seen": "2026-10-14",
-   "comments": 14
+   "comments": 15,
+   "unverified": false,
+   "comments_held": 16,
+   "comment_share": 0.003,
+   "dominant": false
   },
   {
    "id": "jW-ci0T_nhc",
@@ -6084,82 +7091,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "fxy9mG4ESSE",
-   "title": "Ever seen a peacock at sunrise? 🦚 #farmlife #oklahoma",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-21",
-   "url": "https://www.youtube.com/watch?v=fxy9mG4ESSE",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "O2AIIL7aFXg",
-   "title": "1-Week-Old Lamb Chopper&#39;s First Bounces 🐑",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-18",
-   "url": "https://www.youtube.com/watch?v=O2AIIL7aFXg",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 5
-  },
-  {
-   "id": "Dk0QhwMdWO0",
-   "title": "Meet Duchess: Our Sweet Long-Bodied Dachshund Girl 🌭",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-18",
-   "url": "https://www.youtube.com/watch?v=Dk0QhwMdWO0",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Love County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 3
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "gJPa2mtq35c",
@@ -6184,82 +7120,47 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "yl_n3KKZCUs",
-   "title": "Ready to Hit the Ground Running: Highland Cow Morning on the Farm 🐮",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-14",
-   "url": "https://www.youtube.com/watch?v=yl_n3KKZCUs",
+   "id": "7p1Lb7hrvpo",
+   "title": "Buffalo Flats–Delaware 345 kV Transmission Line Webinar",
+   "channel": "Sever Walker Padgitt Eminent Domain Attorneys",
+   "published": "2026-08-06",
+   "url": "https://www.youtube.com/watch?v=7p1Lb7hrvpo",
    "topics": [
-    "wind_siting"
+    "transmission"
    ],
    "counties": [],
    "states": [
-    "Oklahoma"
+    "Delaware"
    ],
    "towns": [],
    "local_because": [
     "state named"
    ],
-   "elsewhere": false,
+   "elsewhere": true,
    "found_by": [
-    "Love County"
+    "national"
    ],
    "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "wUMSefNjlm4",
-   "title": "Why this baby lamb is my favorite farm resident #lamb #cute",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-13",
-   "url": "https://www.youtube.com/watch?v=wUMSefNjlm4",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 5
-  },
-  {
-   "id": "92gG4wqME-8",
-   "title": "Peacock Remix on Our Oklahoma Farm 🦚",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-08-10",
-   "url": "https://www.youtube.com/watch?v=92gG4wqME-8",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "pbEqLWPjFGc",
@@ -6284,7 +7185,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": true,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "oUXF6hXStMo",
@@ -6309,7 +7214,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 7
+   "comments": 7,
+   "unverified": false,
+   "comments_held": 7,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "cm05XW-JbTc",
@@ -6334,57 +7243,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "OAECxk-E8kA",
-   "title": "Highland cow patience level: Expert 🐮✨ #farmanimals #shorts",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-07-29",
-   "url": "https://www.youtube.com/watch?v=OAECxk-E8kA",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Kingfisher County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
-  },
-  {
-   "id": "TUalrIjy0CM",
-   "title": "Get Ready to Fall in Love with This Adorable Highland Cow 🐮 #highlandcow #farmlove",
-   "channel": "Sandy Wind Projects",
-   "published": "2026-07-27",
-   "url": "https://www.youtube.com/watch?v=TUalrIjy0CM",
-   "topics": [
-    "wind_siting"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Love County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 1
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "NTvvyJCAWPQ",
@@ -6409,7 +7276,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 16
+   "comments": 16,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar grazing",
+    "in": "description"
+   },
+   "comments_held": 17,
+   "comment_share": 0.003,
+   "dominant": false
   },
   {
    "id": "J8r1k0-4TuA",
@@ -6434,32 +7309,11 @@
    ],
    "score": 3,
    "first_seen": "2026-10-07",
-   "comments": 31
-  },
-  {
-   "id": "L60ucwc3yyE",
-   "title": "Serious damage after tornadoes, severe storms tear through Illinois",
-   "channel": "USA TODAY",
-   "published": "2026-06-13",
-   "url": "https://www.youtube.com/watch?v=L60ucwc3yyE",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Illinois"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Pryor"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-30",
-   "comments": 12
+   "comments": 31,
+   "unverified": false,
+   "comments_held": 31,
+   "comment_share": 0.006,
+   "dominant": false
   },
   {
    "id": "cCJX0jHMBAw",
@@ -6484,7 +7338,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 4
+   "comments": 4,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "5n4CPks_-vg",
@@ -6509,7 +7371,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-30",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "jZsHqvTTZBA",
@@ -6534,7 +7404,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "rv3lOEGlWF8",
@@ -6559,32 +7437,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 135
-  },
-  {
-   "id": "TM0C07Huc1g",
-   "title": "Watch: Damaging Tornado Forms Near Harrison, Illinois",
-   "channel": "FOX Weather",
-   "published": "2026-04-17",
-   "url": "https://www.youtube.com/watch?v=TM0C07Huc1g",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Illinois"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Roger Mills County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 15
+   "comments": 135,
+   "unverified": false,
+   "comments_held": 141,
+   "comment_share": 0.027,
+   "dominant": true
   },
   {
    "id": "sIOEXN2tN1k",
@@ -6609,7 +7466,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 382
+   "comments": 382,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 384,
+   "comment_share": 0.073,
+   "dominant": true
   },
   {
    "id": "BJ191tNE2cY",
@@ -6635,7 +7500,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Cr2WuGAOt18",
@@ -6660,7 +7529,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-30",
-   "comments": 5
+   "comments": 5,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "panels over water",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "X8PqBiC3RoE",
@@ -6685,7 +7562,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 55
+   "comments": 55,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 55,
+   "comment_share": 0.01,
+   "dominant": false
   },
   {
    "id": "sW2O1eHGLYg",
@@ -6710,7 +7595,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "iTPZmTsEaxs",
@@ -6736,7 +7625,11 @@
    ],
    "score": 3,
    "first_seen": "2026-10-07",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "iO3K3HvzvSU",
@@ -6767,34 +7660,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
-  },
-  {
-   "id": "qtoBUOuX9wI",
-   "title": "Chaos in Oklahoma Today! Golf-Ball-Sized Hail Swept Away Homes, Cars in Oklahoma",
-   "channel": "Nature Damage",
-   "published": "2025-10-24",
-   "url": "https://www.youtube.com/watch?v=qtoBUOuX9wI",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Oklahoma"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": false,
-   "found_by": [
-    "Choctaw County",
-    "Cleveland County",
-    "McClain County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-16",
-   "comments": 12
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "qgfcU4eexwU",
@@ -6819,7 +7689,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ajuRMjsVANQ",
@@ -6844,7 +7722,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 6
+   "comments": 6,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar project",
+    "in": "title"
+   },
+   "comments_held": 6,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "nhuCU5Fyhm0",
@@ -6869,7 +7755,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "R_prjh--WbE",
@@ -6893,11 +7783,20 @@
    "found_by": [
     "El Reno",
     "Muskogee",
-    "Oklahoma City"
+    "Oklahoma City",
+    "national"
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 196
+   "comments": 196,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 196,
+   "comment_share": 0.037,
+   "dominant": true
   },
   {
    "id": "eAQiCha5RDw",
@@ -6922,7 +7821,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 7
+   "comments": 7,
+   "unverified": true,
+   "comments_held": 7,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "hLmV_7abncg",
@@ -6947,7 +7850,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 10
+   "comments": 10,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   },
+   "comments_held": 10,
+   "comment_share": 0.002,
+   "dominant": false
   },
   {
    "id": "BXQd7D0s0WU",
@@ -6972,14 +7883,180 @@
    ],
    "score": 3,
    "first_seen": "2026-09-23",
-   "comments": 16
+   "comments": 16,
+   "unverified": false,
+   "comments_held": 16,
+   "comment_share": 0.003,
+   "dominant": false
   },
   {
-   "id": "8oOIgG9fhnc",
-   "title": "🔴LIVE - NOCTURNAL SEVERE WEATHER OUTBREAK ACROSS OKLAHOMA! TORNADOES, BASEBALL HAIL, AND 60-80 WINDS",
-   "channel": "Nicholas - Severe Weather Reporter",
-   "published": "2025-03-30",
-   "url": "https://www.youtube.com/watch?v=8oOIgG9fhnc",
+   "id": "bSElXwWpHfM",
+   "title": "Fly Fishing Oklahoma&#39;s Lower Illinois River after the high water recedes.",
+   "channel": "OK fly fishing",
+   "published": "2025-06-28",
+   "url": "https://www.youtube.com/watch?v=bSElXwWpHfM",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Illinois",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 33,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "description"
+   },
+   "comments_held": 33,
+   "comment_share": 0.006,
+   "dominant": false
+  },
+  {
+   "id": "sTBahPph4ws",
+   "title": "USAF’s Nuclear Micro-Reactor in Alaska: Oklo’s Aurora Powerhouse Explained!",
+   "channel": "Mohsin Insights ",
+   "published": "2025-06-25",
+   "url": "https://www.youtube.com/watch?v=sTBahPph4ws",
+   "topics": [
+    "nuclear"
+   ],
+   "counties": [],
+   "states": [
+    "Alaska"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "LKxcCZ23WD0",
+   "title": "Geothermal Energy in Utah",
+   "channel": "Utah Department of Natural Resources",
+   "published": "2025-05-13",
+   "url": "https://www.youtube.com/watch?v=LKxcCZ23WD0",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Utah"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "EyE1NF_rXRQ",
+   "title": "Don’t Throw Crankbaits Below Kentucky Dam — Here’s Why",
+   "channel": "Kevin & Kids Fishing",
+   "published": "2025-05-11",
+   "url": "https://www.youtube.com/watch?v=EyE1NF_rXRQ",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Kentucky"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Beaver County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 21,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 21,
+   "comment_share": 0.004,
+   "dominant": false
+  },
+  {
+   "id": "Drn1StKwP1A",
+   "title": "ABC7 I-Team gets exclusive 1st look at massive Illinois solar farm powering Chicago",
+   "channel": "ABC 7 Chicago",
+   "published": "2025-04-23",
+   "url": "https://www.youtube.com/watch?v=Drn1StKwP1A",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Illinois"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-04",
+   "comments": 30,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 30,
+   "comment_share": 0.006,
+   "dominant": false
+  },
+  {
+   "id": "giNUU8OK4Zo",
+   "title": "𝗣𝗲𝗻𝘀𝗮𝗰𝗼𝗹𝗮 𝗗𝗮𝗺 𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗚𝗿𝗮𝗻𝗱 𝗟𝗮𝗸𝗲, 𝗢𝗸𝗹𝗮𝗵𝗼𝗺𝗮",
+   "channel": "Lakeside Luxury Airbnb / VRBO Grand Lake, Oklahoma",
+   "published": "2025-04-19",
+   "url": "https://www.youtube.com/watch?v=giNUU8OK4Zo",
    "topics": [
     "hydropower"
    ],
@@ -6993,36 +8070,54 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Logan County"
+    "Grove",
+    "Langley",
+    "Vinita"
    ],
    "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 0
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "description"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
-   "id": "AiSl18dEVLY",
-   "title": "Highland Cows Lost Their Barn, They are Crying  💨🔥 70 mph wind in Oklahoma,  Anxious and Upset",
-   "channel": "Paragon Ridge Ranch",
-   "published": "2025-03-15",
-   "url": "https://www.youtube.com/watch?v=AiSl18dEVLY",
+   "id": "ixGmdMiHnBo",
+   "title": "Aerial Tour of a Massive Solar Farm in Chestertown, MD",
+   "channel": "dronegenuity projects",
+   "published": "2025-04-07",
+   "url": "https://www.youtube.com/watch?v=ixGmdMiHnBo",
    "topics": [
-    "transmission"
+    "solar_siting"
    ],
    "counties": [],
    "states": [
-    "Oklahoma"
+    "Maryland"
    ],
    "towns": [],
    "local_because": [
     "state named"
    ],
-   "elsewhere": false,
+   "elsewhere": true,
    "found_by": [
-    "Glenpool"
+    "national"
    ],
    "score": 3,
-   "first_seen": "2026-09-30",
-   "comments": 36
+   "first_seen": "2026-11-04",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "hvGHtmORDGY",
@@ -7047,7 +8142,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar grazing",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
   },
   {
    "id": "My5yomWRK-Y",
@@ -7072,7 +8175,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "solar grazing",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "DYQxBaUhSwU",
@@ -7098,7 +8209,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "description"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "WzyyoqsduoQ",
@@ -7124,7 +8243,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "wind turbine",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "4NEo0CWDg-k",
@@ -7149,7 +8276,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 24
+   "comments": 24,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 24,
+   "comment_share": 0.005,
+   "dominant": false
   },
   {
    "id": "otoclEKyiDc",
@@ -7174,34 +8309,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 1
-  },
-  {
-   "id": "v5yWzhcrFZw",
-   "title": "Strong storms leave 1 million without power in Texas; storms also slam Maryland, Kentucky, midwest",
-   "channel": "13WMAZ",
-   "published": "2024-05-28",
-   "url": "https://www.youtube.com/watch?v=v5yWzhcrFZw",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Kentucky",
-    "Maryland",
-    "Texas"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "Mayes County"
-   ],
-   "score": 3,
-   "first_seen": "2026-09-23",
-   "comments": 0
+   "comments": 1,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "V5MmbFpYH2Q",
@@ -7226,7 +8338,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "hZyizJf7DHA",
@@ -7252,7 +8368,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "8rm0XQo5gJY",
@@ -7277,7 +8397,11 @@
    ],
    "score": 3,
    "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "g_Wyx37SrYc",
@@ -7302,7 +8426,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "smr",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "AZcB6ME8VyI",
@@ -7327,7 +8459,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 144
+   "comments": 144,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "Wr5NVzm_ymM",
@@ -7352,7 +8488,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 7
+   "comments": 7,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "4LX_ew1cInk",
@@ -7377,7 +8517,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 3
+   "comments": 3,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "gyQ-U8xogGU",
@@ -7402,7 +8546,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 2
+   "comments": 2,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ftUeAQh7ljI",
@@ -7427,7 +8579,15 @@
    ],
    "score": 3,
    "first_seen": "2026-09-14",
-   "comments": 1
+   "comments": 1,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "HbTwKmvn8P4",
@@ -7452,7 +8612,11 @@
    ],
    "score": 3,
    "first_seen": "2026-09-16",
-   "comments": 0
+   "comments": 0,
+   "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "bXOO1CLSz6w",
@@ -7477,32 +8641,11 @@
    ],
    "score": 2,
    "first_seen": "2026-10-21",
-   "comments": 0
-  },
-  {
-   "id": "Hq6Y3nd1L7c",
-   "title": "Hurricane Isaias Hits Florida: Pensacola Under Water and Without Power | USA | World",
-   "channel": "Asianet News English",
-   "published": "2026-10-10",
-   "url": "https://www.youtube.com/watch?v=Hq6Y3nd1L7c",
-   "topics": [
-    "hydropower"
-   ],
-   "counties": [],
-   "states": [
-    "Florida"
-   ],
-   "towns": [],
-   "local_because": [
-    "state named"
-   ],
-   "elsewhere": true,
-   "found_by": [
-    "national"
-   ],
-   "score": 2,
-   "first_seen": "2026-10-28",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "3k9MOTP8v6E",
@@ -7527,7 +8670,11 @@
    ],
    "score": 2,
    "first_seen": "2026-09-30",
-   "comments": 0
+   "comments": 0,
+   "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "nnreThZvoh0",
@@ -7552,7 +8699,15 @@
    ],
    "score": 2,
    "first_seen": "2026-09-14",
-   "comments": 6
+   "comments": 6,
+   "unverified": false,
+   "matched_on": {
+    "phrase": "irrigation canal",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   }
  ]
 }
