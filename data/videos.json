@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:27:34+00:00",
+ "updated": "2026-11-11T20:14:05+00:00",
  "tracked": 250,
  "videos": [
   {
@@ -351,6 +351,79 @@
    "dominant": false
   },
   {
+   "id": "TpZQC1x1Hl4",
+   "title": "Yukon man accused of stealing copper from storm-damaged power lines",
+   "channel": "KOCO 5 News",
+   "published": "2026-08-22",
+   "url": "https://www.youtube.com/watch?v=TpZQC1x1Hl4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Yukon"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cleveland County",
+    "McClain County"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-11",
+   "comments": 12,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 12,
+   "comment_share": 0.002,
+   "dominant": false
+  },
+  {
+   "id": "DgrZcARaOUE",
+   "title": "Severe winds cause damage and downed power lines in Kay County",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-14",
+   "url": "https://www.youtube.com/watch?v=DgrZcARaOUE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Kay County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kay County"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "nNA01VLd0JQ",
    "title": "Shawnee hospital uses solar farm to turn sunlight into clean energy",
    "channel": "KOCO 5 News",
@@ -420,6 +493,76 @@
     "in": "title"
    },
    "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "pyxRvHPsCh4",
+   "title": "Northeast Oklahoma landowners oppose proposed transmission lines",
+   "channel": "KSNF KODE",
+   "published": "2026-03-26",
+   "url": "https://www.youtube.com/watch?v=pyxRvHPsCh4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma County"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "qo4r_VubZf0",
+   "title": "Downed power lines shut down I-35 in Norman",
+   "channel": "KOCO 5 News",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=qo4r_VubZf0",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Grady County",
+    "McClain County"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -559,6 +702,50 @@
    "dominant": false
   },
   {
+   "id": "_Pzi8OpsuPI",
+   "title": "Downed power lines closes part of westbound I-240 in Oklahoma City",
+   "channel": "KOCO 5 News",
+   "published": "2025-03-14",
+   "url": "https://www.youtube.com/watch?v=_Pzi8OpsuPI",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Canadian County",
+    "Cleveland County",
+    "Grady County",
+    "Kingfisher County",
+    "Lincoln County",
+    "Logan County",
+    "McClain County",
+    "Oklahoma County"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "PohIDn_6wLM",
    "title": "Residents opposed to plans to build hydroelectric power plant in Pushmataha County",
    "channel": "Oklahoma News Report",
@@ -623,7 +810,9 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Caddo County"
+    "Caddo County",
+    "Cleveland County",
+    "McClain County"
    ],
    "score": 8,
    "first_seen": "2026-11-04",
@@ -635,7 +824,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "r46C43PwSso",
@@ -705,7 +895,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "s_Jp8OIfyvU",
@@ -877,6 +1068,39 @@
    "dominant": false
   },
   {
+   "id": "CtheczP5tYc",
+   "title": "Wild wind amid severe storms slams Kay County, leaving highway closed and power lines down",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-15",
+   "url": "https://www.youtube.com/watch?v=CtheczP5tYc",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Kay County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kay County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "17bSGcA8PiA",
    "title": "Behind the Investigation Turbine Turmoil Continues in Arkansas",
    "channel": "WREG News Channel 3",
@@ -910,6 +1134,75 @@
     "in": "description"
    },
    "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "iqdMAKVffsk",
+   "title": "Tornado damages homes, downs trees, power lines in Starke County",
+   "channel": "WSBT-TV",
+   "published": "2026-03-12",
+   "url": "https://www.youtube.com/watch?v=iqdMAKVffsk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Starke County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named elsewhere",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Delaware County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "fA6T_etZBHE",
+   "title": "PRO Presentation at Ottawa Co. Commissioners Meeting 3/3/26",
+   "channel": "Protect Rural Oklahoma",
+   "published": "2026-03-04",
+   "url": "https://www.youtube.com/watch?v=fA6T_etZBHE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Ottawa County"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "description"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -1047,7 +1340,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "jy8yb9D63ak",
@@ -1080,7 +1374,8 @@
    },
    "comments_held": 2,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "N0zzyLGSNZM",
@@ -1114,7 +1409,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "SId6_MwCuMI",
@@ -1205,7 +1501,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "M9hfS09MH8Q",
@@ -1235,6 +1532,40 @@
    "unverified": false,
    "comments_held": 3,
    "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "mrujCH09OXA",
+   "title": "Downed powerline starts wildfire in Logan County",
+   "channel": "KOCO 5 News",
+   "published": "2025-03-14",
+   "url": "https://www.youtube.com/watch?v=mrujCH09OXA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Logan County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Logan County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -1357,6 +1688,46 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "dUI3BoLA4k8",
+   "title": "Creek County farmer raises questions over transmission line proposal",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-01-24",
+   "url": "https://www.youtube.com/watch?v=dUI3BoLA4k8",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Creek County"
+   ],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "county named",
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Creek County",
+    "Lincoln County",
+    "Muskogee County",
+    "Okfuskee County",
+    "Okmulgee County"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -1537,7 +1908,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Ec2Fd0w-aeY",
@@ -1604,6 +1976,80 @@
    "dominant": false
   },
   {
+   "id": "WkXvXZXDuE4",
+   "title": "New Oklahoma transmission line would damage family&#39;s land, legacy, landowner says",
+   "channel": "The Oklahoman",
+   "published": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=WkXvXZXDuE4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-11",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "lFiocnhKshQ",
+   "title": "Directional Boring in Guthrie OK: 385 ft Through Sandstone, 4 Inch HDPE Under Two Creeks and a Dam",
+   "channel": "Trinity Boring Solutions",
+   "published": "2026-10-23",
+   "url": "https://www.youtube.com/watch?v=lFiocnhKshQ",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Guthrie"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Canadian County",
+    "Cimarron County",
+    "Cleveland County",
+    "Creek County",
+    "Kingfisher County",
+    "Logan County",
+    "Marshall County",
+    "McClain County"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "9x4UgI0Deew",
    "title": "Power grid study leads to OG&amp;E rate hike proposal, nuclear power option",
    "channel": "KFOR Oklahoma's News 4",
@@ -1633,7 +2079,7 @@
     "phrase": "nuclear",
     "in": "title"
    },
-   "comments_held": 33,
+   "comments_held": 32,
    "comment_share": 0.006,
    "dominant": false
   },
@@ -1806,7 +2252,8 @@
    },
    "comments_held": 15,
    "comment_share": 0.003,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "o3wjYk1h7Po",
@@ -1836,7 +2283,11 @@
    "unverified": false,
    "comments_held": 12,
    "comment_share": 0.002,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   }
   },
   {
    "id": "YzDG5-MLGmY",
@@ -1866,6 +2317,43 @@
    "first_seen": "2026-09-14",
    "comments": 0,
    "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Qy4iCrGYE2I",
+   "title": "Cleanup underway after Tuesday night storms knock down trees and power lines in Muskogee",
+   "channel": "Tulsa's News Pulse",
+   "published": "2026-04-16",
+   "url": "https://www.youtube.com/watch?v=Qy4iCrGYE2I",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Muskogee"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cherokee County",
+    "Haskell County",
+    "McIntosh County",
+    "Muskogee County",
+    "Okmulgee County"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -1930,7 +2418,11 @@
    "unverified": false,
    "comments_held": 6,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   }
   },
   {
    "id": "sk7Rp2yE2bQ",
@@ -2340,7 +2832,8 @@
    },
    "comments_held": 8,
    "comment_share": 0.002,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "wYITcX-Wh5Q",
@@ -2507,7 +3000,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "-gUlCwYjIqk",
@@ -2615,7 +3109,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "LX3PiVa7pvc",
@@ -3221,7 +3716,10 @@
    "elsewhere": false,
    "found_by": [
     "Atoka County",
-    "Bryan County"
+    "Bryan County",
+    "Carter County",
+    "Latimer County",
+    "McCurtain County"
    ],
    "score": 6,
    "first_seen": "2026-11-04",
@@ -3232,7 +3730,8 @@
    },
    "comments_held": 4,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ypt5StCtdm0",
@@ -3330,10 +3829,10 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 634,
+   "comments": 639,
    "unverified": false,
-   "comments_held": 639,
-   "comment_share": 0.121,
+   "comments_held": 643,
+   "comment_share": 0.124,
    "dominant": true
   },
   {
@@ -3360,14 +3859,14 @@
    ],
    "score": 5,
    "first_seen": "2026-10-28",
-   "comments": 740,
+   "comments": 738,
    "unverified": false,
    "matched_on": {
     "phrase": "irrigation canal",
     "in": "title"
    },
-   "comments_held": 842,
-   "comment_share": 0.16,
+   "comments_held": 899,
+   "comment_share": 0.174,
    "dominant": true
   },
   {
@@ -3434,7 +3933,8 @@
    },
    "comments_held": 4,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "8ZD1Ki6Rap4",
@@ -3531,6 +4031,40 @@
    },
    "comments_held": 4,
    "comment_share": 0.001,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "UBQwIYwtkzo",
+   "title": "Crash Leaves Car Pinned Under Power Lines | The Shift - Lawton Police Department",
+   "channel": "Red Watch Productions",
+   "published": "2026-04-03",
+   "url": "https://www.youtube.com/watch?v=UBQwIYwtkzo",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Lawton"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Comanche County",
+    "Kiowa County"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-11",
+   "comments": 28,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 28,
+   "comment_share": 0.005,
    "dominant": false
   },
   {
@@ -3559,10 +4093,10 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 634,
+   "comments": 624,
    "unverified": false,
-   "comments_held": 641,
-   "comment_share": 0.122,
+   "comments_held": 639,
+   "comment_share": 0.124,
    "dominant": true
   },
   {
@@ -3592,6 +4126,38 @@
    "unverified": false,
    "comments_held": 3,
    "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "kyaJqUlQIuE",
+   "title": "Storm knocks out power lines in Russells Point; No injuries reported",
+   "channel": "Dayton 24/7 Now",
+   "published": "2026-03-12",
+   "url": "https://www.youtube.com/watch?v=kyaJqUlQIuE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [
+    "Logan County"
+   ],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "county named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Logan County"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -3944,6 +4510,40 @@
    "dominant": false
   },
   {
+   "id": "JmcFvAkUjS4",
+   "title": "Severe storms bring tree, power line damage to OKC metro",
+   "channel": "KOCO 5 News",
+   "published": "2025-08-20",
+   "url": "https://www.youtube.com/watch?v=JmcFvAkUjS4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County",
+    "Lincoln County",
+    "Logan County",
+    "McClain County"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "qikVGS3T3HI",
    "title": "Oklahoma Senate Energy Committee Hearing of HB2157 - Wind Turbine Set-Backs - 4.24.25",
    "channel": "ROPE Report",
@@ -4085,6 +4685,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Noble County",
+    "Oklahoma County",
     "national"
    ],
    "score": 5,
@@ -4287,7 +4889,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "vcyezPfeN78",
@@ -4346,7 +4949,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "IFx9KaqppCw",
@@ -4479,6 +5083,38 @@
    "dominant": false
   },
   {
+   "id": "SoFV8wps_jQ",
+   "title": "&#39;A Little Scary&#39;: Tulsans React To 5.1-Mag. Earthquake",
+   "channel": "News On 6/KOTV",
+   "published": "2024-02-04",
+   "url": "https://www.youtube.com/watch?v=SoFV8wps_jQ",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Mayes County",
+    "Muskogee County",
+    "Okmulgee County"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-11",
+   "comments": 4,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 4,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
    "id": "YoBrpIS-1s4",
    "title": "Removing Osage Wind farm leaves school district with huge funding gap",
    "channel": "tulsaworld",
@@ -4567,6 +5203,113 @@
    "dominant": false
   },
   {
+   "id": "oooQAHo7EmI",
+   "title": "The Native Lands Oklahoma’s Dams Left Underwater | Full Documentary",
+   "channel": "PBS Documentaries",
+   "published": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=oooQAHo7EmI",
+   "topics": [
+    "hydropower"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cherokee County",
+    "Choctaw County",
+    "Coal County",
+    "Cotton County",
+    "Creek County",
+    "Delaware County",
+    "Jackson County",
+    "Latimer County",
+    "Le Flore County",
+    "Major County",
+    "Oklahoma County",
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 7,
+   "matched_on": {
+    "phrase": "dam",
+    "in": "title"
+   },
+   "comments_held": 7,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "tCEkyAu3t5c",
+   "title": "Oklahoma Went From One or Two Earthquakes a Year to 887. Here&#39;s Why",
+   "channel": "Front & Fault",
+   "published": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=tCEkyAu3t5c",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "0xPvBUnGkdc",
+   "title": "Can We Make Artificial Earthquakes?",
+   "channel": "HowComeFilms",
+   "published": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=0xPvBUnGkdc",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "Z7k24dRt59A",
    "title": "Why Are Earthquakes Striking Oklahoma? The Hidden Pressure Underground",
    "channel": "TerraRiddle Atlas",
@@ -4596,7 +5339,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "B2kyrYM8QQI",
@@ -4628,7 +5372,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "aOrNn99OkWY",
@@ -4661,7 +5406,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "cq_v02szAi8",
@@ -4756,7 +5502,7 @@
    "comments": 221,
    "unverified": false,
    "comments_held": 223,
-   "comment_share": 0.042,
+   "comment_share": 0.043,
    "dominant": true
   },
   {
@@ -5112,7 +5858,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "h-MRGi08oFs",
@@ -5144,6 +5891,41 @@
     "in": "title"
    },
    "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "g4hmTUZY-10",
+   "title": "Storms leave damage to structures, powerlines in parts of Oklahoma",
+   "channel": "40/29 News",
+   "published": "2026-08-08",
+   "url": "https://www.youtube.com/watch?v=g4hmTUZY-10",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Arkansas",
+    "Kansas",
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Kingfisher County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -5504,7 +6286,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Y56AOo6Bq5k",
@@ -5536,7 +6319,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "DpsTPbKqN70",
@@ -5568,7 +6352,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ie1XR1sVb_g",
@@ -5600,7 +6385,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "EkwNWox-M4o",
@@ -5634,8 +6420,9 @@
     "in": "title"
    },
    "comments_held": 459,
-   "comment_share": 0.087,
-   "dominant": true
+   "comment_share": 0.089,
+   "dominant": true,
+   "unverified": false
   },
   {
    "id": "B4rAaqbjrRE",
@@ -5701,6 +6488,39 @@
    "dominant": false
   },
   {
+   "id": "pAReLONG_8M",
+   "title": "PRO’s Presentation at Craig Co Comm Meeting ",
+   "channel": "Protect Rural Oklahoma",
+   "published": "2026-03-03",
+   "url": "https://www.youtube.com/watch?v=pAReLONG_8M",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Craig County",
+    "Nowata County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "L-kJv-4iOIo",
    "title": "Low Water Dam",
    "channel": "Jean",
@@ -5730,7 +6550,8 @@
    },
    "comments_held": 3,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "vB2x9VHyl-8",
@@ -5762,7 +6583,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "oFRk9g9GVUU",
@@ -5794,7 +6616,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "bE6i9Rbu97g",
@@ -5825,7 +6648,7 @@
     "phrase": "grda",
     "in": "title"
    },
-   "comments_held": 4,
+   "comments_held": 3,
    "comment_share": 0.001,
    "dominant": false
   },
@@ -5859,7 +6682,8 @@
    },
    "comments_held": 5,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "e9_WX0USKyE",
@@ -5924,7 +6748,8 @@
    },
    "comments_held": 5,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "TxSS6He2EyY",
@@ -5987,7 +6812,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "9yK8Tk4Sbac",
@@ -6051,7 +6877,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ZVyQ_23vt6M",
@@ -6083,7 +6910,8 @@
    },
    "comments_held": 3,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "MMokyBUa2kc",
@@ -6115,7 +6943,8 @@
    },
    "comments_held": 6,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "UQNnK1RTFxo",
@@ -6205,8 +7034,42 @@
    "comments": 191,
    "unverified": false,
    "comments_held": 194,
-   "comment_share": 0.037,
+   "comment_share": 0.038,
    "dominant": true
+  },
+  {
+   "id": "B7IY6nplF1M",
+   "title": "Oklahoma Tornadoes: Harrah, Okla., Storm Damage &amp; Downed Power Lines, Trees",
+   "channel": "Oklahoma's Own",
+   "published": "2024-11-03",
+   "url": "https://www.youtube.com/watch?v=B7IY6nplF1M",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Cleveland County",
+    "Lincoln County",
+    "McClain County"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "2q2idmt6b_M",
@@ -6239,7 +7102,8 @@
    },
    "comments_held": 5,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "odB_E7c2rs4",
@@ -6334,7 +7198,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "dT8M41PRpRE",
@@ -6399,7 +7264,8 @@
    },
    "comments_held": 6,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "MRFQfSNryoQ",
@@ -6431,7 +7297,8 @@
    },
    "comments_held": 2,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "8LqRKDGcoXQ",
@@ -6490,10 +7357,10 @@
    ],
    "score": 4,
    "first_seen": "2026-09-14",
-   "comments": 601,
+   "comments": 600,
    "unverified": false,
-   "comments_held": 610,
-   "comment_share": 0.116,
+   "comments_held": 605,
+   "comment_share": 0.117,
    "dominant": true
   },
   {
@@ -6809,6 +7676,38 @@
    "dominant": false
   },
   {
+   "id": "HE__ra-fU_Q",
+   "title": "Central Oklahoma Is Hiding Something More Dangerous Than You Think",
+   "channel": "Remote Atlas",
+   "published": "2026-11-08",
+   "url": "https://www.youtube.com/watch?v=HE__ra-fU_Q",
+   "topics": [
+    "disposal_seismicity"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "earthquake",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "-fECKhQWmK0",
    "title": "Oklahoma Is Hiding Something Nobody Talks About",
    "channel": "Map Secrets",
@@ -6838,7 +7737,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "8hkePrUvjRc",
@@ -7066,7 +7966,11 @@
    "unverified": false,
    "comments_held": 16,
    "comment_share": 0.003,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   }
   },
   {
    "id": "jW-ci0T_nhc",
@@ -7160,7 +8064,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "pbEqLWPjFGc",
@@ -7218,7 +8123,11 @@
    "unverified": false,
    "comments_held": 7,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   }
   },
   {
    "id": "cm05XW-JbTc",
@@ -7314,6 +8223,70 @@
    "comments_held": 31,
    "comment_share": 0.006,
    "dominant": false
+  },
+  {
+   "id": "XBMa8iTU0SY",
+   "title": "Video shows tree branch hit power line and spark in Zeeland",
+   "channel": "13 ON YOUR SIDE",
+   "published": "2026-06-12",
+   "url": "https://www.youtube.com/watch?v=XBMa8iTU0SY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Michigan"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Jackson County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "9aug4ecMibM",
+   "title": "Canal Solar Is Saving Water AND Generating Power — The Results Are In",
+   "channel": "Tom Powell Jr",
+   "published": "2026-06-10",
+   "url": "https://www.youtube.com/watch?v=9aug4ecMibM",
+   "topics": [
+    "solar_on_water"
+   ],
+   "counties": [],
+   "states": [
+    "California"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 583,
+   "matched_on": {
+    "phrase": "canal solar",
+    "in": "title"
+   },
+   "comments_held": 583,
+   "comment_share": 0.113,
+   "dominant": true
   },
   {
    "id": "cCJX0jHMBAw",
@@ -7472,9 +8445,9 @@
     "phrase": "solar canal",
     "in": "title"
    },
-   "comments_held": 384,
-   "comment_share": 0.073,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "BJ191tNE2cY",
@@ -7502,7 +8475,39 @@
    "first_seen": "2026-09-16",
    "comments": 1,
    "unverified": false,
-   "comments_held": 1,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "p-n3NrHHarw",
+   "title": "Tornado Destroys Entire Solar Farm!",
+   "channel": "AccuWeather",
+   "published": "2026-03-11",
+   "url": "https://www.youtube.com/watch?v=p-n3NrHHarw",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Indiana"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Marshall County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "title"
+   },
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -7535,8 +8540,8 @@
     "phrase": "panels over water",
     "in": "title"
    },
-   "comments_held": 5,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7568,8 +8573,8 @@
     "phrase": "solar canal",
     "in": "title"
    },
-   "comments_held": 55,
-   "comment_share": 0.01,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7700,6 +8705,38 @@
    "dominant": false
   },
   {
+   "id": "OD_h4KY6mPc",
+   "title": "Oklahoma Gardening September 27, 2025",
+   "channel": "OklahomaGardening",
+   "published": "2025-09-29",
+   "url": "https://www.youtube.com/watch?v=OD_h4KY6mPc",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "ajuRMjsVANQ",
    "title": "Turlock Irrigation District launches California&#39;s first solar project over canal",
    "channel": "CBS News Sacramento",
@@ -7728,8 +8765,8 @@
     "phrase": "solar project",
     "in": "title"
    },
-   "comments_held": 6,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7794,9 +8831,9 @@
     "phrase": "solar farm",
     "in": "title"
    },
-   "comments_held": 196,
-   "comment_share": 0.037,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "eAQiCha5RDw",
@@ -7823,8 +8860,8 @@
    "first_seen": "2026-09-14",
    "comments": 7,
    "unverified": true,
-   "comments_held": 7,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7856,8 +8893,8 @@
     "phrase": "solar canal",
     "in": "title"
    },
-   "comments_held": 10,
-   "comment_share": 0.002,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7885,8 +8922,8 @@
    "first_seen": "2026-09-23",
    "comments": 16,
    "unverified": false,
-   "comments_held": 16,
-   "comment_share": 0.003,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7918,9 +8955,10 @@
     "phrase": "dam",
     "in": "description"
    },
-   "comments_held": 33,
-   "comment_share": 0.006,
-   "dominant": false
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "sTBahPph4ws",
@@ -7950,9 +8988,10 @@
     "phrase": "nuclear",
     "in": "title"
    },
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "LKxcCZ23WD0",
@@ -7985,7 +9024,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "EyE1NF_rXRQ",
@@ -8006,7 +9046,9 @@
    ],
    "elsewhere": true,
    "found_by": [
-    "Beaver County"
+    "Beaver County",
+    "Cherokee County",
+    "Murray County"
    ],
    "score": 3,
    "first_seen": "2026-11-04",
@@ -8015,9 +9057,10 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 21,
-   "comment_share": 0.004,
-   "dominant": false
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Drn1StKwP1A",
@@ -8047,9 +9090,10 @@
     "phrase": "solar farm",
     "in": "title"
    },
-   "comments_held": 30,
-   "comment_share": 0.006,
-   "dominant": false
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "giNUU8OK4Zo",
@@ -8084,7 +9128,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ixGmdMiHnBo",
@@ -8117,7 +9162,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "hvGHtmORDGY",
@@ -8148,8 +9194,8 @@
     "phrase": "solar grazing",
     "in": "title"
    },
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8215,7 +9261,40 @@
     "phrase": "wind turbine",
     "in": "description"
    },
-   "comments_held": 1,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "7MmaTXifpU4",
+   "title": "Transmission line installation #shorts",
+   "channel": "Power Process",
+   "published": "2024-11-03",
+   "url": "https://www.youtube.com/watch?v=7MmaTXifpU4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Florida"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Delaware County",
+    "Love County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -8282,8 +9361,8 @@
     "phrase": "geothermal",
     "in": "title"
    },
-   "comments_held": 24,
-   "comment_share": 0.005,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8463,7 +9542,11 @@
    "unverified": false,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   }
   },
   {
    "id": "Wr5NVzm_ymM",
