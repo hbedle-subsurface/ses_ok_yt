@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-11T20:14:05+00:00",
+ "updated": "2026-11-18T21:28:14+00:00",
  "tracked": 250,
  "videos": [
+  {
+   "id": "SAomaCHbkMk",
+   "title": "Oklahomans push back against AEP&#39;s planned multi-state transmission line project",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=SAomaCHbkMk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
   {
    "id": "9_JoA-AflTw",
    "title": "Dearborn County Approaches End of Solar Farm Moratorium with New Rules",
@@ -29,7 +65,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -87,7 +123,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -374,7 +410,9 @@
    "elsewhere": false,
    "found_by": [
     "Cleveland County",
-    "McClain County"
+    "McClain County",
+    "Stillwater",
+    "Yukon"
    ],
    "score": 8,
    "first_seen": "2026-11-11",
@@ -384,7 +422,98 @@
     "in": "title"
    },
    "comments_held": 12,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "VFqd4o171vU",
+   "title": "Storms cause downed power line that&#39;s blocking busy road in Oklahoma City",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=VFqd4o171vU",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Del City",
+    "Edmond",
+    "Midwest City",
+    "Moore",
+    "Mustang",
+    "Norman",
+    "Oklahoma City",
+    "Shawnee",
+    "Yukon"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "BmNWDG6SU7Y",
+   "title": "Downed power lines in the OKC metro",
+   "channel": "KOKH - FOX 25",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=BmNWDG6SU7Y",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Del City",
+    "Edmond",
+    "Midwest City",
+    "Moore",
+    "Mustang",
+    "Norman",
+    "Oklahoma City",
+    "Shawnee",
+    "Yukon"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -410,7 +539,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Kay County"
+    "Kay County",
+    "Osage County"
    ],
    "score": 8,
    "first_seen": "2026-11-11",
@@ -421,7 +551,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "nNA01VLd0JQ",
@@ -516,6 +647,7 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Oklahoma City",
     "Oklahoma County"
    ],
    "score": 8,
@@ -527,7 +659,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "qo4r_VubZf0",
@@ -552,8 +685,13 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Del City",
     "Grady County",
-    "McClain County"
+    "McClain County",
+    "Moore",
+    "Norman",
+    "Pottawatomie County",
+    "Shawnee"
    ],
    "score": 8,
    "first_seen": "2026-11-11",
@@ -564,6 +702,121 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "rGvEixAA69s",
+   "title": "Snapped power line in Norman, Oklahoma, shuts down all lanes of Interstate 35",
+   "channel": "KOCO 5 News",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=rGvEixAA69s",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Moore",
+    "Norman",
+    "Shawnee",
+    "Stillwater"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "tQrz6_MZzb4",
+   "title": "WATCH: Power line down in Norman closes Interstate 35",
+   "channel": "KOCO 5 News",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=tQrz6_MZzb4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Moore",
+    "Norman",
+    "Shawnee"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "pHJvOkCzO_0",
+   "title": "Downed Powerline Shuts Down I-35 in Norman",
+   "channel": "KOKH - FOX 25",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=pHJvOkCzO_0",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Shawnee"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 10,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 10,
+   "comment_share": 0.003,
    "dominant": false
   },
   {
@@ -724,14 +977,23 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Bethany",
     "Canadian County",
     "Cleveland County",
+    "Edmond",
     "Grady County",
     "Kingfisher County",
     "Lincoln County",
     "Logan County",
     "McClain County",
-    "Oklahoma County"
+    "Midwest City",
+    "Moore",
+    "Mustang",
+    "Norman",
+    "Oklahoma County",
+    "Payne County",
+    "Pottawatomie County",
+    "Shawnee"
    ],
    "score": 8,
    "first_seen": "2026-11-11",
@@ -743,7 +1005,8 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "PohIDn_6wLM",
@@ -784,7 +1047,7 @@
     "in": "title"
    },
    "comments_held": 10,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
    "dominant": false
   },
   {
@@ -812,7 +1075,9 @@
    "found_by": [
     "Caddo County",
     "Cleveland County",
-    "McClain County"
+    "McClain County",
+    "Moore",
+    "Norman"
    ],
    "score": 8,
    "first_seen": "2026-11-04",
@@ -826,6 +1091,45 @@
    "comment_share": 0.0,
    "dominant": false,
    "unverified": false
+  },
+  {
+   "id": "uMVT4v9Y7fc",
+   "title": "Power lines down in Claremore, Oklahoma after EF2 tornado",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2024-05-26",
+   "url": "https://www.youtube.com/watch?v=uMVT4v9Y7fc",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa",
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Owasso",
+    "Tulsa"
+   ],
+   "score": 8,
+   "first_seen": "2026-11-18",
+   "comments": 13,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 13,
+   "comment_share": 0.004,
+   "dominant": false
   },
   {
    "id": "r46C43PwSso",
@@ -959,7 +1263,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -1035,7 +1339,7 @@
     "in": "title"
    },
    "comments_held": 19,
-   "comment_share": 0.004,
+   "comment_share": 0.005,
    "dominant": false
   },
   {
@@ -1064,7 +1368,7 @@
    "comments": 28,
    "unverified": false,
    "comments_held": 28,
-   "comment_share": 0.005,
+   "comment_share": 0.008,
    "dominant": false
   },
   {
@@ -1098,7 +1402,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "17bSGcA8PiA",
@@ -1139,6 +1444,105 @@
    "unverified": false
   },
   {
+   "id": "w4X4OYok_qQ",
+   "title": "Four State residents unite against new power transmission line project",
+   "channel": "KSNF KODE",
+   "published": "2026-05-08",
+   "url": "https://www.youtube.com/watch?v=w4X4OYok_qQ",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "P1ya_FtMYds",
+   "title": "Muskogee storms knock down power lines as city investigates delayed sirens",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2026-04-15",
+   "url": "https://www.youtube.com/watch?v=P1ya_FtMYds",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Muskogee"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "0_VBFiGWI88",
+   "title": "Downed power line leads to Interstate 35 shutdown in Norman",
+   "channel": "KOCO 5 News",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=0_VBFiGWI88",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Norman",
+    "Shawnee"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "iqdMAKVffsk",
    "title": "Tornado damages homes, downs trees, power lines in Starke County",
    "channel": "WSBT-TV",
@@ -1169,7 +1573,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "fA6T_etZBHE",
@@ -1193,7 +1598,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Oklahoma County"
+    "Oklahoma County",
+    "Ottawa County"
    ],
    "score": 7,
    "first_seen": "2026-11-11",
@@ -1201,6 +1607,42 @@
    "matched_on": {
     "phrase": "transmission line",
     "in": "description"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "6ZZOW7aMP3A",
+   "title": "Video: Northeastern OK residents gather to learn about proposed 100-mile transmission line",
+   "channel": "FOX23 News Tulsa",
+   "published": "2026-02-06",
+   "url": "https://www.youtube.com/watch?v=6ZZOW7aMP3A",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
    },
    "comments_held": 1,
    "comment_share": 0.0,
@@ -1273,6 +1715,46 @@
    "first_seen": "2026-09-30",
    "comments": 0,
    "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "tDpJEXeJOPQ",
+   "title": "PSO&#39;S PLANS: Crews prepare overhaul of transmission lines in parts of Tulsa and Jenks",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-10-15",
+   "url": "https://www.youtube.com/watch?v=tDpJEXeJOPQ",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Jenks"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bixby",
+    "Claremore",
+    "Jenks",
+    "Oklahoma City",
+    "Owasso",
+    "Sapulpa",
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -1373,7 +1855,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false,
    "unverified": false
   },
@@ -1505,6 +1987,40 @@
    "unverified": false
   },
   {
+   "id": "segbBmF0sOk",
+   "title": "Downed power lines shut down Danforth in Edmond",
+   "channel": "KOCO 5 News",
+   "published": "2025-04-17",
+   "url": "https://www.youtube.com/watch?v=segbBmF0sOk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Edmond"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "M9hfS09MH8Q",
    "title": "WINDY DEBATE: 2 News talks with leader for and against wind energy",
    "channel": "KJRH -TV | Tulsa | Channel 2",
@@ -1532,6 +2048,39 @@
    "unverified": false,
    "comments_held": 3,
    "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "vp9bcauuhkI",
+   "title": "&#39;Suddenly everything flickered&#39;: Tracking downed power lines and outages",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-03-20",
+   "url": "https://www.youtube.com/watch?v=vp9bcauuhkI",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -1564,6 +2113,42 @@
     "in": "title"
    },
    "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "brbeEsJYyQs",
+   "title": "City of Collinsville without power after winds knock out main transmission line",
+   "channel": "KJRH -TV | Tulsa | Channel 2",
+   "published": "2025-03-14",
+   "url": "https://www.youtube.com/watch?v=brbeEsJYyQs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Tulsa",
+    "Collinsville"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Owasso",
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -1658,7 +2243,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -1688,7 +2273,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -1714,11 +2299,21 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Bixby",
     "Creek County",
+    "Jenks",
     "Lincoln County",
     "Muskogee County",
     "Okfuskee County",
-    "Okmulgee County"
+    "Okmulgee County",
+    "Osage County",
+    "Pawnee County",
+    "Payne County",
+    "Pottawatomie County",
+    "Sapulpa",
+    "Seminole County",
+    "Tulsa",
+    "Wagoner County"
    ],
    "score": 7,
    "first_seen": "2026-11-11",
@@ -1729,7 +2324,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ZpRBDtFDvOc",
@@ -1804,7 +2400,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -1836,6 +2432,115 @@
    "unverified": false,
    "comments_held": 4,
    "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "x5lFLr4-6d4",
+   "title": "OG&amp;E crews work to repair snapped power lines in Midwest City",
+   "channel": "KOCO 5 News",
+   "published": "2024-06-26",
+   "url": "https://www.youtube.com/watch?v=x5lFLr4-6d4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Midwest City"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Edmond",
+    "Midwest City",
+    "Moore",
+    "Norman",
+    "Shawnee"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "2b1DliyJ6Q0",
+   "title": "OG&amp;E crews work to repair snapped power lines in Midwest City",
+   "channel": "KOCO 5 News",
+   "published": "2024-06-26",
+   "url": "https://www.youtube.com/watch?v=2b1DliyJ6Q0",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Midwest City"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City",
+    "Edmond",
+    "Midwest City"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ut2HsVelQJY",
+   "title": "OG&amp;E crews work to repair snapped power lines in Midwest City",
+   "channel": "KOCO 5 News",
+   "published": "2024-06-26",
+   "url": "https://www.youtube.com/watch?v=ut2HsVelQJY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Midwest City"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Midwest City"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -1872,6 +2577,150 @@
     "phrase": "wind energy",
     "in": "title"
    },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "9DgRuflPDzI",
+   "title": "Power Lines Downed In Claremore; First Responders On Scene",
+   "channel": "News On 6/KOTV",
+   "published": "2024-05-26",
+   "url": "https://www.youtube.com/watch?v=9DgRuflPDzI",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Owasso",
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "7wCvvABfeLk",
+   "title": "Damage, Downed Power Lines In Claremore, Okla.",
+   "channel": "News On 6/KOTV",
+   "published": "2024-05-26",
+   "url": "https://www.youtube.com/watch?v=7wCvvABfeLk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Owasso",
+    "Tulsa"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 5,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 5,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "-HejXmGfAnw",
+   "title": "Claremore Gas Station Damaged By Downed Power Line After Tornado",
+   "channel": "News On 6/KOTV",
+   "published": "2024-05-26",
+   "url": "https://www.youtube.com/watch?v=-HejXmGfAnw",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Claremore",
+    "Owasso"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "C3TtkoWAqIQ",
+   "title": "Power line almost knocked over by storms in Norman",
+   "channel": "KOCO 5 News",
+   "published": "2024-05-07",
+   "url": "https://www.youtube.com/watch?v=C3TtkoWAqIQ",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Midwest City",
+    "Moore",
+    "Mustang",
+    "Norman",
+    "Shawnee",
+    "Yukon"
+   ],
+   "score": 7,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -1994,6 +2843,8 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Del City",
+    "Oklahoma City",
     "national"
    ],
    "score": 6,
@@ -2005,7 +2856,8 @@
    },
    "comments_held": 3,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "lFiocnhKshQ",
@@ -2029,14 +2881,18 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Bethany",
     "Canadian County",
     "Cimarron County",
     "Cleveland County",
     "Creek County",
+    "Edmond",
     "Kingfisher County",
     "Logan County",
     "Marshall County",
-    "McClain County"
+    "McClain County",
+    "Payne County",
+    "Stillwater"
    ],
    "score": 6,
    "first_seen": "2026-11-11",
@@ -2047,7 +2903,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "9x4UgI0Deew",
@@ -2080,7 +2937,7 @@
     "in": "title"
    },
    "comments_held": 32,
-   "comment_share": 0.006,
+   "comment_share": 0.009,
    "dominant": false
   },
   {
@@ -2251,7 +3108,7 @@
     "in": "title"
    },
    "comments_held": 15,
-   "comment_share": 0.003,
+   "comment_share": 0.004,
    "dominant": false,
    "unverified": false
   },
@@ -2282,7 +3139,7 @@
    "comments": 11,
    "unverified": false,
    "comments_held": 12,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
    "dominant": false,
    "matched_on": {
     "phrase": "nuclear",
@@ -2322,6 +3179,110 @@
    "dominant": false
   },
   {
+   "id": "FBow88cJorE",
+   "title": "Downed power lines blocks area near Bryant and I-240 in OKC",
+   "channel": "KOCO 5 News",
+   "published": "2026-06-22",
+   "url": "https://www.youtube.com/watch?v=FBow88cJorE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Moore",
+    "Mustang"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ITWfbwxME_o",
+   "title": "SUD Episode 14 Data Center Transmission Line fight continues. Guest Phyllis Fallen shares the latest",
+   "channel": "Straight Up Dave",
+   "published": "2026-06-18",
+   "url": "https://www.youtube.com/watch?v=ITWfbwxME_o",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Tulsa",
+    "Tulsa County",
+    "Wagoner County"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "k8wJ-oRlivQ",
+   "title": "Central Texas landowners voice concerns over proposed transmission line in court hearing",
+   "channel": "KCENNews",
+   "published": "2026-06-09",
+   "url": "https://www.youtube.com/watch?v=k8wJ-oRlivQ",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "Qy4iCrGYE2I",
    "title": "Cleanup underway after Tuesday night storms knock down trees and power lines in Muskogee",
    "channel": "Tulsa's News Pulse",
@@ -2344,8 +3305,10 @@
     "Cherokee County",
     "Haskell County",
     "McIntosh County",
+    "Muskogee",
     "Muskogee County",
-    "Okmulgee County"
+    "Okmulgee County",
+    "Sequoyah County"
    ],
    "score": 6,
    "first_seen": "2026-11-11",
@@ -2356,7 +3319,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "IiY3DcSXIIY",
@@ -2417,7 +3381,7 @@
    "comments": 6,
    "unverified": false,
    "comments_held": 6,
-   "comment_share": 0.001,
+   "comment_share": 0.002,
    "dominant": false,
    "matched_on": {
     "phrase": "nuclear",
@@ -2517,6 +3481,115 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "NMEnpRsAmUY",
+   "title": "Wind gusts topple power lines over OK interstate | #shorts #okwx  #weather #severeweather #news",
+   "channel": "News 9 Weather",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=NMEnpRsAmUY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond",
+    "Midwest City",
+    "Moore",
+    "Norman",
+    "Oklahoma City"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "9FwD8AvLfpA",
+   "title": "March 15, 2026 - Powerlines down across I-35 southbound in Norman OK due to high winds",
+   "channel": "Regier Family Adventures",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=9FwD8AvLfpA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Norman"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "qn0ed6pDsxI",
+   "title": "Downed powerlines in Norman, Oklahoma - southbound I-35 - traffic jam - March 15, 2026",
+   "channel": "Regier Family Adventures",
+   "published": "2026-03-15",
+   "url": "https://www.youtube.com/watch?v=qn0ed6pDsxI",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Norman"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Shawnee"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -2630,7 +3703,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -2666,7 +3739,7 @@
     "in": "title"
    },
    "comments_held": 7,
-   "comment_share": 0.001,
+   "comment_share": 0.002,
    "dominant": false
   },
   {
@@ -2700,7 +3773,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -2766,7 +3839,7 @@
     "in": "title"
    },
    "comments_held": 10,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
    "dominant": false
   },
   {
@@ -2798,6 +3871,109 @@
    "comments": 0,
    "unverified": false,
    "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ivn02rZW6LM",
+   "title": "Portion of Sayre without water after 12-inch transmission line breaks",
+   "channel": "KOCO 5 News",
+   "published": "2025-12-26",
+   "url": "https://www.youtube.com/watch?v=ivn02rZW6LM",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "yaRk47FD0jU",
+   "title": "Proposed power line project in Oklahoma raises concerns despite assurances from company",
+   "channel": "KOCO 5 News",
+   "published": "2025-12-10",
+   "url": "https://www.youtube.com/watch?v=yaRk47FD0jU",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "9o3739QpRw4",
+   "title": "Garage Cam Captures Tornado Ripping Up Trees and Power Lines in Moore, Oklahoma",
+   "channel": "Reality Distorted",
+   "published": "2025-12-05",
+   "url": "https://www.youtube.com/watch?v=9o3739QpRw4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Moore"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City",
+    "Moore",
+    "Norman"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -2868,6 +4044,48 @@
    "first_seen": "2026-09-29",
    "comments": 0,
    "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "SE0E6vNu2OM",
+   "title": "Video: PSO to rebuild transmission lines in south Tulsa, Jenks to improve power reliability",
+   "channel": "FOX23 News Tulsa",
+   "published": "2025-10-23",
+   "url": "https://www.youtube.com/watch?v=SE0E6vNu2OM",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Tulsa",
+    "Jenks"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bixby",
+    "Claremore",
+    "Jenks",
+    "Oklahoma City",
+    "Owasso",
+    "Sapulpa",
+    "Tulsa"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -3034,7 +4252,7 @@
     "in": "title"
    },
    "comments_held": 29,
-   "comment_share": 0.006,
+   "comment_share": 0.008,
    "dominant": false
   },
   {
@@ -3526,6 +4744,39 @@
    "dominant": false
   },
   {
+   "id": "rJGykCOisQU",
+   "title": "&#39;Citizens need to have input&#39;: Pro Tem-Elect responds to transmission line cancellation",
+   "channel": "KOKH - FOX 25",
+   "published": "2024-12-14",
+   "url": "https://www.youtube.com/watch?v=rJGykCOisQU",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named",
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "bAyh3yS4O6g",
    "title": "Wind energy jobs soar: Oklahoma tech center leads training for booming industry",
    "channel": "KOKH - FOX 25",
@@ -3715,11 +4966,14 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Ardmore",
     "Atoka County",
     "Bryan County",
     "Carter County",
     "Latimer County",
-    "McCurtain County"
+    "McCurtain County",
+    "Pittsburg County",
+    "Pushmataha County"
    ],
    "score": 6,
    "first_seen": "2026-11-04",
@@ -3732,6 +4986,76 @@
    "comment_share": 0.001,
    "dominant": false,
    "unverified": false
+  },
+  {
+   "id": "eDI2G4IzqLo",
+   "title": "Tornado in Oklahoma: Tornado tears through U.S.&#39;s Oklahoma, damaging buildings &amp; downing power lines",
+   "channel": "IndiaTV News English",
+   "published": "2024-05-27",
+   "url": "https://www.youtube.com/watch?v=eDI2G4IzqLo",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Claremore"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Rogers County"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "nd_8bHH6wbk",
+   "title": "Downed power lines, broken power-poles in Edmond, Oklahoma following rounds of severe storms",
+   "channel": "Jamison Keefover",
+   "published": "2024-05-17",
+   "url": "https://www.youtube.com/watch?v=nd_8bHH6wbk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Edmond"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "ypt5StCtdm0",
@@ -3761,6 +5085,113 @@
    "first_seen": "2026-09-14",
    "comments": 0,
    "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ApuUFopcTNs",
+   "title": "Trampoline Hangs From Power Line After Tornado Hits Bartlesville",
+   "channel": "Storyful News & Weather",
+   "published": "2024-05-07",
+   "url": "https://www.youtube.com/watch?v=ApuUFopcTNs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Bartlesville"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bartlesville"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "bb1bhrbJAa4",
+   "title": "Strong Winds Knock Down Powerlines in Del City",
+   "channel": "Oklahoma's Own",
+   "published": "2024-05-07",
+   "url": "https://www.youtube.com/watch?v=bb1bhrbJAa4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Oklahoma City",
+    "Del City"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Shawnee"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ka1ea_yXzvE",
+   "title": "PSO Works on Downed Power Line in East Lawton",
+   "channel": "KSWO7News",
+   "published": "2024-04-26",
+   "url": "https://www.youtube.com/watch?v=ka1ea_yXzvE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Lawton"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Lawton"
+   ],
+   "score": 6,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -3829,11 +5260,105 @@
    ],
    "score": 6,
    "first_seen": "2026-09-16",
-   "comments": 639,
+   "comments": 628,
    "unverified": false,
    "comments_held": 643,
-   "comment_share": 0.124,
+   "comment_share": 0.183,
    "dominant": true
+  },
+  {
+   "id": "aw5o-D01d_M",
+   "title": "News Update: OK, District 3: $250 million in federal money for a 300-mile power line linking the…",
+   "channel": "VoteWiser",
+   "published": "2026-11-17",
+   "url": "https://www.youtube.com/watch?v=aw5o-D01d_M",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "PTj28O_GB9I",
+   "title": "New transmission line coming to Central Omaha neighborhoods",
+   "channel": "KMTV 3 News Now",
+   "published": "2026-11-15",
+   "url": "https://www.youtube.com/watch?v=PTj28O_GB9I",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "R3E1T49MKOA",
+   "title": "Roping Down a Tree Between a House &amp; Power Lines | Lake Eufaula, OK",
+   "channel": "Fry Brothers Tree Services McAlester",
+   "published": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=R3E1T49MKOA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "McAlester"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Muskogee"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "89uDjx32BQY",
@@ -3859,15 +5384,75 @@
    ],
    "score": 5,
    "first_seen": "2026-10-28",
-   "comments": 738,
+   "comments": 743,
    "unverified": false,
    "matched_on": {
     "phrase": "irrigation canal",
     "in": "title"
    },
-   "comments_held": 899,
-   "comment_share": 0.174,
+   "comments_held": 960,
+   "comment_share": 0.274,
    "dominant": true
+  },
+  {
+   "id": "ZAqLBkmYRdA",
+   "title": "Work crews try to remove the body of a power line worker from the bucket of his truck",
+   "channel": "KHOU 11",
+   "published": "2026-10-15",
+   "url": "https://www.youtube.com/watch?v=ZAqLBkmYRdA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 83,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 83,
+   "comment_share": 0.024,
+   "dominant": false
+  },
+  {
+   "id": "ASysBYwBOFY",
+   "title": "Worker shocked after bucket-lift truck contacts power lines; rescue crews await power shutoff",
+   "channel": "KHOU 11",
+   "published": "2026-10-15",
+   "url": "https://www.youtube.com/watch?v=ASysBYwBOFY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 15,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 15,
+   "comment_share": 0.004,
+   "dominant": false
   },
   {
    "id": "WvAuQNEiOz4",
@@ -3922,7 +5507,9 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Caddo County"
+    "Caddo County",
+    "Del City",
+    "Oklahoma City"
    ],
    "score": 5,
    "first_seen": "2026-11-04",
@@ -4035,6 +5622,70 @@
    "unverified": false
   },
   {
+   "id": "tsayEosBAhA",
+   "title": "Tornado Hits Enid: Vance Air Force Base Damaged, Homes Flattened, Power Lines Down | Watch",
+   "channel": "MIRROR NOW",
+   "published": "2026-04-24",
+   "url": "https://www.youtube.com/watch?v=tsayEosBAhA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Enid"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Enid"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 10,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 10,
+   "comment_share": 0.003,
+   "dominant": false
+  },
+  {
+   "id": "dv37mzmWnZU",
+   "title": "Tornado Hits Enid: Vance Air Force Base Damaged, Homes Flattened, Power Lines Down | Watch",
+   "channel": "MIRROR NOW",
+   "published": "2026-04-24",
+   "url": "https://www.youtube.com/watch?v=dv37mzmWnZU",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Enid"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Enid"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 3,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 3,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
    "id": "UBQwIYwtkzo",
    "title": "Crash Leaves Car Pinned Under Power Lines | The Shift - Lawton Police Department",
    "channel": "Red Watch Productions",
@@ -4054,18 +5705,21 @@
    "elsewhere": false,
    "found_by": [
     "Comanche County",
-    "Kiowa County"
+    "Kiowa County",
+    "Lawton",
+    "Tillman County"
    ],
    "score": 5,
    "first_seen": "2026-11-11",
-   "comments": 28,
+   "comments": 29,
    "matched_on": {
     "phrase": "power line",
     "in": "title"
    },
-   "comments_held": 28,
-   "comment_share": 0.005,
-   "dominant": false
+   "comments_held": 29,
+   "comment_share": 0.008,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Ip8KzHCF648",
@@ -4093,10 +5747,10 @@
    ],
    "score": 5,
    "first_seen": "2026-09-16",
-   "comments": 624,
+   "comments": 623,
    "unverified": false,
-   "comments_held": 639,
-   "comment_share": 0.124,
+   "comments_held": 638,
+   "comment_share": 0.182,
    "dominant": true
   },
   {
@@ -4158,7 +5812,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Jpr7GBY2esE",
@@ -4190,7 +5845,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -4379,7 +6034,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -4412,6 +6067,39 @@
    "first_seen": "2026-09-14",
    "comments": 0,
    "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "VTbMNSQXGM4",
+   "title": "PSO begins $30M transmission line project in Lawton",
+   "channel": "KSWO7News",
+   "published": "2025-11-19",
+   "url": "https://www.youtube.com/watch?v=VTbMNSQXGM4",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Lawton"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Lawton",
+    "Oklahoma City"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -4506,7 +6194,7 @@
     "in": "title"
    },
    "comments_held": 19,
-   "comment_share": 0.004,
+   "comment_share": 0.005,
    "dominant": false
   },
   {
@@ -4526,10 +6214,18 @@
    ],
    "elsewhere": false,
    "found_by": [
+    "Bethany",
+    "Del City",
     "Kingfisher County",
     "Lincoln County",
     "Logan County",
-    "McClain County"
+    "McClain County",
+    "Moore",
+    "Mustang",
+    "Norman",
+    "Payne County",
+    "Pottawatomie County",
+    "Shawnee"
    ],
    "score": 5,
    "first_seen": "2026-11-11",
@@ -4541,6 +6237,42 @@
    "comments_off": true,
    "comments_held": 0,
    "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "6PhX3ecC58w",
+   "title": "Bartlesville, Oklahoma Got ROCKED Last Night! ⚡",
+   "channel": "Blue Feather UGC",
+   "published": "2025-05-24",
+   "url": "https://www.youtube.com/watch?v=6PhX3ecC58w",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [
+    "Bartlesville"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bartlesville"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "description"
+   },
+   "comments_held": 2,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -4573,6 +6305,43 @@
     "in": "title"
    },
    "comments_held": 2,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "sMAhtv1ga8s",
+   "title": "Riding the ladder to work.",
+   "channel": "Alaska Powerline Adventures",
+   "published": "2025-04-22",
+   "url": "https://www.youtube.com/watch?v=sMAhtv1ga8s",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Alaska",
+    "Oklahoma"
+   ],
+   "towns": [
+    "Stillwater"
+   ],
+   "local_because": [
+    "town named",
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "powerline",
+    "in": "description"
+   },
+   "comments_off": true,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -4729,7 +6498,7 @@
    "comments": 10,
    "unverified": false,
    "comments_held": 10,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
    "dominant": false
   },
   {
@@ -4758,6 +6527,41 @@
    "comments": 0,
    "unverified": false,
    "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Y3GSutACVLs",
+   "title": "&#39;Citizens need to have input&#39;: Pro Tem-Elect responds to transmission line cancellation",
+   "channel": "KOKH - FOX 25",
+   "published": "2024-12-14",
+   "url": "https://www.youtube.com/watch?v=Y3GSutACVLs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City",
+    "Edmond",
+    "Moore",
+    "Norman",
+    "Stillwater",
+    "Yukon"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -4824,6 +6628,72 @@
    "dominant": false
   },
   {
+   "id": "xvoxPCTUWp8",
+   "title": "Downed power lines blocking northwest OKC intersection",
+   "channel": "KOCO 5 News",
+   "published": "2024-06-18",
+   "url": "https://www.youtube.com/watch?v=xvoxPCTUWp8",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Moore",
+    "Mustang"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "qZvHsXXZMMM",
+   "title": "Semitrailer gets tangled with power lines, knocking over poles in northwest OKC",
+   "channel": "KOCO 5 News",
+   "published": "2024-06-18",
+   "url": "https://www.youtube.com/watch?v=qZvHsXXZMMM",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [],
+   "local_because": [
+    "broadcast call letters"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bethany",
+    "Mustang",
+    "Yukon"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_off": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "FJ8QhcldrzA",
    "title": "Major wind turbine project coming to Delaware county",
    "channel": "Tulsa's News Pulse",
@@ -4855,7 +6725,7 @@
    "comments": 2,
    "unverified": false,
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -4953,6 +6823,38 @@
    "unverified": false
   },
   {
+   "id": "9t1F0q9xM-Q",
+   "title": "Downed Power Lines Impacting South Edmond",
+   "channel": "UCentral Media",
+   "published": "2024-03-29",
+   "url": "https://www.youtube.com/watch?v=9t1F0q9xM-Q",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [],
+   "towns": [
+    "Edmond"
+   ],
+   "local_because": [
+    "town named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond"
+   ],
+   "score": 5,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "IFx9KaqppCw",
    "title": "Two Wheel Oklahoma: Episode 6 Route 66 from El Reno to Woodward",
    "channel": "Two Wheel Oklahoma",
@@ -5015,7 +6917,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -5101,7 +7003,12 @@
    "found_by": [
     "Mayes County",
     "Muskogee County",
-    "Okmulgee County"
+    "Okmulgee County",
+    "Osage County",
+    "Owasso",
+    "Rogers County",
+    "Sapulpa",
+    "Wagoner County"
    ],
    "score": 5,
    "first_seen": "2026-11-11",
@@ -5112,7 +7019,8 @@
    },
    "comments_held": 4,
    "comment_share": 0.001,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "YoBrpIS-1s4",
@@ -5236,14 +7144,15 @@
    ],
    "score": 4,
    "first_seen": "2026-11-11",
-   "comments": 7,
+   "comments": 19,
    "matched_on": {
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 7,
-   "comment_share": 0.001,
-   "dominant": false
+   "comments_held": 19,
+   "comment_share": 0.005,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "tCEkyAu3t5c",
@@ -5275,7 +7184,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "0xPvBUnGkdc",
@@ -5307,7 +7217,8 @@
    },
    "comments_held": 1,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Z7k24dRt59A",
@@ -5476,6 +7387,38 @@
    "dominant": false
   },
   {
+   "id": "Ugf27bwtdRc",
+   "title": "Geothermal in Oklahoma? My Geo 360 plans | Hartzell&#39;s Heat &amp; Air, Kingfisher OK",
+   "channel": "Hartzell's Heat & Air",
+   "published": "2026-10-22",
+   "url": "https://www.youtube.com/watch?v=Ugf27bwtdRc",
+   "topics": [
+    "geothermal"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "national"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "geothermal",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "PUsVwZxPT50",
    "title": "10/18/2026 -- Earthquake Activity from Alberta Canada to Arkansas USA -- OIL + GAS ops being hit",
    "channel": "dutchsinse",
@@ -5502,7 +7445,7 @@
    "comments": 221,
    "unverified": false,
    "comments_held": 223,
-   "comment_share": 0.043,
+   "comment_share": 0.064,
    "dominant": true
   },
   {
@@ -5568,7 +7511,7 @@
     "in": "title"
    },
    "comments_held": 2,
-   "comment_share": 0.0,
+   "comment_share": 0.001,
    "dominant": false
   },
   {
@@ -5598,6 +7541,70 @@
    "unverified": false,
    "matched_on": {
     "phrase": "earthquake",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Q7vXyoERB0Y",
+   "title": "A Monster Tornado Sweeps Past Power Lines in Oklahoma! 😱⚡ #shorts #usa #tornado",
+   "channel": "PopMingle",
+   "published": "2026-10-14",
+   "url": "https://www.youtube.com/watch?v=Q7vXyoERB0Y",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Del City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 2,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 2,
+   "comment_share": 0.001,
+   "dominant": false
+  },
+  {
+   "id": "CCFVjb3KJbQ",
+   "title": "Where is the NEOTEP High Performance Power Line in Oklahoma- Natalie Bullard",
+   "channel": "WashCoDems OK",
+   "published": "2026-10-12",
+   "url": "https://www.youtube.com/watch?v=CCFVjb3KJbQ",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Bartlesville"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
     "in": "title"
    },
    "comments_held": 0,
@@ -5700,6 +7707,38 @@
     "in": "title"
    },
    "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "C1zs3046Do8",
+   "title": "Power lines in Oklahoma 1",
+   "channel": "Powerlinesinusa",
+   "published": "2026-09-17",
+   "url": "https://www.youtube.com/watch?v=C1zs3046Do8",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 1,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 1,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -5847,7 +7886,8 @@
    ],
    "elsewhere": true,
    "found_by": [
-    "Adair County"
+    "Adair County",
+    "Sequoyah County"
    ],
    "score": 4,
    "first_seen": "2026-11-04",
@@ -5881,7 +7921,8 @@
    ],
    "elsewhere": true,
    "found_by": [
-    "Adair County"
+    "Adair County",
+    "Sequoyah County"
    ],
    "score": 4,
    "first_seen": "2026-11-04",
@@ -5916,7 +7957,8 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Kingfisher County"
+    "Kingfisher County",
+    "Rogers County"
    ],
    "score": 4,
    "first_seen": "2026-11-11",
@@ -5927,7 +7969,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "nWVdfSpAbrY",
@@ -6121,7 +8164,7 @@
     "in": "title"
    },
    "comments_held": 11,
-   "comment_share": 0.002,
+   "comment_share": 0.003,
    "dominant": false
   },
   {
@@ -6153,7 +8196,7 @@
     "phrase": "nuclear",
     "in": "title"
    },
-   "comments_held": 5,
+   "comments_held": 4,
    "comment_share": 0.001,
    "dominant": false
   },
@@ -6420,7 +8463,7 @@
     "in": "title"
    },
    "comments_held": 459,
-   "comment_share": 0.089,
+   "comment_share": 0.131,
    "dominant": true,
    "unverified": false
   },
@@ -6484,7 +8527,7 @@
    "comments": 15,
    "unverified": false,
    "comments_held": 15,
-   "comment_share": 0.003,
+   "comment_share": 0.004,
    "dominant": false
   },
   {
@@ -6518,7 +8561,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "L-kJv-4iOIo",
@@ -6620,6 +8664,70 @@
    "unverified": false
   },
   {
+   "id": "TpNAPxcYaNk",
+   "title": "From Cameroon to the Classroom: OSUIT Student Builds Future in High Voltage",
+   "channel": "Oklahoma State University Institute of Technology",
+   "published": "2026-02-11",
+   "url": "https://www.youtube.com/watch?v=TpNAPxcYaNk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "high voltage",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ptGmTPP4N14",
+   "title": "345 kv transmission lines in Oklahoma!",
+   "channel": "Murder Drones☠️ and Power Lines⚡",
+   "published": "2026-02-06",
+   "url": "https://www.youtube.com/watch?v=ptGmTPP4N14",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "bE6i9Rbu97g",
    "title": "Oklahoma Power Bills: GRDA Data Center Deals Exposed! #shorts",
    "channel": "Guerrilla Audits",
@@ -6648,8 +8756,142 @@
     "phrase": "grda",
     "in": "title"
    },
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ljYSYnGijOs",
+   "title": "Oklahoma Home Buying  Winter Power Line Dangers",
+   "channel": "Living In Oklahoma Shorts",
+   "published": "2026-01-16",
+   "url": "https://www.youtube.com/watch?v=ljYSYnGijOs",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond",
+    "Enid",
+    "Oklahoma City",
+    "Tulsa"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "vr9pRee3ZSg",
+   "title": "Oklahoma Home Buyers  Winter Tree &amp; Power Line Dangers!",
+   "channel": "Living In Oklahoma Shorts",
+   "published": "2026-01-11",
+   "url": "https://www.youtube.com/watch?v=vr9pRee3ZSg",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Edmond",
+    "Shawnee"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "2z2_9XIQasE",
+   "title": "Oklahoma Home Buyers  Winter Tree &amp; Power Line Dangers!",
+   "channel": "Living In Oklahoma Shorts",
+   "published": "2025-12-16",
+   "url": "https://www.youtube.com/watch?v=2z2_9XIQasE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Enid",
+    "Oklahoma City",
+    "Tulsa"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "_wXRMoMfhUY",
+   "title": "Oklahoma Home Buying  Winter Power Line Dangers",
+   "channel": "Living In Oklahoma Shorts",
+   "published": "2025-11-27",
+   "url": "https://www.youtube.com/watch?v=_wXRMoMfhUY",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Shawnee"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -6680,8 +8922,8 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 5,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -6719,6 +8961,38 @@
    "dominant": false
   },
   {
+   "id": "05GbZ1fqhhA",
+   "title": "Planting Trees Near Power Lines",
+   "channel": "OklahomaGardening",
+   "published": "2025-09-29",
+   "url": "https://www.youtube.com/watch?v=05GbZ1fqhhA",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Stillwater"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "vWKlp7XYUsw",
    "title": "Tenkiller dam ☠️☠️🎣pesca de stripper 🎣🔥#oklahoma #fishing #g4outdoors #pesca# #6thsensefishing",
    "channel": "Chihuas FISHING",
@@ -6746,8 +9020,8 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 5,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -6778,8 +9052,8 @@
    "first_seen": "2026-09-14",
    "comments": 3,
    "unverified": false,
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -6810,10 +9084,74 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false,
    "unverified": false
+  },
+  {
+   "id": "aMEOR5NN_bE",
+   "title": "Power Lines in Oklahoma",
+   "channel": "Suan Power Lines & Google Earth System",
+   "published": "2025-06-30",
+   "url": "https://www.youtube.com/watch?v=aMEOR5NN_bE",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "fZDH9sXmEWg",
+   "title": "Oklahoma electrical line workers demonstrate how to stay safe around power lines",
+   "channel": "KOSURadio",
+   "published": "2025-06-09",
+   "url": "https://www.youtube.com/watch?v=fZDH9sXmEWg",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "9yK8Tk4Sbac",
@@ -6908,8 +9246,8 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -6941,8 +9279,8 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 6,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -6973,9 +9311,9 @@
    "first_seen": "2026-09-23",
    "comments": 172,
    "unverified": false,
-   "comments_held": 173,
-   "comment_share": 0.033,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "VTGB6UE1d6s",
@@ -7003,8 +9341,8 @@
    "first_seen": "2026-09-23",
    "comments": 3,
    "unverified": false,
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7033,9 +9371,9 @@
    "first_seen": "2026-10-07",
    "comments": 191,
    "unverified": false,
-   "comments_held": 194,
-   "comment_share": 0.038,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "B7IY6nplF1M",
@@ -7058,10 +9396,48 @@
    "found_by": [
     "Cleveland County",
     "Lincoln County",
-    "McClain County"
+    "McClain County",
+    "Midwest City",
+    "Moore",
+    "Payne County",
+    "Pottawatomie County",
+    "Shawnee"
    ],
    "score": 4,
    "first_seen": "2026-11-11",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
+  },
+  {
+   "id": "UeeDaOb_gs8",
+   "title": "Power Lines in Oklahoma",
+   "channel": "Power Lines",
+   "published": "2024-10-05",
+   "url": "https://www.youtube.com/watch?v=UeeDaOb_gs8",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
    "comments": 0,
    "matched_on": {
     "phrase": "power line",
@@ -7100,8 +9476,8 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 5,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -7134,8 +9510,8 @@
     "phrase": "solar grazing",
     "in": "title"
    },
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7227,7 +9603,7 @@
    "first_seen": "2026-09-23",
    "comments": 1,
    "unverified": false,
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -7262,8 +9638,8 @@
     "phrase": "spillway",
     "in": "title"
    },
-   "comments_held": 6,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "unverified": false
   },
@@ -7295,7 +9671,7 @@
     "phrase": "dam",
     "in": "title"
    },
-   "comments_held": 2,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false,
    "unverified": false
@@ -7359,9 +9735,41 @@
    "first_seen": "2026-09-14",
    "comments": 600,
    "unverified": false,
-   "comments_held": 605,
-   "comment_share": 0.117,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "ja3MXZfJll0",
+   "title": "Could high-power transmission lines lower the cost of electricity for Oklahomans?",
+   "channel": "Oklahoma News Report",
+   "published": "2024-03-11",
+   "url": "https://www.youtube.com/watch?v=ja3MXZfJll0",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Oklahoma"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": false,
+   "found_by": [
+    "Oklahoma City"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "WOVKxnd-auE",
@@ -7454,8 +9862,8 @@
     "phrase": "earthquake",
     "in": "title"
    },
-   "comments_held": 59,
-   "comment_share": 0.011,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7518,8 +9926,8 @@
     "phrase": "earthquake",
     "in": "title"
    },
-   "comments_held": 5,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7613,7 +10021,7 @@
    "first_seen": "2026-09-23",
    "comments": 2,
    "unverified": false,
-   "comments_held": 2,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -7671,8 +10079,8 @@
    "first_seen": "2026-09-14",
    "comments": 6,
    "unverified": false,
-   "comments_held": 6,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -7705,7 +10113,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "-fECKhQWmK0",
@@ -7935,7 +10344,7 @@
     "phrase": "earthquake",
     "in": "description"
    },
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -7964,13 +10373,45 @@
    "first_seen": "2026-10-14",
    "comments": 15,
    "unverified": false,
-   "comments_held": 16,
-   "comment_share": 0.003,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "matched_on": {
     "phrase": "geothermal",
     "in": "title"
    }
+  },
+  {
+   "id": "XHivwY5Rwjk",
+   "title": "Why Texas Runs on Its Own Power Grid — The 1935 Loophole",
+   "channel": "Atlas Anomaly",
+   "published": "2026-09-01",
+   "url": "https://www.youtube.com/watch?v=XHivwY5Rwjk",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Texas"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Altus"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "interconnection",
+    "in": "description"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "jW-ci0T_nhc",
@@ -8092,7 +10533,7 @@
    "first_seen": "2026-09-14",
    "comments": 1,
    "unverified": true,
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -8121,8 +10562,8 @@
    "first_seen": "2026-09-14",
    "comments": 7,
    "unverified": false,
-   "comments_held": 7,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false,
    "matched_on": {
     "phrase": "solar canal",
@@ -8191,8 +10632,8 @@
     "phrase": "solar grazing",
     "in": "description"
    },
-   "comments_held": 17,
-   "comment_share": 0.003,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8220,8 +10661,8 @@
    "first_seen": "2026-10-07",
    "comments": 31,
    "unverified": false,
-   "comments_held": 31,
-   "comment_share": 0.006,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8252,9 +10693,10 @@
     "phrase": "power line",
     "in": "title"
    },
-   "comments_held": 1,
+   "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "9aug4ecMibM",
@@ -8284,9 +10726,10 @@
     "phrase": "canal solar",
     "in": "title"
    },
-   "comments_held": 583,
-   "comment_share": 0.113,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "cCJX0jHMBAw",
@@ -8317,8 +10760,8 @@
     "phrase": "geothermal",
     "in": "title"
    },
-   "comments_held": 4,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8350,8 +10793,8 @@
     "phrase": "solar canal",
     "in": "title"
    },
-   "comments_held": 3,
-   "comment_share": 0.001,
+   "comments_held": 0,
+   "comment_share": 0.0,
    "dominant": false
   },
   {
@@ -8383,7 +10826,7 @@
     "phrase": "solar canal",
     "in": "title"
    },
-   "comments_held": 2,
+   "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
   },
@@ -8412,9 +10855,9 @@
    "first_seen": "2026-09-14",
    "comments": 135,
    "unverified": false,
-   "comments_held": 141,
-   "comment_share": 0.027,
-   "dominant": true
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
   },
   {
    "id": "sIOEXN2tN1k",
@@ -8509,7 +10952,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "Cr2WuGAOt18",
@@ -8604,7 +11048,11 @@
    "unverified": false,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "solar canal",
+    "in": "title"
+   }
   },
   {
    "id": "iTPZmTsEaxs",
@@ -8723,7 +11171,9 @@
    ],
    "elsewhere": false,
    "found_by": [
-    "Muskogee County"
+    "Muskogee County",
+    "Sequoyah County",
+    "Tulsa County"
    ],
    "score": 3,
    "first_seen": "2026-11-11",
@@ -8734,7 +11184,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "ajuRMjsVANQ",
@@ -9285,7 +11736,9 @@
    "elsewhere": true,
    "found_by": [
     "Delaware County",
-    "Love County"
+    "Love County",
+    "Texas County",
+    "Washington County"
    ],
    "score": 3,
    "first_seen": "2026-11-11",
@@ -9296,7 +11749,8 @@
    },
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "unverified": false
   },
   {
    "id": "WzyyoqsduoQ",
@@ -9390,6 +11844,72 @@
    "first_seen": "2026-09-14",
    "comments": 1,
    "unverified": false,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "njfoLhgIcE0",
+   "title": "Working on transmission line #trending #amazing #shortsfeed",
+   "channel": "Power Process",
+   "published": "2024-05-24",
+   "url": "https://www.youtube.com/watch?v=njfoLhgIcE0",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Florida"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Texas County",
+    "Washington County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "Yli3dK7LW-c",
+   "title": "Transmission line set up #electricial #engineering #trending #shortsfeed",
+   "channel": "Power Process",
+   "published": "2024-05-20",
+   "url": "https://www.youtube.com/watch?v=Yli3dK7LW-c",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Florida"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Texas County",
+    "Washington County"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "transmission line",
+    "in": "title"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
@@ -9578,6 +12098,38 @@
    "dominant": false
   },
   {
+   "id": "Pl3_rTO1p2Y",
+   "title": "Teen Loses Leg After Crash Left Her Hanging From Power Line",
+   "channel": "Inside Edition",
+   "published": "2024-02-10",
+   "url": "https://www.youtube.com/watch?v=Pl3_rTO1p2Y",
+   "topics": [
+    "transmission"
+   ],
+   "counties": [],
+   "states": [
+    "Idaho"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "Mustang"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "power line",
+    "in": "title"
+   },
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
    "id": "4LX_ew1cInk",
    "title": "SMR NUSCALE January 18, 2024 SMR small NUCLEAR ENERGY SCAM UTAH SAMMED FIRST, next ILL. NEB. WA.",
    "channel": "kevin D blanch HISTORIC ONGOING PhD;; FREE LIBRARY",
@@ -9604,7 +12156,11 @@
    "unverified": false,
    "comments_held": 0,
    "comment_share": 0.0,
-   "dominant": false
+   "dominant": false,
+   "matched_on": {
+    "phrase": "nuclear",
+    "in": "title"
+   }
   },
   {
    "id": "gyQ-U8xogGU",
@@ -9755,6 +12311,38 @@
    "first_seen": "2026-09-30",
    "comments": 0,
    "unverified": true,
+   "comments_held": 0,
+   "comment_share": 0.0,
+   "dominant": false
+  },
+  {
+   "id": "cMIExsfd7m4",
+   "title": "Hawaii Farm Grows Food Under Solar Panels (And It Actually Works)",
+   "channel": "Here in Hawaii",
+   "published": "2025-12-16",
+   "url": "https://www.youtube.com/watch?v=cMIExsfd7m4",
+   "topics": [
+    "solar_siting"
+   ],
+   "counties": [],
+   "states": [
+    "Hawaii"
+   ],
+   "towns": [],
+   "local_because": [
+    "state named"
+   ],
+   "elsewhere": true,
+   "found_by": [
+    "national"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-18",
+   "comments": 0,
+   "matched_on": {
+    "phrase": "solar farm",
+    "in": "description"
+   },
    "comments_held": 0,
    "comment_share": 0.0,
    "dominant": false
